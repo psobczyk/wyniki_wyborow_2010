@@ -6,3 +6,5 @@ nazwy.txt
 *.*~
 *.pdf
 *.png
+.Rproj.user
+*.Rproj
