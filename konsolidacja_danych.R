@@ -30,6 +30,9 @@ for(i in 1:n) {
 
 dane <- cbind(dane, wyniki)
 colnames(dane)[10:16] <- c("SLD", "PSL", "PPP","PO", "PIS", "NOP", "PR")
+colnames(dane)[1:9] <- c("Teryt", "wojewodztwo", " kodgminy", "gmina",
+                         "typ",  "obwod", "wyborcy", "oddane", "wazne")
+colnames(dane) <- tolower(colnames(dane))
 summary(dane)
 write.csv(dane, "wyniki_mazowsze.csv")
 
