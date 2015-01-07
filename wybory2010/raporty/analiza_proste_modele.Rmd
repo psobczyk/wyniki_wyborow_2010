@@ -1,0 +1,83 @@
+---
+title: "Analiza prostymi modelami"
+author: "Piotr Sobczyk"
+date: "23.12.2014"
+output: html_document
+---
+
+Przetestujemy czy da się zbudować sensowny model poparcia partii w komisjach
+wyborczych na podstawie kilku zmiennych objaśniających. Nie bierzemy, na tym
+etapie, pod uwagę wielu, potencjalnie istotnych, zmiennych zależnych. Nie
+będziemy się też starali wybiągać daleko idących wniosków. Jest to kolejna
+próba ,,przybliżenia" sobie danych.
+
+```{r}
+library(dplyr)
+dane <- read.csv("wyniki_mazowsze.csv", row.names = 1, header = T)
+dane_mazowsze <- do.call("rbind", rep(list(dane[,1:9]), 4))
+dane_mazowsze[["partia"]] <- rep(colnames(dane)[c(11,13,14,10)], each = nrow(dane))
+dane_mazowsze[["wynik"]] <- unlist(dane[,c(11,13,14,10)])
+```
+
+Usuńmy nieistotne zmienne i dodajmy frekwencję oraz proceny głosów nieważnych.
+Bierzemy tylko komisje o więcej niż 1000 wyborców, żeby nie zaśmiecać
+naszego modelu małymi komisjami.
+
+```{r}
+dane_mazowsze <- dane_mazowsze %>%
+  filter(wyborcy > 1000) %>%
+  mutate(frekwencja = 100*oddane/wyborcy,
+         niewazne = 100*(1-wazne/oddane)) %>%
+  select(gmina, typ, frekwencja, niewazne, partia, wynik)
+```
+
+Na początek z grubej rury. Dajemy gminę bez interakcji ze względów obliczeniowych.
+Żeby sensownie uwzględnić geografię trzeba by nieco ograniczyć liczbę zmiennych,
+np. do powiatów.
+
+```{r}
+model_calosc <- lm(wynik~partia*frekwencja*niewazne*typ+gmina*partia, data = dane_mazowsze)
+summary(model_calosc)
+```
+$R^2$ jest całkiem przyzwoite. Model jest mało przydatny, trochę za dużo zmiennych.
+
+```
+model_bic = step(model_calosc, k = log(ncol(dane_mazowsze)))
+summary(model_bic)
+```
+
+Wynik trzeba zinterpretować. Weźmy komisję obwodową, która jest wiejska, ma frekwencję
+50% i procent głosów nieważnych 10 oraz taką o tej samej frekwencji, ale większej liczbie
+głosów nieważnych - 20. Jak zmienia się przewidywane poparcie dla partii?
+
+```{r}
+przyklad <- dane_mazowsze[1206:1208, ,drop=F]
+przyklad$frekwencja <- rep(50, 3)
+przyklad$niewazne <- seq(10, 20, 5)
+predict(model_bic, przyklad)
+```
+Rozważmy trochę mniejszy model
+```{r}
+model_calosc2 <- lm(wynik~.^2, data = dane_mazowsze[,-1])
+summary(model_calosc2)
+```
+Czy teraz widać zmianę poparcia ze względu na zmianę procenta głosów nieważnych?
+```{r}
+przyklad <- dane_mazowsze[1106:1108, -1,drop=F]
+przyklad$frekwencja <- rep(50, 3)
+przyklad$niewazne <- seq(10, 20, 5)
+predict(model_calosc2, przyklad)
+```
+A dla innych partii?
+```{r}
+przyklad$partia <- "pis"
+predict(model_calosc2, przyklad)
+przyklad$partia <- "po"
+predict(model_calosc2, przyklad)
+przyklad$partia <- "sld"
+predict(model_calosc2, przyklad)
+```
+
+1. Jak rozumieć to, że model z większą liczbą parametrów nie był w stanie tej różnicy wyłapać?
+2. Czy niskie $R^2$ w drugim modelu upoważnia nas do wydawania sądów na temat prawdziwego modelu?
+3. Czy wyniki wyjdą lepsze jeśli zamiast wpływu gminy damy wpływ okręgu (czyli kandydatów)?
