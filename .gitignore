@@ -10,3 +10,6 @@ nazwy.txt
 *.png
 .Rproj.user
 *.Rproj
+tmp
+temp
+temp2

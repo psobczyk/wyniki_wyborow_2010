@@ -1,0 +1,3669 @@
+02, 01, 01, 1, Bolesławiec 
+02, 01, 02, 2, Bolesławiec 
+02, 01, 03, 2, Gromadka 
+02, 01, 04, 3, Nowogrodziec 
+02, 01, 04, 4, Nowogrodziec miasto 
+02, 01, 04, 5, Nowogrodziec obszar wiejski 
+02, 01, 05, 2, Osiecznica 
+02, 01, 06, 2, Warta Bolesławiecka 
+02, 02, 01, 1, Bielawa 
+02, 02, 02, 1, Dzierżoniów 
+02, 02, 03, 1, Pieszyce 
+02, 02, 04, 1, Piława Górna 
+02, 02, 05, 2, Dzierżoniów 
+02, 02, 06, 2, Łagiewniki 
+02, 02, 07, 3, Niemcza 
+02, 02, 07, 4, Niemcza miasto 
+02, 02, 07, 5, Niemcza obszar wiejski 
+02, 03, 01, 1, Głogów 
+02, 03, 02, 2, Głogów 
+02, 03, 03, 2, Jerzmanowa 
+02, 03, 04, 2, Kotla 
+02, 03, 05, 2, Pęcław 
+02, 03, 06, 2, Żukowice 
+02, 04, 01, 3, Góra 
+02, 04, 01, 4, Góra miasto 
+02, 04, 01, 5, Góra obszar wiejski 
+02, 04, 02, 2, Jemielno 
+02, 04, 03, 2, Niechlów 
+02, 04, 04, 3, Wąsosz 
+02, 04, 04, 4, Wąsosz miasto 
+02, 04, 04, 5, Wąsosz obszar wiejski 
+02, 05, 01, 1, Jawor 
+02, 05, 02, 3, Bolków 
+02, 05, 02, 4, Bolków miasto 
+02, 05, 02, 5, Bolków obszar wiejski 
+02, 05, 03, 2, Męcinka 
+02, 05, 04, 2, Mściwojów 
+02, 05, 05, 2, Paszowice 
+02, 05, 06, 2, Wądroże Wielkie 
+02, 06, 01, 1, Karpacz 
+02, 06, 02, 1, Kowary 
+02, 06, 03, 1, Piechowice 
+02, 06, 04, 1, Szklarska Poręba 
+02, 06, 05, 2, Janowice Wielkie 
+02, 06, 06, 2, Jeżów Sudecki 
+02, 06, 07, 2, Mysłakowice 
+02, 06, 08, 2, Podgórzyn 
+02, 06, 09, 2, Stara Kamienica 
+02, 07, 01, 1, Kamienna Góra 
+02, 07, 02, 2, Kamienna Góra 
+02, 07, 03, 3, Lubawka 
+02, 07, 03, 4, Lubawka miasto 
+02, 07, 03, 5, Lubawka obszar wiejski 
+02, 07, 04, 2, Marciszów 
+02, 08, 01, 1, Duszniki-Zdrój 
+02, 08, 02, 1, Kłodzko 
+02, 08, 03, 1, Kudowa-Zdrój 
+02, 08, 04, 1, Nowa Ruda 
+02, 08, 05, 1, Polanica-Zdrój 
+02, 08, 06, 3, Bystrzyca Kłodzka 
+02, 08, 06, 4, Bystrzyca Kłodzka miasto 
+02, 08, 06, 5, Bystrzyca Kłodzka obszar wiejski 
+02, 08, 07, 2, Kłodzko 
+02, 08, 08, 3, Lądek-Zdrój 
+02, 08, 08, 4, Lądek-Zdrój miasto 
+02, 08, 08, 5, Lądek-Zdrój obszar wiejski 
+02, 08, 09, 2, Lewin Kłodzki 
+02, 08, 10, 3, Międzylesie 
+02, 08, 10, 4, Międzylesie miasto 
+02, 08, 10, 5, Międzylesie obszar wiejski 
+02, 08, 11, 2, Nowa Ruda 
+02, 08, 12, 3, Radków 
+02, 08, 12, 4, Radków miasto 
+02, 08, 12, 5, Radków obszar wiejski 
+02, 08, 13, 3, Stronie Śląskie 
+02, 08, 13, 4, Stronie Śląskie miasto 
+02, 08, 13, 5, Stronie Śląskie obszar wiejski 
+02, 08, 14, 3, Szczytna 
+02, 08, 14, 4, Szczytna miasto 
+02, 08, 14, 5, Szczytna obszar wiejski 
+02, 09, 01, 1, Chojnów 
+02, 09, 02, 2, Chojnów 
+02, 09, 03, 2, Krotoszyce 
+02, 09, 04, 2, Kunice 
+02, 09, 05, 2, Legnickie Pole 
+02, 09, 06, 2, Miłkowice 
+02, 09, 07, 3, Prochowice 
+02, 09, 07, 4, Prochowice miasto 
+02, 09, 07, 5, Prochowice obszar wiejski 
+02, 09, 08, 2, Ruja 
+02, 10, 01, 1, Lubań 
+02, 10, 02, 1, Świeradów-Zdrój 
+02, 10, 03, 3, Leśna 
+02, 10, 03, 4, Leśna miasto 
+02, 10, 03, 5, Leśna obszar wiejski 
+02, 10, 04, 2, Lubań 
+02, 10, 05, 2, Olszyna 
+02, 10, 06, 2, Platerówka 
+02, 10, 07, 2, Siekierczyn 
+02, 11, 01, 1, Lubin 
+02, 11, 02, 2, Lubin 
+02, 11, 03, 2, Rudna 
+02, 11, 04, 3, Ścinawa 
+02, 11, 04, 4, Ścinawa miasto 
+02, 11, 04, 5, Ścinawa obszar wiejski 
+02, 12, 01, 3, Gryfów Śląski 
+02, 12, 01, 4, Gryfów Śląski miasto 
+02, 12, 01, 5, Gryfów Śląski obszar wiejski 
+02, 12, 02, 3, Lubomierz 
+02, 12, 02, 4, Lubomierz miasto 
+02, 12, 02, 5, Lubomierz obszar wiejski 
+02, 12, 03, 3, Lwówek Śląski 
+02, 12, 03, 4, Lwówek Śląski miasto 
+02, 12, 03, 5, Lwówek Śląski obszar wiejski 
+02, 12, 04, 3, Mirsk 
+02, 12, 04, 4, Mirsk miasto 
+02, 12, 04, 5, Mirsk obszar wiejski 
+02, 12, 05, 3, Wleń 
+02, 12, 05, 4, Wleń miasto 
+02, 12, 05, 5, Wleń obszar wiejski 
+02, 13, 01, 2, Cieszków 
+02, 13, 02, 2, Krośnice 
+02, 13, 03, 3, Milicz 
+02, 13, 03, 4, Milicz miasto 
+02, 13, 03, 5, Milicz obszar wiejski 
+02, 14, 01, 1, Oleśnica 
+02, 14, 02, 3, Bierutów 
+02, 14, 02, 4, Bierutów miasto 
+02, 14, 02, 5, Bierutów obszar wiejski 
+02, 14, 03, 2, Dobroszyce 
+02, 14, 04, 2, Dziadowa Kłoda 
+02, 14, 05, 3, Międzybórz 
+02, 14, 05, 4, Międzybórz miasto 
+02, 14, 05, 5, Międzybórz obszar wiejski 
+02, 14, 06, 2, Oleśnica 
+02, 14, 07, 3, Syców 
+02, 14, 07, 4, Syców miasto 
+02, 14, 07, 5, Syców obszar wiejski 
+02, 14, 08, 3, Twardogóra 
+02, 14, 08, 4, Twardogóra miasto 
+02, 14, 08, 5, Twardogóra obszar wiejski 
+02, 15, 01, 1, Oława 
+02, 15, 02, 2, Domaniów 
+02, 15, 03, 3, Jelcz-Laskowice 
+02, 15, 03, 4, Jelcz-Laskowice miasto 
+02, 15, 03, 5, Jelcz-Laskowice obszar wiejski 
+02, 15, 04, 2, Oława 
+02, 16, 01, 3, Chocianów 
+02, 16, 01, 4, Chocianów miasto 
+02, 16, 01, 5, Chocianów obszar wiejski 
+02, 16, 02, 2, Gaworzyce 
+02, 16, 03, 2, Grębocice 
+02, 16, 04, 3, Polkowice 
+02, 16, 04, 4, Polkowice miasto 
+02, 16, 04, 5, Polkowice obszar wiejski 
+02, 16, 05, 3, Przemków 
+02, 16, 05, 4, Przemków miasto 
+02, 16, 05, 5, Przemków obszar wiejski 
+02, 16, 06, 2, Radwanice 
+02, 17, 01, 2, Borów 
+02, 17, 02, 2, Kondratowice 
+02, 17, 03, 2, Przeworno 
+02, 17, 04, 3, Strzelin 
+02, 17, 04, 4, Strzelin miasto 
+02, 17, 04, 5, Strzelin obszar wiejski 
+02, 17, 05, 3, Wiązów 
+02, 17, 05, 4, Wiązów miasto 
+02, 17, 05, 5, Wiązów obszar wiejski 
+02, 18, 01, 2, Kostomłoty 
+02, 18, 02, 2, Malczyce 
+02, 18, 03, 2, Miękinia 
+02, 18, 04, 3, Środa Śląska 
+02, 18, 04, 4, Środa Śląska miasto 
+02, 18, 04, 5, Środa Śląska obszar wiejski 
+02, 18, 05, 2, Udanin 
+02, 19, 01, 1, Świdnica 
+02, 19, 02, 1, Świebodzice 
+02, 19, 03, 2, Dobromierz 
+02, 19, 04, 3, Jaworzyna Śląska 
+02, 19, 04, 4, Jaworzyna Śląska miasto 
+02, 19, 04, 5, Jaworzyna Śląska obszar wiejski 
+02, 19, 05, 2, Marcinowice 
+02, 19, 06, 3, Strzegom 
+02, 19, 06, 4, Strzegom miasto 
+02, 19, 06, 5, Strzegom obszar wiejski 
+02, 19, 07, 2, Świdnica 
+02, 19, 08, 3, Żarów 
+02, 19, 08, 4, Żarów miasto 
+02, 19, 08, 5, Żarów obszar wiejski 
+02, 20, 01, 3, Oborniki Śląskie 
+02, 20, 01, 4, Oborniki Śląskie miasto 
+02, 20, 01, 5, Oborniki Śląskie obszar wiejski 
+02, 20, 02, 3, Prusice 
+02, 20, 02, 4, Prusice miasto 
+02, 20, 02, 5, Prusice obszar wiejski 
+02, 20, 03, 3, Trzebnica 
+02, 20, 03, 4, Trzebnica miasto 
+02, 20, 03, 5, Trzebnica obszar wiejski 
+02, 20, 04, 2, Wisznia Mała 
+02, 20, 05, 2, Zawonia 
+02, 20, 06, 3, Żmigród 
+02, 20, 06, 4, Żmigród miasto 
+02, 20, 06, 5, Żmigród obszar wiejski 
+02, 21, 01, 1, Boguszów-Gorce 
+02, 21, 02, 1, Jedlina-Zdrój 
+02, 21, 03, 1, Szczawno-Zdrój 
+02, 21, 09, 1, Wałbrzych 
+02, 21, 04, 2, Czarny Bór 
+02, 21, 05, 3, Głuszyca 
+02, 21, 05, 4, Głuszyca miasto 
+02, 21, 05, 5, Głuszyca obszar wiejski 
+02, 21, 06, 3, Mieroszów 
+02, 21, 06, 4, Mieroszów miasto 
+02, 21, 06, 5, Mieroszów obszar wiejski 
+02, 21, 07, 2, Stare Bogaczowice 
+02, 21, 08, 2, Walim 
+02, 22, 01, 3, Brzeg Dolny 
+02, 22, 01, 4, Brzeg Dolny miasto 
+02, 22, 01, 5, Brzeg Dolny obszar wiejski 
+02, 22, 02, 2, Wińsko 
+02, 22, 03, 3, Wołów 
+02, 22, 03, 4, Wołów miasto 
+02, 22, 03, 5, Wołów obszar wiejski 
+02, 23, 01, 2, Czernica 
+02, 23, 02, 2, Długołęka 
+02, 23, 03, 2, Jordanów Śląski 
+02, 23, 04, 3, Kąty Wrocławskie 
+02, 23, 04, 4, Kąty Wrocławskie miasto 
+02, 23, 04, 5, Kąty Wrocławskie obszar wiejski 
+02, 23, 05, 2, Kobierzyce 
+02, 23, 06, 2, Mietków 
+02, 23, 07, 3, Sobótka 
+02, 23, 07, 4, Sobótka miasto 
+02, 23, 07, 5, Sobótka obszar wiejski 
+02, 23, 08, 3, Święta Katarzyna 
+02, 23, 08, 4, Siechnice miasto 
+02, 23, 08, 5, Święta Katarzyna obszar wiejski 
+02, 23, 09, 2, Żórawina 
+02, 24, 01, 3, Bardo 
+02, 24, 01, 4, Bardo miasto 
+02, 24, 01, 5, Bardo obszar wiejski 
+02, 24, 02, 2, Ciepłowody 
+02, 24, 03, 2, Kamieniec Ząbkowicki 
+02, 24, 04, 2, Stoszowice 
+02, 24, 05, 3, Ząbkowice Śląskie 
+02, 24, 05, 4, Ząbkowice Śląskie miasto 
+02, 24, 05, 5, Ząbkowice Śląskie obszar wiejski 
+02, 24, 06, 3, Ziębice 
+02, 24, 06, 4, Ziębice miasto 
+02, 24, 06, 5, Ziębice obszar wiejski 
+02, 24, 07, 3, Złoty Stok 
+02, 24, 07, 4, Złoty Stok miasto 
+02, 24, 07, 5, Złoty Stok obszar wiejski 
+02, 25, 01, 1, Zawidów 
+02, 25, 02, 1, Zgorzelec 
+02, 25, 03, 3, Bogatynia 
+02, 25, 03, 4, Bogatynia miasto 
+02, 25, 03, 5, Bogatynia obszar wiejski 
+02, 25, 04, 3, Pieńsk 
+02, 25, 04, 4, Pieńsk miasto 
+02, 25, 04, 5, Pieńsk obszar wiejski 
+02, 25, 05, 2, Sulików 
+02, 25, 06, 3, Węgliniec 
+02, 25, 06, 4, Węgliniec miasto 
+02, 25, 06, 5, Węgliniec obszar wiejski 
+02, 25, 07, 2, Zgorzelec 
+02, 26, 01, 1, Wojcieszów 
+02, 26, 02, 1, Złotoryja 
+02, 26, 03, 2, Pielgrzymka 
+02, 26, 04, 3, Świerzawa 
+02, 26, 04, 4, Świerzawa miasto 
+02, 26, 04, 5, Świerzawa obszar wiejski 
+02, 26, 05, 2, Zagrodno 
+02, 26, 06, 2, Złotoryja 
+02, 61, 01, 1, M. Jelenia Góra  
+02, 62, 01, 1, M. Legnica  
+02, 64, 01, 1, M. Wrocław  
+02, 64, 02, 9, Wrocław-Fabryczna  
+02, 64, 03, 9, Wrocław-Krzyki   
+02, 64, 04, 9, Wrocław-Psie Pole  
+02, 64, 05, 9, Wrocław-Stare Miasto   
+02, 64, 06, 9, Wrocław-Śródmieście 
+04, 01, 01, 1, Aleksandrów Kujawski   
+04, 01, 02, 1, Ciechocinek 
+04, 01, 03, 1, Nieszawa  
+04, 01, 04, 2, Aleksandrów Kujawski   
+04, 01, 05, 2, Bądkowo 
+04, 01, 06, 2, Koneck 
+04, 01, 07, 2, Raciążek 
+04, 01, 08, 2, Waganiec 
+04, 01, 09, 2, Zakrzewo 
+04, 02, 01, 1, Brodnica 
+04, 02, 02, 2, Bobrowo 
+04, 02, 03, 2, Brodnica 
+04, 02, 04, 2, Brzozie 
+04, 02, 05, 3, Górzno 
+04, 02, 05, 4, Górzno miasto 
+04, 02, 05, 5, Górzno obszar wiejski 
+04, 02, 06, 2, Grążawy 
+04, 02, 07, 3, Jabłonowo Pomorskie 
+04, 02, 07, 4, Jabłonowo Pomorskie miasto 
+04, 02, 07, 5, Jabłonowo Pomorskie obszar wiejski 
+04, 02, 08, 2, Osiek 
+04, 02, 09, 2, Świedziebnia 
+04, 02, 10, 2, Zbiczno 
+04, 03, 01, 2, Białe Błota 
+04, 03, 02, 2, Dąbrowa Chełmińska 
+04, 03, 03, 2, Dobrcz 
+04, 03, 04, 3, Koronowo 
+04, 03, 04, 4, Koronowo miasto 
+04, 03, 04, 5, Koronowo obszar wiejski 
+04, 03, 05, 2, Nowa Wieś Wielka 
+04, 03, 06, 2, Osielsko 
+04, 03, 07, 2, Sicienko 
+04, 03, 08, 3, Solec Kujawski 
+04, 03, 08, 4, Solec Kujawski miasto 
+04, 03, 08, 5, Solec Kujawski obszar wiejski 
+04, 04, 01, 1, Chełmno 
+04, 04, 02, 2, Chełmno 
+04, 04, 03, 2, Kijewo Królewskie 
+04, 04, 04, 2, Lisewo 
+04, 04, 05, 2, Papowo Biskupie 
+04, 04, 06, 2, Stolno 
+04, 04, 07, 2, Unisław 
+04, 05, 01, 1, Golub-Dobrzyń 
+04, 05, 02, 2, Ciechocin 
+04, 05, 03, 2, Golub-Dobrzyń 
+04, 05, 04, 3, Kowalewo Pomorskie 
+04, 05, 04, 4, Kowalewo Pomorskie miasto 
+04, 05, 04, 5, Kowalewo Pomorskie obszar wiejski 
+04, 05, 05, 2, Radomin 
+04, 05, 06, 2, Zbójno 
+04, 06, 01, 2, Grudziądz 
+04, 06, 02, 2, Gruta 
+04, 06, 03, 3, Łasin 
+04, 06, 03, 4, Łasin miasto 
+04, 06, 03, 5, Łasin obszar wiejski 
+04, 06, 04, 3, Radzyń Chełmiński 
+04, 06, 04, 4, Radzyń Chełmiński miasto 
+04, 06, 04, 5, Radzyń Chełmiński obszar wiejski 
+04, 06, 05, 2, Rogóźno 
+04, 06, 06, 2, Świecie nad Osą 
+04, 07, 01, 1, Inowrocław 
+04, 07, 02, 2, Dąbrowa Biskupia 
+04, 07, 03, 3, Gniewkowo 
+04, 07, 03, 4, Gniewkowo miasto 
+04, 07, 03, 5, Gniewkowo obszar wiejski 
+04, 07, 04, 2, Inowrocław 
+04, 07, 05, 3, Janikowo 
+04, 07, 05, 4, Janikowo miasto 
+04, 07, 05, 5, Janikowo obszar wiejski 
+04, 07, 06, 3, Kruszwica 
+04, 07, 06, 4, Kruszwica miasto 
+04, 07, 06, 5, Kruszwica obszar wiejski 
+04, 07, 07, 3, Pakość 
+04, 07, 07, 4, Pakość miasto 
+04, 07, 07, 5, Pakość obszar wiejski 
+04, 07, 08, 2, Rojewo 
+04, 07, 09, 2, Złotniki Kujawskie 
+04, 08, 01, 1, Lipno 
+04, 08, 02, 2, Bobrowniki 
+04, 08, 03, 2, Chrostkowo 
+04, 08, 04, 3, Dobrzyń nad Wisłą 
+04, 08, 04, 4, Dobrzyń nad Wisłą miasto 
+04, 08, 04, 5, Dobrzyń nad Wisłą obszar wiejski 
+04, 08, 05, 2, Kikół 
+04, 08, 06, 2, Lipno 
+04, 08, 07, 3, Skępe 
+04, 08, 07, 4, Skępe miasto 
+04, 08, 07, 5, Skępe obszar wiejski 
+04, 08, 08, 2, Tłuchowo 
+04, 08, 09, 2, Wielgie 
+04, 09, 01, 2, Dąbrowa 
+04, 09, 02, 2, Jeziora Wielkie 
+04, 09, 03, 3, Mogilno 
+04, 09, 03, 4, Mogilno miasto 
+04, 09, 03, 5, Mogilno obszar wiejski 
+04, 09, 04, 3, Strzelno 
+04, 09, 04, 4, Strzelno miasto 
+04, 09, 04, 5, Strzelno obszar wiejski 
+04, 10, 01, 3, Kcynia 
+04, 10, 01, 4, Kcynia miasto 
+04, 10, 01, 5, Kcynia obszar wiejski 
+04, 10, 02, 3, Mrocza 
+04, 10, 02, 4, Mrocza miasto 
+04, 10, 02, 5, Mrocza obszar wiejski 
+04, 10, 03, 3, Nakło nad Notecią 
+04, 10, 03, 4, Nakło nad Notecią miasto 
+04, 10, 03, 5, Nakło nad Notecią obszar wiejski 
+04, 10, 04, 2, Sadki 
+04, 10, 05, 3, Szubin 
+04, 10, 05, 4, Szubin miasto 
+04, 10, 05, 5, Szubin obszar wiejski 
+04, 11, 01, 1, Radziejów 
+04, 11, 02, 2, Bytoń 
+04, 11, 03, 2, Dobre 
+04, 11, 04, 2, Osięciny 
+04, 11, 05, 3, Piotrków Kujawski 
+04, 11, 05, 4, Piotrków Kujawski miasto 
+04, 11, 05, 5, Piotrków Kujawski obszar wiejski 
+04, 11, 06, 2, Radziejów 
+04, 11, 07, 2, Topólka 
+04, 12, 01, 1, Rypin 
+04, 12, 02, 2, Brzuze 
+04, 12, 03, 2, Rogowo 
+04, 12, 04, 2, Rypin 
+04, 12, 05, 2, Skrwilno 
+04, 12, 06, 2, Wąpielsk 
+04, 13, 01, 3, Kamień Krajeński 
+04, 13, 01, 4, Kamień Krajeński miasto 
+04, 13, 01, 5, Kamień Krajeński obszar wiejski 
+04, 13, 02, 3, Sępólno Krajeńskie 
+04, 13, 02, 4, Sępólno Krajeńskie miasto 
+04, 13, 02, 5, Sępólno Krajeńskie obszar wiejski 
+04, 13, 03, 2, Sośno 
+04, 13, 04, 3, Więcbork 
+04, 13, 04, 4, Więcbork miasto 
+04, 13, 04, 5, Więcbork obszar wiejski 
+04, 14, 01, 2, Bukowiec 
+04, 14, 02, 2, Dragacz 
+04, 14, 03, 2, Drzycim 
+04, 14, 04, 2, Jeżewo 
+04, 14, 05, 2, Lniano 
+04, 14, 06, 3, Nowe 
+04, 14, 06, 4, Nowe miasto 
+04, 14, 06, 5, Nowe obszar wiejski 
+04, 14, 07, 2, Osie 
+04, 14, 08, 2, Pruszcz 
+04, 14, 09, 3, Świecie 
+04, 14, 09, 4, Świecie miasto 
+04, 14, 09, 5, Świecie obszar wiejski 
+04, 14, 10, 2, Świekatowo 
+04, 14, 11, 2, Warlubie 
+04, 15, 01, 1, Chełmża   
+04, 15, 02, 2, Chełmża   
+04, 15, 03, 2, Czernikowo  
+04, 15, 04, 2, Lubicz 
+04, 15, 05, 2, Łubianka  
+04, 15, 06, 2, Łysomice  
+04, 15, 07, 2, Obrowo 
+04, 15, 08, 2, Wielka Nieszawka 
+04, 15, 09, 2, Zławieś Wielka   
+04, 16, 01, 2, Cekcyn 
+04, 16, 02, 2, Gostycyn  
+04, 16, 03, 2, Kęsowo 
+04, 16, 04, 2, Lubiewo   
+04, 16, 05, 2, Śliwice   
+04, 16, 06, 3, Tuchola 
+04, 16, 06, 4, Tuchola miasto 
+04, 16, 06, 5, Tuchola obszar wiejski 
+04, 17, 01, 1, Wąbrzeźno 
+04, 17, 02, 2, Dębowa Łąka 
+04, 17, 03, 2, Książki 
+04, 17, 04, 2, Płużnica 
+04, 17, 05, 2, Wąbrzeźno 
+04, 18, 01, 1, Kowal 
+04, 18, 02, 2, Baruchowo 
+04, 18, 03, 2, Boniewo 
+04, 18, 04, 3, Brześć Kujawski 
+04, 18, 04, 4, Brześć Kujawski miasto 
+04, 18, 04, 5, Brześć Kujawski obszar wiejski 
+04, 18, 05, 2, Choceń 
+04, 18, 06, 3, Chodecz 
+04, 18, 06, 4, Chodecz miasto 
+04, 18, 06, 5, Chodecz obszar wiejski 
+04, 18, 07, 2, Fabianki 
+04, 18, 08, 3, Izbica Kujawska 
+04, 18, 08, 4, Izbica Kujawska miasto 
+04, 18, 08, 5, Izbica Kujawska obszar wiejski 
+04, 18, 09, 2, Kowal 
+04, 18, 10, 2, Lubanie 
+04, 18, 11, 3, Lubień Kujawski 
+04, 18, 11, 4, Lubień Kujawski miasto 
+04, 18, 11, 5, Lubień Kujawski obszar wiejski 
+04, 18, 12, 3, Lubraniec 
+04, 18, 12, 4, Lubraniec miasto 
+04, 18, 12, 5, Lubraniec obszar wiejski 
+04, 18, 13, 2, Włocławek 
+04, 19, 01, 3, Barcin 
+04, 19, 01, 4, Barcin miasto 
+04, 19, 01, 5, Barcin obszar wiejski 
+04, 19, 02, 2, Gąsawa 
+04, 19, 03, 3, Janowiec Wielkopolski 
+04, 19, 03, 4, Janowiec Wielkopolski miasto 
+04, 19, 03, 5, Janowiec Wielkopolski obszar wiejski 
+04, 19, 04, 3, Łabiszyn 
+04, 19, 04, 4, Łabiszyn miasto 
+04, 19, 04, 5, Łabiszyn obszar wiejski 
+04, 19, 05, 2, Rogowo 
+04, 19, 06, 3, Żnin 
+04, 19, 06, 4, Żnin miasto 
+04, 19, 06, 5, Żnin obszar wiejski 
+04, 61, 01, 1, M. Bydgoszcz  
+04, 62, 01, 1, M. Grudziądz  
+04, 63, 01, 1, M. Toruń  
+04, 64, 01, 1, M. Włocławek  
+06, 01, 01, 1, Międzyrzec Podlaski 
+06, 01, 02, 1, Terespol  
+06, 01, 03, 2, Biała Podlaska   
+06, 01, 04, 2, Drelów 
+06, 01, 05, 2, Janów Podlaski   
+06, 01, 06, 2, Kodeń 
+06, 01, 07, 2, Konstantynów  
+06, 01, 08, 2, Leśna Podlaska   
+06, 01, 09, 2, Łomazy 
+06, 01, 10, 2, Międzyrzec Podlaski 
+06, 01, 11, 2, Piszczac  
+06, 01, 12, 2, Rokitno   
+06, 01, 13, 2, Rossosz   
+06, 01, 14, 2, Sławatycze  
+06, 01, 15, 2, Sosnówka  
+06, 01, 16, 2, Terespol  
+06, 01, 17, 2, Tuczna 
+06, 01, 18, 2, Wisznice  
+06, 01, 19, 2, Zalesie   
+06, 02, 01, 1, Biłgoraj  
+06, 02, 02, 2, Aleksandrów 
+06, 02, 03, 2, Biłgoraj 
+06, 02, 04, 2, Biszcza 
+06, 02, 05, 3, Frampol 
+06, 02, 05, 4, Frampol miasto 
+06, 02, 05, 5, Frampol obszar wiejski 
+06, 02, 06, 2, Goraj 
+06, 02, 07, 3, Józefów 
+06, 02, 07, 4, Józefów miasto 
+06, 02, 07, 5, Józefów obszar wiejski 
+06, 02, 08, 2, Księżpol 
+06, 02, 09, 2, Łukowa 
+06, 02, 10, 2, Obsza 
+06, 02, 11, 2, Potok Górny 
+06, 02, 12, 3, Tarnogród 
+06, 02, 12, 4, Tarnogród miasto 
+06, 02, 12, 5, Tarnogród obszar wiejski 
+06, 02, 13, 2, Tereszpol 
+06, 02, 14, 2, Turobin   
+06, 03, 01, 1, Rejowiec Fabryczny 
+06, 03, 02, 2, Białopole 
+06, 03, 03, 2, Chełm 
+06, 03, 04, 2, Dorohusk  
+06, 03, 05, 2, Dubienka  
+06, 03, 06, 2, Kamień 
+06, 03, 07, 2, Leśniowice  
+06, 03, 08, 2, Rejowiec Fabryczny 
+06, 03, 09, 2, Ruda-Huta 
+06, 03, 10, 2, Sawin 
+06, 03, 11, 2, Siedliszcze 
+06, 03, 12, 2, Wierzbica 
+06, 03, 13, 2, Wojsławice  
+06, 03, 14, 2, Żmudź 
+06, 04, 01, 1, Hrubieszów  
+06, 04, 02, 2, Dołhobyczów 
+06, 04, 03, 2, Horodło   
+06, 04, 04, 2, Hrubieszów  
+06, 04, 05, 2, Mircze 
+06, 04, 06, 2, Trzeszczany 
+06, 04, 07, 2, Uchanie   
+06, 04, 08, 2, Werbkowice  
+06, 05, 01, 2, Batorz 
+06, 05, 02, 2, Chrzanów  
+06, 05, 03, 2, Dzwola 
+06, 05, 04, 2, Godziszów 
+06, 05, 05, 3, Janów Lubelski   
+06, 05, 05, 4, Janów Lubelski miasto 
+06, 05, 05, 5, Janów Lubelski obszar wiejski 
+06, 05, 06, 2, Modliborzyce 
+06, 05, 07, 2, Potok Wielki 
+06, 06, 01, 1, Krasnystaw 
+06, 06, 02, 2, Fajsławice 
+06, 06, 03, 2, Gorzków 
+06, 06, 04, 2, Izbica 
+06, 06, 05, 2, Krasnystaw 
+06, 06, 06, 2, Kraśniczyn 
+06, 06, 07, 2, Łopiennik Górny 
+06, 06, 08, 2, Rejowiec 
+06, 06, 09, 2, Rudnik 
+06, 06, 10, 2, Siennica Różana 
+06, 06, 11, 2, Żółkiewka 
+06, 07, 01, 1, Kraśnik 
+06, 07, 02, 3, Annopol 
+06, 07, 02, 4, Annopol miasto 
+06, 07, 02, 5, Annopol obszar wiejski 
+06, 07, 03, 2, Dzierzkowice 
+06, 07, 04, 2, Gościeradów 
+06, 07, 05, 2, Kraśnik 
+06, 07, 06, 2, Szastarka 
+06, 07, 07, 2, Trzydnik Duży 
+06, 07, 08, 2, Urzędów 
+06, 07, 09, 2, Wilkołaz 
+06, 07, 10, 2, Zakrzówek 
+06, 08, 01, 1, Lubartów 
+06, 08, 02, 2, Abramów 
+06, 08, 03, 2, Firlej 
+06, 08, 04, 2, Jeziorzany 
+06, 08, 05, 2, Kamionka 
+06, 08, 06, 3, Kock 
+06, 08, 06, 4, Kock miasto 
+06, 08, 06, 5, Kock obszar wiejski 
+06, 08, 07, 2, Lubartów 
+06, 08, 08, 2, Michów 
+06, 08, 09, 2, Niedźwiada 
+06, 08, 10, 3, Ostrów Lubelski 
+06, 08, 10, 4, Ostrów Lubelski miasto 
+06, 08, 10, 5, Ostrów Lubelski obszar wiejski 
+06, 08, 11, 2, Ostrówek 
+06, 08, 12, 2, Serniki 
+06, 08, 13, 2, Uścimów 
+06, 09, 01, 3, Bełżyce 
+06, 09, 01, 4, Bełżyce miasto 
+06, 09, 01, 5, Bełżyce obszar wiejski 
+06, 09, 02, 2, Borzechów 
+06, 09, 03, 3, Bychawa 
+06, 09, 03, 4, Bychawa miasto 
+06, 09, 03, 5, Bychawa obszar wiejski 
+06, 09, 04, 2, Garbów 
+06, 09, 05, 2, Głusk 
+06, 09, 06, 2, Jabłonna 
+06, 09, 07, 2, Jastków 
+06, 09, 08, 2, Konopnica 
+06, 09, 09, 2, Krzczonów 
+06, 09, 10, 2, Niedrzwica Duża 
+06, 09, 11, 2, Niemce 
+06, 09, 12, 2, Strzyżewice 
+06, 09, 13, 2, Wojciechów 
+06, 09, 14, 2, Wólka 
+06, 09, 15, 2, Wysokie 
+06, 09, 16, 2, Zakrzew 
+06, 10, 01, 2, Cyców 
+06, 10, 02, 2, Ludwin 
+06, 10, 03, 3, Łęczna 
+06, 10, 03, 4, Łęczna miasto 
+06, 10, 03, 5, Łęczna obszar wiejski 
+06, 10, 04, 2, Milejów 
+06, 10, 05, 2, Puchaczów 
+06, 10, 06, 2, Spiczyn 
+06, 11, 01, 1, Łuków 
+06, 11, 02, 1, Stoczek Łukowski 
+06, 11, 03, 2, Adamów 
+06, 11, 04, 2, Krzywda 
+06, 11, 05, 2, Łuków 
+06, 11, 06, 2, Serokomla 
+06, 11, 07, 2, Stanin 
+06, 11, 08, 2, Stoczek Łukowski 
+06, 11, 09, 2, Trzebieszów 
+06, 11, 10, 2, Wojcieszków 
+06, 11, 11, 2, Wola Mysłowska 
+06, 12, 01, 2, Chodel 
+06, 12, 02, 2, Józefów 
+06, 12, 03, 2, Karczmiska 
+06, 12, 04, 2, Łaziska 
+06, 12, 05, 3, Opole Lubelskie 
+06, 12, 05, 4, Opole Lubelskie miasto 
+06, 12, 05, 5, Opole Lubelskie obszar wiejski 
+06, 12, 06, 3, Poniatowa 
+06, 12, 06, 4, Poniatowa miasto 
+06, 12, 06, 5, Poniatowa obszar wiejski 
+06, 12, 07, 2, Wilków 
+06, 13, 01, 2, Dębowa Kłoda 
+06, 13, 02, 2, Jabłoń 
+06, 13, 03, 2, Milanów 
+06, 13, 04, 3, Parczew 
+06, 13, 04, 4, Parczew miasto 
+06, 13, 04, 5, Parczew obszar wiejski 
+06, 13, 05, 2, Podedwórze 
+06, 13, 06, 2, Siemień 
+06, 13, 07, 2, Sosnowica 
+06, 14, 01, 1, Puławy 
+06, 14, 02, 2, Baranów 
+06, 14, 03, 2, Janowiec 
+06, 14, 04, 3, Kazimierz Dolny 
+06, 14, 04, 4, Kazimierz Dolny miasto 
+06, 14, 04, 5, Kazimierz Dolny obszar wiejski 
+06, 14, 05, 2, Końskowola 
+06, 14, 06, 2, Kurów 
+06, 14, 07, 2, Markuszów 
+06, 14, 08, 3, Nałęczów 
+06, 14, 08, 4, Nałęczów miasto 
+06, 14, 08, 5, Nałęczów obszar wiejski 
+06, 14, 09, 2, Puławy 
+06, 14, 10, 2, Wąwolnica 
+06, 14, 11, 2, Żyrzyn 
+06, 15, 01, 1, Radzyń Podlaski 
+06, 15, 02, 2, Borki 
+06, 15, 03, 2, Czemierniki 
+06, 15, 04, 2, Kąkolewnica Wschodnia 
+06, 15, 05, 2, Komarówka Podlaska 
+06, 15, 06, 2, Radzyń Podlaski 
+06, 15, 07, 2, Ulan-Majorat 
+06, 15, 08, 2, Wohyń 
+06, 16, 01, 1, Dęblin 
+06, 16, 02, 2, Kłoczew 
+06, 16, 03, 2, Nowodwór 
+06, 16, 04, 3, Ryki 
+06, 16, 04, 4, Ryki miasto 
+06, 16, 04, 5, Ryki obszar wiejski 
+06, 16, 05, 2, Stężyca 
+06, 16, 06, 2, Ułęż 
+06, 17, 01, 1, Świdnik 
+06, 17, 02, 2, Mełgiew 
+06, 17, 03, 3, Piaski 
+06, 17, 03, 4, Piaski miasto 
+06, 17, 03, 5, Piaski obszar wiejski 
+06, 17, 04, 2, Rybczewice 
+06, 17, 05, 2, Trawniki 
+06, 18, 01, 1, Tomaszów Lubelski 
+06, 18, 02, 2, Bełżec 
+06, 18, 03, 2, Jarczów 
+06, 18, 04, 2, Krynice 
+06, 18, 05, 2, Lubycza Królewska 
+06, 18, 06, 2, Łaszczów 
+06, 18, 07, 2, Rachanie 
+06, 18, 08, 2, Susiec 
+06, 18, 09, 2, Tarnawatka 
+06, 18, 10, 2, Telatyn 
+06, 18, 11, 2, Tomaszów Lubelski 
+06, 18, 12, 3, Tyszowce 
+06, 18, 12, 4, Tyszowce miasto 
+06, 18, 12, 5, Tyszowce obszar wiejski 
+06, 18, 13, 2, Ulhówek 
+06, 19, 01, 1, Włodawa 
+06, 19, 02, 2, Hanna 
+06, 19, 03, 2, Hańsk 
+06, 19, 04, 2, Stary Brus 
+06, 19, 05, 2, Urszulin 
+06, 19, 06, 2, Włodawa 
+06, 19, 07, 2, Wola Uhruska 
+06, 19, 08, 2, Wyryki 
+06, 20, 01, 2, Adamów 
+06, 20, 02, 2, Grabowiec 
+06, 20, 03, 2, Komarów-Osada 
+06, 20, 04, 3, Krasnobród 
+06, 20, 04, 4, Krasnobród miasto 
+06, 20, 04, 5, Krasnobród obszar wiejski 
+06, 20, 05, 2, Łabunie 
+06, 20, 06, 2, Miączyn 
+06, 20, 07, 2, Nielisz 
+06, 20, 08, 2, Radecznica 
+06, 20, 09, 2, Sitno 
+06, 20, 10, 2, Skierbieszów 
+06, 20, 11, 2, Stary Zamość 
+06, 20, 12, 2, Sułów 
+06, 20, 13, 3, Szczebrzeszyn 
+06, 20, 13, 4, Szczebrzeszyn miasto 
+06, 20, 13, 5, Szczebrzeszyn obszar wiejski 
+06, 20, 14, 2, Zamość 
+06, 20, 15, 3, Zwierzyniec 
+06, 20, 15, 4, Zwierzyniec miasto 
+06, 20, 15, 5, Zwierzyniec obszar wiejski 
+06, 61, 01, 1, M. Biała Podlaska 
+06, 62, 01, 1, M. Chełm 
+06, 63, 01, 1, M. Lublin 
+06, 64, 01, 1, M. Zamość 
+08, 01, 01, 1, Kostrzyn 
+08, 01, 02, 2, Bogdaniec 
+08, 01, 03, 2, Deszczno 
+08, 01, 04, 2, Kłodawa 
+08, 01, 05, 2, Lubiszyn 
+08, 01, 06, 2, Santok 
+08, 01, 07, 3, Witnica 
+08, 01, 07, 4, Witnica miasto 
+08, 01, 07, 5, Witnica obszar wiejski 
+08, 02, 01, 1, Gubin 
+08, 02, 02, 2, Bobrowice 
+08, 02, 03, 2, Bytnica 
+08, 02, 04, 2, Dąbie 
+08, 02, 05, 2, Gubin 
+08, 02, 06, 3, Krosno Odrzańskie 
+08, 02, 06, 4, Krosno Odrzańskie miasto 
+08, 02, 06, 5, Krosno Odrzańskie obszar wiejski 
+08, 02, 07, 2, Maszewo 
+08, 03, 01, 2, Bledzew 
+08, 03, 02, 3, Międzyrzecz 
+08, 03, 02, 4, Międzyrzecz miasto 
+08, 03, 02, 5, Międzyrzecz obszar wiejski 
+08, 03, 03, 2, Przytoczna 
+08, 03, 04, 2, Pszczew 
+08, 03, 05, 3, Skwierzyna 
+08, 03, 05, 4, Skwierzyna miasto 
+08, 03, 05, 5, Skwierzyna obszar wiejski 
+08, 03, 06, 3, Trzciel 
+08, 03, 06, 4, Trzciel miasto 
+08, 03, 06, 5, Trzciel obszar wiejski 
+08, 04, 01, 1, Nowa Sól 
+08, 04, 02, 3, Bytom Odrzański 
+08, 04, 02, 4, Bytom Odrzański miasto 
+08, 04, 02, 5, Bytom Odrzański obszar wiejski 
+08, 04, 03, 2, Kolsko 
+08, 04, 04, 3, Kożuchów 
+08, 04, 04, 4, Kożuchów miasto 
+08, 04, 04, 5, Kożuchów obszar wiejski 
+08, 04, 05, 2, Nowa Sól 
+08, 04, 06, 3, Nowe Miasteczko 
+08, 04, 06, 4, Nowe Miasteczko miasto 
+08, 04, 06, 5, Nowe Miasteczko obszar wiejski 
+08, 04, 07, 2, Otyń 
+08, 04, 08, 2, Siedlisko 
+08, 05, 01, 3, Cybinka 
+08, 05, 01, 4, Cybinka miasto 
+08, 05, 01, 5, Cybinka obszar wiejski 
+08, 05, 02, 2, Górzyca 
+08, 05, 03, 3, Ośno Lubuskie 
+08, 05, 03, 4, Ośno Lubuskie miasto 
+08, 05, 03, 5, Ośno Lubuskie obszar wiejski 
+08, 05, 04, 3, Rzepin 
+08, 05, 04, 4, Rzepin miasto 
+08, 05, 04, 5, Rzepin obszar wiejski 
+08, 05, 05, 3, Słubice 
+08, 05, 05, 4, Słubice miasto 
+08, 05, 05, 5, Słubice obszar wiejski 
+08, 06, 01, 3, Dobiegniew 
+08, 06, 01, 4, Dobiegniew miasto 
+08, 06, 01, 5, Dobiegniew obszar wiejski 
+08, 06, 02, 3, Drezdenko 
+08, 06, 02, 4, Drezdenko miasto 
+08, 06, 02, 5, Drezdenko obszar wiejski 
+08, 06, 03, 2, Stare Kurowo 
+08, 06, 04, 3, Strzelce Krajeńskie 
+08, 06, 04, 4, Strzelce Krajeńskie miasto 
+08, 06, 04, 5, Strzelce Krajeńskie obszar wiejski 
+08, 06, 05, 2, Zwierzyn 
+08, 07, 01, 2, Krzeszyce 
+08, 07, 02, 3, Lubniewice 
+08, 07, 02, 4, Lubniewice miasto 
+08, 07, 02, 5, Lubniewice obszar wiejski 
+08, 07, 03, 2, Słońsk 
+08, 07, 04, 3, Sulęcin 
+08, 07, 04, 4, Sulęcin miasto 
+08, 07, 04, 5, Sulęcin obszar wiejski 
+08, 07, 05, 3, Torzym 
+08, 07, 05, 4, Torzym miasto 
+08, 07, 05, 5, Torzym obszar wiejski 
+08, 08, 01, 2, Lubrza 
+08, 08, 02, 2, Łagów 
+08, 08, 03, 2, Skąpe 
+08, 08, 04, 2, Szczaniec 
+08, 08, 05, 3, Świebodzin 
+08, 08, 05, 4, Świebodzin miasto 
+08, 08, 05, 5, Świebodzin obszar wiejski 
+08, 08, 06, 3, Zbąszynek 
+08, 08, 06, 4, Zbąszynek miasto 
+08, 08, 06, 5, Zbąszynek obszar wiejski 
+08, 12, 01, 3, Sława 
+08, 12, 01, 4, Sława miasto 
+08, 12, 01, 5, Sława obszar wiejski 
+08, 12, 02, 3, Szlichtyngowa 
+08, 12, 02, 4, Szlichtyngowa miasto 
+08, 12, 02, 5, Szlichtyngowa obszar wiejski 
+08, 12, 03, 3, Wschowa 
+08, 12, 03, 4, Wschowa miasto 
+08, 12, 03, 5, Wschowa obszar wiejski 
+08, 09, 01, 3, Babimost 
+08, 09, 01, 4, Babimost miasto 
+08, 09, 01, 5, Babimost obszar wiejski 
+08, 09, 02, 2, Bojadła 
+08, 09, 03, 3, Czerwieńsk 
+08, 09, 03, 4, Czerwieńsk miasto 
+08, 09, 03, 5, Czerwieńsk obszar wiejski 
+08, 09, 04, 3, Kargowa 
+08, 09, 04, 4, Kargowa miasto 
+08, 09, 04, 5, Kargowa obszar wiejski 
+08, 09, 05, 3, Nowogród Bobrzański 
+08, 09, 05, 4, Nowogród Bobrzański miasto 
+08, 09, 05, 5, Nowogród Bobrzański obszar wiejski 
+08, 09, 06, 3, Sulechów 
+08, 09, 06, 4, Sulechów miasto 
+08, 09, 06, 5, Sulechów obszar wiejski 
+08, 09, 07, 2, Świdnica 
+08, 09, 08, 2, Trzebiechów 
+08, 09, 09, 2, Zabór 
+08, 09, 10, 2, Zielona Góra 
+08, 10, 01, 1, Gozdnica 
+08, 10, 02, 1, Żagań 
+08, 10, 03, 2, Brzeźnica 
+08, 10, 04, 3, Iłowa 
+08, 10, 04, 4, Iłowa miasto 
+08, 10, 04, 5, Iłowa obszar wiejski 
+08, 10, 05, 3, Małomice 
+08, 10, 05, 4, Małomice miasto 
+08, 10, 05, 5, Małomice obszar wiejski 
+08, 10, 06, 2, Niegosławice 
+08, 10, 07, 3, Szprotawa 
+08, 10, 07, 4, Szprotawa miasto 
+08, 10, 07, 5, Szprotawa obszar wiejski 
+08, 10, 08, 2, Wymiarki 
+08, 10, 09, 2, Żagań 
+08, 11, 01, 1, Łęknica 
+08, 11, 02, 1, Żary 
+08, 11, 03, 2, Brody 
+08, 11, 04, 3, Jasień 
+08, 11, 04, 4, Jasień miasto 
+08, 11, 04, 5, Jasień obszar wiejski 
+08, 11, 05, 2, Lipinki Łużyckie 
+08, 11, 06, 3, Lubsko 
+08, 11, 06, 4, Lubsko miasto 
+08, 11, 06, 5, Lubsko obszar wiejski 
+08, 11, 07, 2, Przewóz 
+08, 11, 08, 2, Trzebiel 
+08, 11, 09, 2, Tuplice 
+08, 11, 10, 2, Żary 
+08, 61, 01, 1, M. Gorzów Wielkopolski 
+08, 62, 01, 1, M. Zielona Góra 
+10, 01, 01, 1, Bełchatów 
+10, 01, 02, 2, Bełchatów 
+10, 01, 03, 2, Drużbice 
+10, 01, 04, 2, Kleszczów 
+10, 01, 05, 2, Kluki 
+10, 01, 06, 2, Rusiec 
+10, 01, 07, 2, Szczerców 
+10, 01, 08, 3, Zelów 
+10, 01, 08, 4, Zelów miasto 
+10, 01, 08, 5, Zelów obszar wiejski 
+10, 21, 01, 1, Brzeziny 
+10, 21, 02, 2, Brzeziny 
+10, 21, 03, 2, Dmosin 
+10, 21, 04, 2, Jeżów 
+10, 21, 05, 2, Rogów 
+10, 02, 01, 1, Kutno 
+10, 02, 02, 2, Bedlno 
+10, 02, 03, 2, Dąbrowice 
+10, 02, 04, 3, Krośniewice 
+10, 02, 04, 4, Krośniewice miasto 
+10, 02, 04, 5, Krośniewice obszar wiejski 
+10, 02, 05, 2, Krzyżanów 
+10, 02, 06, 2, Kutno 
+10, 02, 07, 2, Łanięta 
+10, 02, 08, 2, Nowe Ostrowy 
+10, 02, 09, 2, Oporów 
+10, 02, 10, 2, Strzelce 
+10, 02, 11, 3, Żychlin 
+10, 02, 11, 4, Żychlin miasto 
+10, 02, 11, 5, Żychlin obszar wiejski 
+10, 03, 01, 2, Buczek 
+10, 03, 02, 3, Łask 
+10, 03, 02, 4, Łask miasto 
+10, 03, 02, 5, Łask obszar wiejski 
+10, 03, 03, 2, Sędziejowice 
+10, 03, 04, 2, Widawa 
+10, 03, 05, 2, Wodzierady 
+10, 04, 01, 1, Łęczyca 
+10, 04, 02, 2, Daszyna   
+10, 04, 03, 2, Góra Świętej Małgorzaty  
+10, 04, 04, 2, Grabów 
+10, 04, 05, 2, Łęczyca   
+10, 04, 06, 2, Piątek 
+10, 04, 07, 2, Świnice Warckie  
+10, 04, 08, 2, Witonia   
+10, 05, 01, 1, Łowicz 
+10, 05, 02, 2, Bielawy   
+10, 05, 03, 2, Chąśno 
+10, 05, 04, 2, Domaniewice 
+10, 05, 05, 2, Kiernozia 
+10, 05, 06, 2, Kocierzew Południowy   
+10, 05, 07, 2, Łowicz 
+10, 05, 08, 2, Łyszkowice  
+10, 05, 09, 2, Nieborów 
+10, 05, 10, 2, Zduny 
+10, 06, 02, 2, Andrespol 
+10, 06, 03, 2, Brójce 
+10, 06, 07, 3, Koluszki 
+10, 06, 07, 4, Koluszki miasto 
+10, 06, 07, 5, Koluszki obszar wiejski 
+10, 06, 08, 2, Nowosolna 
+10, 06, 10, 2, Rzgów 
+10, 06, 11, 3, Tuszyn 
+10, 06, 11, 4, Tuszyn miasto 
+10, 06, 11, 5, Tuszyn obszar wiejski 
+10, 07, 01, 2, Białaczów 
+10, 07, 02, 3, Drzewica 
+10, 07, 02, 4, Drzewica miasto 
+10, 07, 02, 5, Drzewica obszar wiejski 
+10, 07, 03, 2, Mniszków 
+10, 07, 04, 3, Opoczno 
+10, 07, 04, 4, Opoczno miasto 
+10, 07, 04, 5, Opoczno obszar wiejski 
+10, 07, 05, 2, Paradyż 
+10, 07, 06, 2, Poświętne 
+10, 07, 07, 2, Sławno 
+10, 07, 08, 2, Żarnów 
+10, 08, 01, 1, Konstantynów Łódzki 
+10, 08, 02, 1, Pabianice 
+10, 08, 03, 2, Dłutów 
+10, 08, 04, 2, Dobroń 
+10, 08, 05, 2, Ksawerów 
+10, 08, 06, 2, Lutomiersk 
+10, 08, 07, 2, Pabianice 
+10, 09, 01, 3, Działoszyn 
+10, 09, 01, 4, Działoszyn miasto 
+10, 09, 01, 5, Działoszyn obszar wiejski 
+10, 09, 02, 2, Kiełczygłów 
+10, 09, 03, 2, Nowa Brzeźnica 
+10, 09, 04, 3, Pajęczno 
+10, 09, 04, 4, Pajęczno miasto 
+10, 09, 04, 5, Pajęczno obszar wiejski 
+10, 09, 05, 2, Rząśnia 
+10, 09, 06, 2, Siemkowice 
+10, 09, 07, 2, Strzelce Wielkie 
+10, 09, 08, 2, Sulmierzyce 
+10, 10, 01, 2, Aleksandrów 
+10, 10, 02, 2, Czarnocin 
+10, 10, 03, 2, Gorzkowice 
+10, 10, 04, 2, Grabica 
+10, 10, 05, 2, Łęki Szlacheckie 
+10, 10, 06, 2, Moszczenica 
+10, 10, 07, 2, Ręczno 
+10, 10, 08, 2, Rozprza 
+10, 10, 09, 3, Sulejów 
+10, 10, 09, 4, Sulejów miasto 
+10, 10, 09, 5, Sulejów obszar wiejski 
+10, 10, 10, 2, Wola Krzysztoporska 
+10, 10, 11, 2, Wolbórz 
+10, 11, 01, 2, Dalików 
+10, 11, 02, 2, Pęczniew 
+10, 11, 03, 3, Poddębice 
+10, 11, 03, 4, Poddębice miasto 
+10, 11, 03, 5, Poddębice obszar wiejski 
+10, 11, 04, 3, Uniejów 
+10, 11, 04, 4, Uniejów miasto 
+10, 11, 04, 5, Uniejów obszar wiejski 
+10, 11, 05, 2, Wartkowice 
+10, 11, 06, 2, Zadzim 
+10, 12, 01, 1, Radomsko 
+10, 12, 02, 2, Dobryszyce 
+10, 12, 03, 2, Gidle 
+10, 12, 04, 2, Gomunice 
+10, 12, 05, 3, Kamieńsk 
+10, 12, 05, 4, Kamieńsk miasto 
+10, 12, 05, 5, Kamieńsk obszar wiejski 
+10, 12, 06, 2, Kobiele Wielkie 
+10, 12, 07, 2, Kodrąb 
+10, 12, 08, 2, Lgota Wielka 
+10, 12, 09, 2, Ładzice 
+10, 12, 10, 2, Masłowice 
+10, 12, 11, 3, Przedbórz 
+10, 12, 11, 4, Przedbórz miasto 
+10, 12, 11, 5, Przedbórz obszar wiejski 
+10, 12, 12, 2, Radomsko 
+10, 12, 13, 2, Wielgomłyny 
+10, 12, 14, 2, Żytno 
+10, 13, 01, 1, Rawa Mazowiecka 
+10, 13, 02, 3, Biała Rawska 
+10, 13, 02, 4, Biała Rawska miasto 
+10, 13, 02, 5, Biała Rawska obszar wiejski 
+10, 13, 03, 2, Cielądz 
+10, 13, 04, 2, Rawa Mazowiecka 
+10, 13, 05, 2, Regnów 
+10, 13, 06, 2, Sadkowice 
+10, 14, 01, 1, Sieradz 
+10, 14, 02, 3, Błaszki 
+10, 14, 02, 4, Błaszki miasto 
+10, 14, 02, 5, Błaszki obszar wiejski 
+10, 14, 03, 2, Brąszewice 
+10, 14, 04, 2, Brzeźnio 
+10, 14, 05, 2, Burzenin 
+10, 14, 06, 2, Goszczanów 
+10, 14, 07, 2, Klonowa 
+10, 14, 08, 2, Sieradz 
+10, 14, 09, 3, Warta 
+10, 14, 09, 4, Warta miasto 
+10, 14, 09, 5, Warta obszar wiejski 
+10, 14, 10, 2, Wróblew 
+10, 14, 11, 3, Złoczew 
+10, 14, 11, 4, Złoczew miasto 
+10, 14, 11, 5, Złoczew obszar wiejski 
+10, 15, 01, 2, Bolimów 
+10, 15, 02, 2, Głuchów 
+10, 15, 03, 2, Godzianów 
+10, 15, 04, 2, Kowiesy 
+10, 15, 05, 2, Lipce Reymontowskie 
+10, 15, 06, 2, Maków 
+10, 15, 07, 2, Nowy Kawęczyn 
+10, 15, 08, 2, Skierniewice 
+10, 15, 09, 2, Słupia 
+10, 16, 01, 1, Tomaszów Mazowiecki 
+10, 16, 02, 2, Będków 
+10, 16, 03, 2, Budziszewice  
+10, 16, 04, 2, Czerniewice 
+10, 16, 05, 2, Inowłódz  
+10, 16, 06, 2, Lubochnia 
+10, 16, 07, 2, Rokiciny  
+10, 16, 08, 2, Rzeczyca  
+10, 16, 09, 2, Tomaszów Mazowiecki 
+10, 16, 10, 2, Ujazd 
+10, 16, 11, 2, Żelechlinek 
+10, 17, 01, 2, Biała 
+10, 17, 02, 2, Czarnożyły  
+10, 17, 03, 2, Konopnica 
+10, 17, 04, 2, Mokrsko 
+10, 17, 05, 2, Osjaków 
+10, 17, 06, 2, Ostrówek 
+10, 17, 07, 2, Pątnów 
+10, 17, 08, 2, Skomlin 
+10, 17, 09, 3, Wieluń 
+10, 17, 09, 4, Wieluń miasto 
+10, 17, 09, 5, Wieluń obszar wiejski 
+10, 17, 10, 2, Wierzchlas 
+10, 18, 01, 2, Bolesławiec 
+10, 18, 02, 2, Czastary 
+10, 18, 03, 2, Galewice 
+10, 18, 04, 2, Lututów 
+10, 18, 05, 2, Łubnice 
+10, 18, 06, 2, Sokolniki 
+10, 18, 07, 3, Wieruszów 
+10, 18, 07, 4, Wieruszów miasto 
+10, 18, 07, 5, Wieruszów obszar wiejski 
+10, 19, 01, 1, Zduńska Wola 
+10, 19, 02, 3, Szadek 
+10, 19, 02, 4, Szadek miasto 
+10, 19, 02, 5, Szadek obszar wiejski 
+10, 19, 03, 2, Zapolice 
+10, 19, 04, 2, Zduńska Wola 
+10, 20, 01, 1, Głowno 
+10, 20, 02, 1, Ozorków 
+10, 20, 03, 1, Zgierz 
+10, 20, 04, 3, Aleksandrów Łódzki 
+10, 20, 04, 4, Aleksandrów Łódzki miasto 
+10, 20, 04, 5, Aleksandrów Łódzki obszar wiejski 
+10, 20, 05, 2, Głowno 
+10, 20, 06, 2, Ozorków 
+10, 20, 07, 2, Parzęczew 
+10, 20, 08, 3, Stryków 
+10, 20, 08, 4, Stryków miasto 
+10, 20, 08, 5, Stryków obszar wiejski 
+10, 20, 09, 2, Zgierz 
+10, 61, 01, 1, M. Łódź 
+10, 61, 02, 9, Łódź-Bałuty 
+10, 61, 03, 9, Łódź-Górna 
+10, 61, 04, 9, Łódź-Polesie 
+10, 61, 05, 9, Łódź-Śródmieście 
+10, 61, 06, 9, Łódź-Widzew 
+10, 62, 01, 1, M. Piotrków Trybunalski 
+10, 63, 01, 1, M. Skierniewice 
+12, 01, 01, 1, Bochnia 
+12, 01, 02, 2, Bochnia 
+12, 01, 03, 2, Drwinia 
+12, 01, 04, 2, Lipnica Murowana 
+12, 01, 05, 2, Łapanów 
+12, 01, 06, 3, Nowy Wiśnicz 
+12, 01, 06, 4, Nowy Wiśnicz miasto 
+12, 01, 06, 5, Nowy Wiśnicz obszar wiejski 
+12, 01, 07, 2, Rzezawa 
+12, 01, 08, 2, Trzciana 
+12, 01, 09, 2, Żegocina 
+12, 02, 01, 2, Borzęcin 
+12, 02, 02, 3, Brzesko 
+12, 02, 02, 4, Brzesko miasto 
+12, 02, 02, 5, Brzesko obszar wiejski 
+12, 02, 03, 3, Czchów 
+12, 02, 03, 4, Czchów miasto 
+12, 02, 03, 5, Czchów obszar wiejski 
+12, 02, 04, 2, Dębno 
+12, 02, 05, 2, Gnojnik 
+12, 02, 06, 2, Iwkowa 
+12, 02, 07, 2, Szczurowa 
+12, 03, 01, 3, Alwernia 
+12, 03, 01, 4, Alwernia miasto 
+12, 03, 01, 5, Alwernia obszar wiejski 
+12, 03, 02, 2, Babice 
+12, 03, 03, 3, Chrzanów 
+12, 03, 03, 4, Chrzanów miasto 
+12, 03, 03, 5, Chrzanów obszar wiejski 
+12, 03, 04, 3, Libiąż 
+12, 03, 04, 4, Libiąż miasto 
+12, 03, 04, 5, Libiąż obszar wiejski 
+12, 03, 05, 3, Trzebinia 
+12, 03, 05, 4, Trzebinia miasto 
+12, 03, 05, 5, Trzebinia obszar wiejski 
+12, 04, 01, 2, Bolesław 
+12, 04, 02, 3, Dąbrowa Tarnowska 
+12, 04, 02, 4, Dąbrowa Tarnowska miasto 
+12, 04, 02, 5, Dąbrowa Tarnowska obszar wiejski 
+12, 04, 03, 2, Gręboszów 
+12, 04, 04, 2, Mędrzechów 
+12, 04, 05, 2, Olesno 
+12, 04, 06, 2, Radgoszcz 
+12, 04, 07, 2, Szczucin 
+12, 05, 01, 1, Gorlice 
+12, 05, 02, 3, Biecz 
+12, 05, 02, 4, Biecz miasto 
+12, 05, 02, 5, Biecz obszar wiejski 
+12, 05, 03, 2, Bobowa 
+12, 05, 04, 2, Gorlice 
+12, 05, 05, 2, Lipinki 
+12, 05, 06, 2, Łużna 
+12, 05, 07, 2, Moszczenica 
+12, 05, 08, 2, Ropa 
+12, 05, 09, 2, Sękowa 
+12, 05, 10, 2, Uście Gorlickie 
+12, 06, 01, 2, Czernichów 
+12, 06, 02, 2, Igołomia-Wawrzeńczyce 
+12, 06, 03, 2, Iwanowice 
+12, 06, 04, 2, Jerzmanowice-Przeginia 
+12, 06, 05, 2, Kocmyrzów-Luborzyca 
+12, 06, 06, 3, Krzeszowice 
+12, 06, 06, 4, Krzeszowice miasto 
+12, 06, 06, 5, Krzeszowice obszar wiejski 
+12, 06, 07, 2, Liszki 
+12, 06, 08, 2, Michałowice 
+12, 06, 09, 2, Mogilany 
+12, 06, 10, 3, Skała 
+12, 06, 10, 4, Skała miasto 
+12, 06, 10, 5, Skała obszar wiejski 
+12, 06, 11, 3, Skawina 
+12, 06, 11, 4, Skawina miasto 
+12, 06, 11, 5, Skawina obszar wiejski 
+12, 06, 12, 3, Słomniki 
+12, 06, 12, 4, Słomniki miasto 
+12, 06, 12, 5, Słomniki obszar wiejski 
+12, 06, 13, 2, Sułoszowa 
+12, 06, 14, 3, Świątniki Górne 
+12, 06, 14, 4, Świątniki Górne miasto 
+12, 06, 14, 5, Świątniki Górne obszar wiejski 
+12, 06, 15, 2, Wielka Wieś 
+12, 06, 16, 2, Zabierzów 
+12, 06, 17, 2, Zielonki 
+12, 07, 01, 1, Limanowa 
+12, 07, 02, 1, Mszana Dolna 
+12, 07, 03, 2, Dobra 
+12, 07, 04, 2, Jodłownik 
+12, 07, 05, 2, Kamienica 
+12, 07, 06, 2, Laskowa   
+12, 07, 07, 2, Limanowa  
+12, 07, 08, 2, Łukowica  
+12, 07, 09, 2, Mszana Dolna  
+12, 07, 10, 2, Niedźwiedź  
+12, 07, 11, 2, Słopnice  
+12, 07, 12, 2, Tymbark   
+12, 08, 01, 2, Charsznica  
+12, 08, 02, 2, Gołcza 
+12, 08, 03, 2, Kozłów 
+12, 08, 04, 2, Książ Wielki  
+12, 08, 05, 3, Miechów   
+12, 08, 05, 4, Miechów miasto 
+12, 08, 05, 5, Miechów obszar wiejski 
+12, 08, 06, 2, Racławice 
+12, 08, 07, 2, Słaboszów 
+12, 09, 01, 3, Dobczyce 
+12, 09, 01, 4, Dobczyce miasto 
+12, 09, 01, 5, Dobczyce obszar wiejski 
+12, 09, 02, 2, Lubień 
+12, 09, 03, 3, Myślenice 
+12, 09, 03, 4, Myślenice miasto 
+12, 09, 03, 5, Myślenice obszar wiejski 
+12, 09, 04, 2, Pcim 
+12, 09, 05, 2, Raciechowice 
+12, 09, 06, 2, Siepraw 
+12, 09, 07, 3, Sułkowice 
+12, 09, 07, 4, Sułkowice miasto 
+12, 09, 07, 5, Sułkowice obszar wiejski 
+12, 09, 08, 2, Tokarnia 
+12, 09, 09, 2, Wiśniowa 
+12, 10, 01, 1, Grybów 
+12, 10, 02, 2, Chełmiec 
+12, 10, 03, 2, Gródek nad Dunajcem 
+12, 10, 04, 2, Grybów 
+12, 10, 05, 2, Kamionka Wielka 
+12, 10, 06, 2, Korzenna 
+12, 10, 07, 3, Krynica-Zdrój 
+12, 10, 07, 4, Krynica-Zdrój miasto 
+12, 10, 07, 5, Krynica-Zdrój obszar wiejski 
+12, 10, 08, 2, Łabowa 
+12, 10, 09, 2, Łącko 
+12, 10, 10, 2, Łososina Dolna 
+12, 10, 11, 3, Muszyna 
+12, 10, 11, 4, Muszyna miasto 
+12, 10, 11, 5, Muszyna obszar wiejski 
+12, 10, 12, 2, Nawojowa 
+12, 10, 13, 3, Piwniczna-Zdrój 
+12, 10, 13, 4, Piwniczna-Zdrój miasto 
+12, 10, 13, 5, Piwniczna-Zdrój obszar wiejski 
+12, 10, 14, 2, Podegrodzie 
+12, 10, 15, 2, Rytro 
+12, 10, 16, 3, Stary Sącz 
+12, 10, 16, 4, Stary Sącz miasto 
+12, 10, 16, 5, Stary Sącz obszar wiejski 
+12, 11, 01, 1, Nowy Targ 
+12, 11, 02, 1, Szczawnica 
+12, 11, 03, 2, Czarny Dunajec 
+12, 11, 04, 2, Czorsztyn 
+12, 11, 05, 2, Jabłonka 
+12, 11, 06, 2, Krościenko nad Dunajcem 
+12, 11, 07, 2, Lipnica Wielka 
+12, 11, 08, 2, Łapsze Niżne 
+12, 11, 09, 2, Nowy Targ 
+12, 11, 10, 2, Ochotnica Dolna 
+12, 11, 11, 2, Raba Wyżna 
+12, 11, 12, 3, Rabka-Zdrój 
+12, 11, 12, 4, Rabka-Zdrój miasto 
+12, 11, 12, 5, Rabka-Zdrój obszar wiejski 
+12, 11, 13, 2, Spytkowice 
+12, 11, 14, 2, Szaflary 
+12, 12, 01, 1, Bukowno 
+12, 12, 03, 2, Bolesław 
+12, 12, 04, 2, Klucze 
+12, 12, 05, 3, Olkusz 
+12, 12, 05, 4, Olkusz miasto 
+12, 12, 05, 5, Olkusz obszar wiejski 
+12, 12, 06, 2, Trzyciąż 
+12, 12, 07, 3, Wolbrom 
+12, 12, 07, 4, Wolbrom miasto 
+12, 12, 07, 5, Wolbrom obszar wiejski 
+12, 13, 01, 1, Oświęcim 
+12, 13, 02, 3, Brzeszcze 
+12, 13, 02, 4, Brzeszcze miasto 
+12, 13, 02, 5, Brzeszcze obszar wiejski 
+12, 13, 03, 3, Chełmek 
+12, 13, 03, 4, Chełmek miasto 
+12, 13, 03, 5, Chełmek obszar wiejski 
+12, 13, 04, 3, Kęty 
+12, 13, 04, 4, Kęty miasto 
+12, 13, 04, 5, Kęty obszar wiejski 
+12, 13, 05, 2, Osiek 
+12, 13, 06, 2, Oświęcim 
+12, 13, 07, 2, Polanka Wielka 
+12, 13, 08, 2, Przeciszów 
+12, 13, 09, 3, Zator 
+12, 13, 09, 4, Zator miasto 
+12, 13, 09, 5, Zator obszar wiejski 
+12, 14, 01, 2, Koniusza 
+12, 14, 02, 2, Koszyce 
+12, 14, 03, 2, Nowe Brzesko 
+12, 14, 04, 2, Pałecznica 
+12, 14, 05, 3, Proszowice 
+12, 14, 05, 4, Proszowice miasto 
+12, 14, 05, 5, Proszowice obszar wiejski 
+12, 14, 06, 2, Radziemice 
+12, 15, 01, 1, Jordanów 
+12, 15, 02, 1, Sucha Beskidzka 
+12, 15, 03, 2, Budzów 
+12, 15, 04, 2, Bystra-Sidzina 
+12, 15, 05, 2, Jordanów 
+12, 15, 06, 3, Maków Podhalański 
+12, 15, 06, 4, Maków Podhalański miasto 
+12, 15, 06, 5, Maków Podhalański obszar wiejski 
+12, 15, 07, 2, Stryszawa 
+12, 15, 08, 2, Zawoja 
+12, 15, 09, 2, Zembrzyce 
+12, 16, 01, 3, Ciężkowice 
+12, 16, 01, 4, Ciężkowice miasto 
+12, 16, 01, 5, Ciężkowice obszar wiejski 
+12, 16, 02, 2, Gromnik 
+12, 16, 03, 2, Lisia Góra 
+12, 16, 04, 2, Pleśna 
+12, 16, 05, 2, Radłów 
+12, 16, 06, 3, Ryglice 
+12, 16, 06, 4, Ryglice miasto 
+12, 16, 06, 5, Ryglice obszar wiejski 
+12, 16, 07, 2, Rzepiennik Strzyżewski 
+12, 16, 08, 2, Skrzyszów 
+12, 16, 16, 2, Szerzyny 
+12, 16, 09, 2, Tarnów 
+12, 16, 10, 3, Tuchów 
+12, 16, 10, 4, Tuchów miasto 
+12, 16, 10, 5, Tuchów obszar wiejski 
+12, 16, 11, 2, Wierzchosławice 
+12, 16, 12, 2, Wietrzychowice 
+12, 16, 13, 2, Wojnicz 
+12, 16, 14, 2, Zakliczyn 
+12, 16, 15, 3, Żabno 
+12, 16, 15, 4, Żabno miasto 
+12, 16, 15, 5, Żabno obszar wiejski 
+12, 17, 01, 1, Zakopane 
+12, 17, 02, 2, Biały Dunajec 
+12, 17, 03, 2, Bukowina Tatrzańska 
+12, 17, 04, 2, Kościelisko 
+12, 17, 05, 2, Poronin 
+12, 18, 01, 3, Andrychów 
+12, 18, 01, 4, Andrychów miasto 
+12, 18, 01, 5, Andrychów obszar wiejski 
+12, 18, 02, 2, Brzeźnica 
+12, 18, 03, 3, Kalwaria Zebrzydowska 
+12, 18, 03, 4, Kalwaria Zebrzydowska miasto 
+12, 18, 03, 5, Kalwaria Zebrzydowska obszar wiejski 
+12, 18, 04, 2, Lanckorona 
+12, 18, 05, 2, Mucharz 
+12, 18, 06, 2, Spytkowice 
+12, 18, 07, 2, Stryszów 
+12, 18, 08, 2, Tomice 
+12, 18, 09, 3, Wadowice 
+12, 18, 09, 4, Wadowice miasto 
+12, 18, 09, 5, Wadowice obszar wiejski 
+12, 18, 10, 2, Wieprz 
+12, 19, 01, 2, Biskupice 
+12, 19, 02, 2, Gdów 
+12, 19, 03, 2, Kłaj 
+12, 19, 04, 3, Niepołomice 
+12, 19, 04, 4, Niepołomice miasto 
+12, 19, 04, 5, Niepołomice obszar wiejski 
+12, 19, 05, 3, Wieliczka 
+12, 19, 05, 4, Wieliczka miasto 
+12, 19, 05, 5, Wieliczka obszar wiejski 
+12, 61, 01, 1, M. Kraków 
+12, 61, 02, 9, Kraków-Krowodrza 
+12, 61, 03, 9, Kraków-Nowa Huta 
+12, 61, 04, 9, Kraków-Podgórze 
+12, 61, 05, 9, Kraków-Śródmieście 
+12, 62, 01, 1, M. Nowy Sącz 
+12, 63, 01, 1, M. Tarnów 
+14, 01, 01, 3, Białobrzegi 
+14, 01, 01, 4, Białobrzegi miasto 
+14, 01, 01, 5, Białobrzegi obszar wiejski 
+14, 01, 02, 2, Promna 
+14, 01, 03, 2, Radzanów 
+14, 01, 04, 2, Stara Błotnica 
+14, 01, 05, 2, Stromiec 
+14, 01, 06, 3, Wyśmierzyce 
+14, 01, 06, 4, Wyśmierzyce miasto 
+14, 01, 06, 5, Wyśmierzyce obszar wiejski 
+14, 02, 01, 1, Ciechanów 
+14, 02, 02, 2, Ciechanów 
+14, 02, 03, 3, Glinojeck 
+14, 02, 03, 4, Glinojeck miasto 
+14, 02, 03, 5, Glinojeck obszar wiejski 
+14, 02, 04, 2, Gołymin-Ośrodek 
+14, 02, 05, 2, Grudusk 
+14, 02, 06, 2, Ojrzeń 
+14, 02, 07, 2, Opinogóra Górna 
+14, 02, 08, 2, Regimin 
+14, 02, 09, 2, Sońsk 
+14, 03, 01, 1, Garwolin 
+14, 03, 02, 1, Łaskarzew 
+14, 03, 03, 2, Borowie 
+14, 03, 04, 2, Garwolin 
+14, 03, 05, 2, Górzno 
+14, 03, 06, 2, Łaskarzew 
+14, 03, 07, 2, Maciejowice 
+14, 03, 08, 2, Miastków Kościelny 
+14, 03, 09, 2, Parysów 
+14, 03, 10, 3, Pilawa 
+14, 03, 10, 4, Pilawa miasto 
+14, 03, 10, 5, Pilawa obszar wiejski 
+14, 03, 11, 2, Sobolew 
+14, 03, 12, 2, Trojanów 
+14, 03, 13, 2, Wilga 
+14, 03, 14, 3, Żelechów 
+14, 03, 14, 4, Żelechów miasto 
+14, 03, 14, 5, Żelechów obszar wiejski 
+14, 04, 01, 1, Gostynin 
+14, 04, 02, 2, Gostynin 
+14, 04, 03, 2, Pacyna 
+14, 04, 04, 2, Sanniki 
+14, 04, 05, 2, Szczawin Kościelny 
+14, 05, 01, 1, Milanówek 
+14, 05, 02, 1, Podkowa Leśna 
+14, 05, 03, 2, Baranów 
+14, 05, 04, 3, Grodzisk Mazowiecki 
+14, 05, 04, 4, Grodzisk Mazowiecki miasto 
+14, 05, 04, 5, Grodzisk Mazowiecki obszar wiejski 
+14, 05, 05, 2, Jaktorów 
+14, 05, 06, 2, Żabia Wola 
+14, 06, 01, 2, Belsk Duży 
+14, 06, 02, 2, Błędów 
+14, 06, 03, 2, Chynów 
+14, 06, 04, 2, Goszczyn 
+14, 06, 05, 3, Grójec 
+14, 06, 05, 4, Grójec miasto 
+14, 06, 05, 5, Grójec obszar wiejski 
+14, 06, 06, 2, Jasieniec 
+14, 06, 07, 3, Mogielnica 
+14, 06, 07, 4, Mogielnica miasto 
+14, 06, 07, 5, Mogielnica obszar wiejski 
+14, 06, 08, 3, Nowe Miasto nad Pilicą 
+14, 06, 08, 4, Nowe Miasto nad Pilicą miasto 
+14, 06, 08, 5, Nowe Miasto nad Pilicą obszar wiejski 
+14, 06, 09, 2, Pniewy 
+14, 06, 11, 3, Warka 
+14, 06, 11, 4, Warka miasto 
+14, 06, 11, 5, Warka obszar wiejski 
+14, 07, 01, 2, Garbatka-Letnisko 
+14, 07, 02, 2, Głowaczów 
+14, 07, 03, 2, Gniewoszów 
+14, 07, 04, 2, Grabów nad Pilicą 
+14, 07, 05, 3, Kozienice 
+14, 07, 05, 4, Kozienice miasto 
+14, 07, 05, 5, Kozienice obszar wiejski 
+14, 07, 06, 2, Magnuszew 
+14, 07, 07, 2, Sieciechów 
+14, 08, 01, 1, Legionowo 
+14, 08, 02, 2, Jabłonna 
+14, 08, 03, 2, Nieporęt 
+14, 08, 04, 3, Serock 
+14, 08, 04, 4, Serock miasto 
+14, 08, 04, 5, Serock obszar wiejski 
+14, 08, 05, 2, Wieliszew 
+14, 09, 01, 2, Chotcza 
+14, 09, 02, 2, Ciepielów 
+14, 09, 03, 3, Lipsko 
+14, 09, 03, 4, Lipsko miasto 
+14, 09, 03, 5, Lipsko obszar wiejski 
+14, 09, 04, 2, Rzeczniów 
+14, 09, 05, 2, Sienno 
+14, 09, 06, 2, Solec nad Wisłą 
+14, 10, 01, 2, Huszlew 
+14, 10, 02, 3, Łosice 
+14, 10, 02, 4, Łosice miasto 
+14, 10, 02, 5, Łosice obszar wiejski 
+14, 10, 03, 2, Olszanka 
+14, 10, 04, 2, Platerów 
+14, 10, 05, 2, Sarnaki 
+14, 10, 06, 2, Stara Kornica 
+14, 11, 01, 1, Maków Mazowiecki 
+14, 11, 02, 2, Czerwonka 
+14, 11, 03, 2, Karniewo 
+14, 11, 04, 2, Krasnosielc 
+14, 11, 05, 2, Młynarze 
+14, 11, 06, 2, Płoniawy-Bramura 
+14, 11, 07, 3, Różan 
+14, 11, 07, 4, Różan miasto 
+14, 11, 07, 5, Różan obszar wiejski 
+14, 11, 08, 2, Rzewnie 
+14, 11, 09, 2, Sypniewo 
+14, 11, 10, 2, Szelków 
+14, 12, 01, 1, Mińsk Mazowiecki 
+14, 12, 15, 1, Sulejówek 
+14, 12, 04, 2, Cegłów 
+14, 12, 05, 2, Dębe Wielkie 
+14, 12, 06, 2, Dobre 
+14, 12, 07, 3, Halinów 
+14, 12, 07, 4, Halinów miasto 
+14, 12, 07, 5, Halinów obszar wiejski 
+14, 12, 08, 2, Jakubów 
+14, 12, 09, 3, Kałuszyn 
+14, 12, 09, 4, Kałuszyn miasto 
+14, 12, 09, 5, Kałuszyn obszar wiejski 
+14, 12, 10, 2, Latowicz 
+14, 12, 11, 2, Mińsk Mazowiecki 
+14, 12, 12, 2, Mrozy 
+14, 12, 13, 2, Siennica  
+14, 12, 14, 2, Stanisławów 
+14, 13, 01, 1, Mława 
+14, 13, 02, 2, Dzierzgowo  
+14, 13, 03, 2, Lipowiec Kościelny 
+14, 13, 04, 2, Radzanów  
+14, 13, 05, 2, Strzegowo 
+14, 13, 06, 2, Stupsk 
+14, 13, 07, 2, Szreńsk   
+14, 13, 08, 2, Szydłowo  
+14, 13, 09, 2, Wieczfnia Kościelna 
+14, 13, 10, 2, Wiśniewo  
+14, 14, 01, 1, Nowy Dwór Mazowiecki 
+14, 14, 02, 2, Czosnów 
+14, 14, 03, 2, Leoncin 
+14, 14, 04, 3, Nasielsk 
+14, 14, 04, 4, Nasielsk miasto 
+14, 14, 04, 5, Nasielsk obszar wiejski 
+14, 14, 05, 2, Pomiechówek 
+14, 14, 06, 3, Zakroczym 
+14, 14, 06, 4, Zakroczym miasto 
+14, 14, 06, 5, Zakroczym obszar wiejski 
+14, 15, 01, 2, Baranowo 
+14, 15, 02, 2, Czarnia 
+14, 15, 03, 2, Czerwin 
+14, 15, 04, 2, Goworowo 
+14, 15, 05, 2, Kadzidło 
+14, 15, 06, 2, Lelis 
+14, 15, 07, 2, Łyse 
+14, 15, 08, 3, Myszyniec 
+14, 15, 08, 4, Myszyniec miasto 
+14, 15, 08, 5, Myszyniec obszar wiejski 
+14, 15, 09, 2, Olszewo-Borki 
+14, 15, 10, 2, Rzekuń 
+14, 15, 11, 2, Troszyn 
+14, 16, 01, 1, Ostrów Mazowiecka 
+14, 16, 02, 2, Andrzejewo 
+14, 16, 03, 2, Boguty-Pianki 
+14, 16, 04, 3, Brok 
+14, 16, 04, 4, Brok miasto 
+14, 16, 04, 5, Brok obszar wiejski 
+14, 16, 05, 2, Małkinia Górna 
+14, 16, 06, 2, Nur 
+14, 16, 07, 2, Ostrów Mazowiecka 
+14, 16, 08, 2, Stary Lubotyń 
+14, 16, 09, 2, Szulborze Wielkie 
+14, 16, 10, 2, Wąsewo 
+14, 16, 11, 2, Zaręby Kościelne 
+14, 17, 01, 1, Józefów 
+14, 17, 02, 1, Otwock 
+14, 17, 03, 2, Celestynów 
+14, 17, 04, 3, Karczew 
+14, 17, 04, 4, Karczew miasto 
+14, 17, 04, 5, Karczew obszar wiejski 
+14, 17, 05, 2, Kołbiel 
+14, 17, 06, 2, Osieck 
+14, 17, 07, 2, Sobienie-Jeziory 
+14, 17, 08, 2, Wiązowna 
+14, 18, 01, 3, Góra Kalwaria 
+14, 18, 01, 4, Góra Kalwaria miasto 
+14, 18, 01, 5, Góra Kalwaria obszar wiejski 
+14, 18, 02, 3, Konstancin-Jeziorna 
+14, 18, 02, 4, Konstancin-Jeziorna miasto 
+14, 18, 02, 5, Konstancin-Jeziorna obszar wiejski 
+14, 18, 03, 2, Lesznowola 
+14, 18, 04, 3, Piaseczno 
+14, 18, 04, 4, Piaseczno miasto 
+14, 18, 04, 5, Piaseczno obszar wiejski 
+14, 18, 05, 2, Prażmów 
+14, 18, 06, 3, Tarczyn 
+14, 18, 06, 4, Tarczyn miasto 
+14, 18, 06, 5, Tarczyn obszar wiejski 
+14, 19, 01, 2, Bielsk 
+14, 19, 02, 2, Bodzanów 
+14, 19, 03, 2, Brudzeń Duży 
+14, 19, 04, 2, Bulkowo 
+14, 19, 05, 3, Drobin 
+14, 19, 05, 4, Drobin miasto 
+14, 19, 05, 5, Drobin obszar wiejski 
+14, 19, 06, 3, Gąbin 
+14, 19, 06, 4, Gąbin miasto 
+14, 19, 06, 5, Gąbin obszar wiejski 
+14, 19, 07, 2, Łąck 
+14, 19, 08, 2, Mała Wieś 
+14, 19, 09, 2, Nowy Duninów 
+14, 19, 10, 2, Radzanowo 
+14, 19, 11, 2, Słubice 
+14, 19, 12, 2, Słupno 
+14, 19, 13, 2, Stara Biała 
+14, 19, 14, 2, Staroźreby 
+14, 19, 15, 3, Wyszogród 
+14, 19, 15, 4, Wyszogród miasto 
+14, 19, 15, 5, Wyszogród obszar wiejski 
+14, 20, 01, 1, Płońsk 
+14, 20, 02, 1, Raciąż 
+14, 20, 03, 2, Baboszewo 
+14, 20, 04, 2, Czerwińsk nad Wisłą 
+14, 20, 05, 2, Dzierzążnia 
+14, 20, 06, 2, Joniec 
+14, 20, 07, 2, Naruszewo 
+14, 20, 08, 2, Nowe Miasto 
+14, 20, 09, 2, Płońsk 
+14, 20, 10, 2, Raciąż 
+14, 20, 11, 2, Sochocin 
+14, 20, 12, 2, Załuski 
+14, 21, 01, 1, Piastów 
+14, 21, 02, 1, Pruszków 
+14, 21, 03, 3, Brwinów 
+14, 21, 03, 4, Brwinów miasto 
+14, 21, 03, 5, Brwinów obszar wiejski 
+14, 21, 04, 2, Michałowice 
+14, 21, 05, 2, Nadarzyn 
+14, 21, 06, 2, Raszyn 
+14, 22, 01, 1, Przasnysz 
+14, 22, 02, 3, Chorzele 
+14, 22, 02, 4, Chorzele miasto 
+14, 22, 02, 5, Chorzele obszar wiejski 
+14, 22, 03, 2, Czernice Borowe 
+14, 22, 04, 2, Jednorożec 
+14, 22, 05, 2, Krasne 
+14, 22, 06, 2, Krzynowłoga Mała 
+14, 22, 07, 2, Przasnysz 
+14, 23, 01, 2, Borkowice 
+14, 23, 02, 2, Gielniów 
+14, 23, 03, 2, Klwów 
+14, 23, 04, 2, Odrzywół 
+14, 23, 05, 2, Potworów 
+14, 23, 06, 3, Przysucha 
+14, 23, 06, 4, Przysucha miasto 
+14, 23, 06, 5, Przysucha obszar wiejski 
+14, 23, 07, 2, Rusinów 
+14, 23, 08, 2, Wieniawa 
+14, 24, 01, 2, Gzy 
+14, 24, 02, 2, Obryte 
+14, 24, 03, 2, Pokrzywnica 
+14, 24, 04, 3, Pułtusk 
+14, 24, 04, 4, Pułtusk miasto 
+14, 24, 04, 5, Pułtusk obszar wiejski 
+14, 24, 05, 2, Świercze 
+14, 24, 06, 2, Winnica 
+14, 24, 07, 2, Zatory 
+14, 25, 01, 1, Pionki 
+14, 25, 02, 2, Gózd 
+14, 25, 03, 3, Iłża 
+14, 25, 03, 4, Iłża miasto 
+14, 25, 03, 5, Iłża obszar wiejski 
+14, 25, 04, 2, Jastrzębia 
+14, 25, 05, 2, Jedlińsk 
+14, 25, 06, 2, Jedlnia-Letnisko 
+14, 25, 07, 2, Kowala 
+14, 25, 08, 2, Pionki 
+14, 25, 09, 2, Przytyk 
+14, 25, 10, 3, Skaryszew 
+14, 25, 10, 4, Skaryszew miasto 
+14, 25, 10, 5, Skaryszew obszar wiejski 
+14, 25, 11, 2, Wierzbica 
+14, 25, 12, 2, Wolanów 
+14, 25, 13, 2, Zakrzew 
+14, 26, 01, 2, Domanice 
+14, 26, 02, 2, Korczew 
+14, 26, 03, 2, Kotuń 
+14, 26, 04, 2, Mokobody 
+14, 26, 05, 3, Mordy 
+14, 26, 05, 4, Mordy miasto 
+14, 26, 05, 5, Mordy obszar wiejski 
+14, 26, 06, 2, Paprotnia 
+14, 26, 07, 2, Przesmyki 
+14, 26, 08, 2, Siedlce 
+14, 26, 09, 2, Skórzec 
+14, 26, 10, 2, Suchożebry 
+14, 26, 11, 2, Wiśniew 
+14, 26, 12, 2, Wodynie 
+14, 26, 13, 2, Zbuczyn Poduchowny 
+14, 27, 01, 1, Sierpc 
+14, 27, 02, 2, Gozdowo 
+14, 27, 03, 2, Mochowo   
+14, 27, 04, 2, Rościszewo  
+14, 27, 05, 2, Sierpc 
+14, 27, 06, 2, Szczutowo 
+14, 27, 07, 2, Zawidz 
+14, 28, 01, 1, Sochaczew 
+14, 28, 02, 2, Brochów   
+14, 28, 03, 2, Iłów  
+14, 28, 04, 2, Młodzieszyn 
+14, 28, 05, 2, Nowa Sucha  
+14, 28, 06, 2, Rybno 
+14, 28, 07, 2, Sochaczew 
+14, 28, 08, 2, Teresin   
+14, 29, 01, 1, Sokołów Podlaski 
+14, 29, 02, 2, Bielany 
+14, 29, 03, 2, Ceranów 
+14, 29, 04, 2, Jabłonna Lacka 
+14, 29, 05, 3, Kosów Lacki 
+14, 29, 05, 4, Kosów Lacki miasto 
+14, 29, 05, 5, Kosów Lacki obszar wiejski 
+14, 29, 06, 2, Repki 
+14, 29, 07, 2, Sabnie 
+14, 29, 08, 2, Sokołów Podlaski 
+14, 29, 09, 2, Sterdyń 
+14, 30, 01, 2, Chlewiska 
+14, 30, 02, 2, Jastrząb 
+14, 30, 03, 2, Mirów 
+14, 30, 04, 2, Orońsko 
+14, 30, 05, 3, Szydłowiec 
+14, 30, 05, 4, Szydłowiec miasto 
+14, 30, 05, 5, Szydłowiec obszar wiejski 
+14, 32, 01, 3, Błonie 
+14, 32, 01, 4, Błonie miasto 
+14, 32, 01, 5, Błonie obszar wiejski 
+14, 32, 02, 2, Izabelin 
+14, 32, 03, 2, Kampinos 
+14, 32, 04, 2, Leszno 
+14, 32, 05, 3, Łomianki 
+14, 32, 05, 4, Łomianki miasto 
+14, 32, 05, 5, Łomianki obszar wiejski 
+14, 32, 06, 3, Ożarów Mazowiecki 
+14, 32, 06, 4, Ożarów Mazowiecki miasto 
+14, 32, 06, 5, Ożarów Mazowiecki obszar wiejski 
+14, 32, 07, 2, Stare Babice 
+14, 33, 01, 1, Węgrów 
+14, 33, 02, 2, Grębków 
+14, 33, 03, 2, Korytnica 
+14, 33, 04, 2, Liw 
+14, 33, 05, 3, Łochów 
+14, 33, 05, 4, Łochów miasto 
+14, 33, 05, 5, Łochów obszar wiejski 
+14, 33, 06, 2, Miedzna 
+14, 33, 07, 2, Sadowne 
+14, 33, 08, 2, Stoczek 
+14, 33, 09, 2, Wierzbno 
+14, 34, 01, 1, Kobyłka 
+14, 34, 02, 1, Marki 
+14, 34, 03, 1, Ząbki 
+14, 34, 04, 1, Zielonka 
+14, 34, 05, 2, Dąbrówka 
+14, 34, 06, 2, Jadów 
+14, 34, 07, 2, Klembów 
+14, 34, 08, 2, Poświętne 
+14, 34, 09, 3, Radzymin 
+14, 34, 09, 4, Radzymin miasto 
+14, 34, 09, 5, Radzymin obszar wiejski 
+14, 34, 10, 2, Strachówka 
+14, 34, 11, 3, Tłuszcz 
+14, 34, 11, 4, Tłuszcz miasto 
+14, 34, 11, 5, Tłuszcz obszar wiejski 
+14, 34, 12, 3, Wołomin 
+14, 34, 12, 4, Wołomin miasto 
+14, 34, 12, 5, Wołomin obszar wiejski 
+14, 35, 01, 2, Brańszczyk 
+14, 35, 02, 2, Długosiodło 
+14, 35, 03, 2, Rząśnik 
+14, 35, 04, 2, Somianka 
+14, 35, 05, 3, Wyszków 
+14, 35, 05, 4, Wyszków miasto 
+14, 35, 05, 5, Wyszków obszar wiejski 
+14, 35, 06, 2, Zabrodzie 
+14, 36, 01, 2, Kazanów 
+14, 36, 02, 2, Policzna 
+14, 36, 03, 2, Przyłęk 
+14, 36, 04, 2, Tczów 
+14, 36, 05, 3, Zwoleń 
+14, 36, 05, 4, Zwoleń miasto 
+14, 36, 05, 5, Zwoleń obszar wiejski 
+14, 37, 01, 3, Bieżuń 
+14, 37, 01, 4, Bieżuń miasto 
+14, 37, 01, 5, Bieżuń obszar wiejski 
+14, 37, 02, 2, Kuczbork-Osada 
+14, 37, 03, 2, Lubowidz 
+14, 37, 04, 2, Lutocin 
+14, 37, 05, 2, Siemiątkowo Koziebrodzkie 
+14, 37, 06, 3, Żuromin 
+14, 37, 06, 4, Żuromin miasto 
+14, 37, 06, 5, Żuromin obszar wiejski 
+14, 38, 01, 1, Żyrardów 
+14, 38, 02, 3, Mszczonów 
+14, 38, 02, 4, Mszczonów miasto 
+14, 38, 02, 5, Mszczonów obszar wiejski 
+14, 38, 03, 2, Puszcza Mariańska  
+14, 38, 04, 2, Radziejowice  
+14, 38, 05, 2, Wiskitki  
+14, 61, 01, 1, M. Ostrołęka  
+14, 62, 01, 1, M. Płock  
+14, 63, 01, 1, M. Radom  
+14, 64, 01, 1, M. Siedlce  
+14, 65, 01, 1, M. st. Warszawa  
+14, 65, 02, 8, Bemowo 
+14, 65, 03, 8, Białołęka 
+14, 65, 04, 8, Bielany   
+14, 65, 05, 8, Mokotów   
+14, 65, 06, 8, Ochota 
+14, 65, 07, 8, Praga-Południe   
+14, 65, 08, 8, Praga-Północ  
+14, 65, 09, 8, Rembertów 
+14, 65, 10, 8, Śródmieście 
+14, 65, 11, 8, Targówek  
+14, 65, 12, 8, Ursus 
+14, 65, 13, 8, Ursynów   
+14, 65, 14, 8, Wawer 
+14, 65, 15, 8, Wesoła 
+14, 65, 16, 8, Wilanów   
+14, 65, 17, 8, Włochy 
+14, 65, 18, 8, Wola  
+14, 65, 19, 8, Żoliborz  
+16, 01, 01, 1, Brzeg 
+16, 01, 03, 3, Grodków 
+16, 01, 03, 4, Grodków miasto 
+16, 01, 03, 5, Grodków obszar wiejski 
+16, 01, 04, 3, Lewin Brzeski 
+16, 01, 04, 4, Lewin Brzeski miasto 
+16, 01, 04, 5, Lewin Brzeski obszar wiejski 
+16, 01, 05, 2, Lubsza 
+16, 01, 06, 2, Olszanka 
+16, 01, 02, 2, Skarbimierz 
+16, 02, 01, 3, Baborów 
+16, 02, 01, 4, Baborów miasto 
+16, 02, 01, 5, Baborów obszar wiejski 
+16, 02, 02, 2, Branice 
+16, 02, 03, 3, Głubczyce 
+16, 02, 03, 4, Głubczyce miasto 
+16, 02, 03, 5, Głubczyce obszar wiejski 
+16, 02, 04, 3, Kietrz 
+16, 02, 04, 4, Kietrz miasto 
+16, 02, 04, 5, Kietrz obszar wiejski 
+16, 03, 01, 1, Kędzierzyn-Koźle 
+16, 03, 02, 2, Bierawa 
+16, 03, 03, 2, Cisek 
+16, 03, 04, 2, Pawłowiczki 
+16, 03, 05, 2, Polska Cerekiew 
+16, 03, 06, 2, Reńska Wieś 
+16, 04, 01, 3, Byczyna 
+16, 04, 01, 4, Byczyna miasto 
+16, 04, 01, 5, Byczyna obszar wiejski 
+16, 04, 02, 3, Kluczbork 
+16, 04, 02, 4, Kluczbork miasto 
+16, 04, 02, 5, Kluczbork obszar wiejski 
+16, 04, 03, 2, Lasowice Wielkie 
+16, 04, 04, 3, Wołczyn 
+16, 04, 04, 4, Wołczyn miasto 
+16, 04, 04, 5, Wołczyn obszar wiejski 
+16, 05, 01, 3, Gogolin 
+16, 05, 01, 4, Gogolin miasto 
+16, 05, 01, 5, Gogolin obszar wiejski 
+16, 05, 02, 3, Krapkowice 
+16, 05, 02, 4, Krapkowice miasto 
+16, 05, 02, 5, Krapkowice obszar wiejski 
+16, 05, 03, 2, Strzeleczki 
+16, 05, 04, 2, Walce 
+16, 05, 05, 3, Zdzieszowice 
+16, 05, 05, 4, Zdzieszowice miasto 
+16, 05, 05, 5, Zdzieszowice obszar wiejski 
+16, 06, 01, 2, Domaszowice 
+16, 06, 02, 3, Namysłów 
+16, 06, 02, 4, Namysłów miasto 
+16, 06, 02, 5, Namysłów obszar wiejski 
+16, 06, 03, 2, Pokój 
+16, 06, 04, 2, Świerczów 
+16, 06, 05, 2, Wilków 
+16, 07, 01, 3, Głuchołazy 
+16, 07, 01, 4, Głuchołazy miasto 
+16, 07, 01, 5, Głuchołazy obszar wiejski 
+16, 07, 02, 2, Kamiennik 
+16, 07, 03, 3, Korfantów 
+16, 07, 03, 4, Korfantów miasto 
+16, 07, 03, 5, Korfantów obszar wiejski 
+16, 07, 04, 2, Łambinowice 
+16, 07, 05, 3, Nysa 
+16, 07, 05, 4, Nysa miasto 
+16, 07, 05, 5, Nysa obszar wiejski 
+16, 07, 06, 3, Otmuchów 
+16, 07, 06, 4, Otmuchów miasto 
+16, 07, 06, 5, Otmuchów obszar wiejski 
+16, 07, 07, 3, Paczków 
+16, 07, 07, 4, Paczków miasto 
+16, 07, 07, 5, Paczków obszar wiejski 
+16, 07, 08, 2, Pakosławice 
+16, 07, 09, 2, Skoroszyce 
+16, 08, 01, 3, Dobrodzień 
+16, 08, 01, 4, Dobrodzień miasto 
+16, 08, 01, 5, Dobrodzień obszar wiejski 
+16, 08, 02, 3, Gorzów Śląski 
+16, 08, 02, 4, Gorzów Śląski miasto 
+16, 08, 02, 5, Gorzów Śląski obszar wiejski 
+16, 08, 03, 3, Olesno 
+16, 08, 03, 4, Olesno miasto 
+16, 08, 03, 5, Olesno obszar wiejski 
+16, 08, 04, 3, Praszka 
+16, 08, 04, 4, Praszka miasto 
+16, 08, 04, 5, Praszka obszar wiejski 
+16, 08, 05, 2, Radłów 
+16, 08, 06, 2, Rudniki 
+16, 08, 07, 2, Zębowice 
+16, 09, 01, 2, Chrząstowice 
+16, 09, 02, 2, Dąbrowa 
+16, 09, 03, 2, Dobrzeń Wielki 
+16, 09, 04, 2, Komprachcice 
+16, 09, 05, 2, Łubniany 
+16, 09, 06, 2, Murów 
+16, 09, 07, 3, Niemodlin 
+16, 09, 07, 4, Niemodlin miasto 
+16, 09, 07, 5, Niemodlin obszar wiejski 
+16, 09, 08, 3, Ozimek 
+16, 09, 08, 4, Ozimek miasto 
+16, 09, 08, 5, Ozimek obszar wiejski 
+16, 09, 09, 2, Popielów 
+16, 09, 10, 2, Prószków 
+16, 09, 11, 2, Tarnów Opolski 
+16, 09, 12, 2, Tułowice 
+16, 09, 13, 2, Turawa 
+16, 10, 01, 3, Biała 
+16, 10, 01, 4, Biała miasto 
+16, 10, 01, 5, Biała obszar wiejski 
+16, 10, 02, 3, Głogówek 
+16, 10, 02, 4, Głogówek miasto 
+16, 10, 02, 5, Głogówek obszar wiejski 
+16, 10, 03, 2, Lubrza 
+16, 10, 04, 3, Prudnik 
+16, 10, 04, 4, Prudnik miasto 
+16, 10, 04, 5, Prudnik obszar wiejski 
+16, 11, 01, 2, Izbicko 
+16, 11, 02, 2, Jemielnica 
+16, 11, 03, 3, Kolonowskie 
+16, 11, 03, 4, Kolonowskie miasto 
+16, 11, 03, 5, Kolonowskie obszar wiejski 
+16, 11, 04, 3, Leśnica 
+16, 11, 04, 4, Leśnica miasto 
+16, 11, 04, 5, Leśnica obszar wiejski 
+16, 11, 05, 3, Strzelce Opolskie 
+16, 11, 05, 4, Strzelce Opolskie miasto 
+16, 11, 05, 5, Strzelce Opolskie obszar wiejski 
+16, 11, 06, 3, Ujazd 
+16, 11, 06, 4, Ujazd miasto 
+16, 11, 06, 5, Ujazd obszar wiejski 
+16, 11, 07, 3, Zawadzkie 
+16, 11, 07, 4, Zawadzkie miasto 
+16, 11, 07, 5, Zawadzkie obszar wiejski 
+16, 61, 01, 1, M. Opole 
+18, 01, 03, 2, Czarna 
+18, 01, 05, 2, Lutowiska 
+18, 01, 08, 3, Ustrzyki Dolne 
+18, 01, 08, 4, Ustrzyki Dolne miasto 
+18, 01, 08, 5, Ustrzyki Dolne obszar wiejski 
+18, 02, 01, 3, Brzozów 
+18, 02, 01, 4, Brzozów miasto 
+18, 02, 01, 5, Brzozów obszar wiejski 
+18, 02, 02, 2, Domaradz 
+18, 02, 03, 2, Dydnia 
+18, 02, 04, 2, Haczów 
+18, 02, 05, 2, Jasienica Rosielna 
+18, 02, 06, 2, Nozdrzec 
+18, 03, 01, 1, Dębica 
+18, 03, 02, 2, Brzostek 
+18, 03, 03, 2, Czarna 
+18, 03, 04, 2, Dębica 
+18, 03, 05, 2, Jodłowa 
+18, 03, 06, 3, Pilzno 
+18, 03, 06, 4, Pilzno miasto 
+18, 03, 06, 5, Pilzno obszar wiejski 
+18, 03, 07, 2, Żyraków 
+18, 04, 01, 1, Jarosław 
+18, 04, 02, 1, Radymno 
+18, 04, 03, 2, Chłopice 
+18, 04, 04, 2, Jarosław 
+18, 04, 05, 2, Laszki 
+18, 04, 06, 2, Pawłosiów 
+18, 04, 07, 2, Pruchnik  
+18, 04, 08, 2, Radymno   
+18, 04, 09, 2, Rokietnica  
+18, 04, 10, 2, Roźwienica  
+18, 04, 11, 2, Wiązownica  
+18, 05, 01, 1, Jasło 
+18, 05, 02, 2, Brzyska   
+18, 05, 03, 2, Dębowiec  
+18, 05, 04, 2, Jasło 
+18, 05, 05, 2, Kołaczyce 
+18, 05, 06, 2, Krempna   
+18, 05, 07, 2, Nowy Żmigród  
+18, 05, 08, 2, Osiek Jasielski  
+18, 05, 09, 2, Skołyszyn 
+18, 05, 11, 2, Tarnowiec 
+18, 06, 01, 2, Cmolas 
+18, 06, 06, 2, Dzikowiec 
+18, 06, 02, 3, Kolbuszowa 
+18, 06, 02, 4, Kolbuszowa miasto 
+18, 06, 02, 5, Kolbuszowa obszar wiejski 
+18, 06, 03, 2, Majdan Królewski 
+18, 06, 04, 2, Niwiska 
+18, 06, 05, 2, Raniżów 
+18, 07, 01, 2, Chorkówka 
+18, 07, 02, 3, Dukla 
+18, 07, 02, 4, Dukla miasto 
+18, 07, 02, 5, Dukla obszar wiejski 
+18, 07, 03, 3, Iwonicz-Zdrój 
+18, 07, 03, 4, Iwonicz-Zdrój miasto 
+18, 07, 03, 5, Iwonicz-Zdrój obszar wiejski 
+18, 07, 04, 3, Jedlicze 
+18, 07, 04, 4, Jedlicze miasto 
+18, 07, 04, 5, Jedlicze obszar wiejski 
+18, 07, 05, 2, Korczyna 
+18, 07, 06, 2, Krościenko Wyżne 
+18, 07, 07, 2, Miejsce Piastowe 
+18, 07, 08, 3, Rymanów 
+18, 07, 08, 4, Rymanów miasto 
+18, 07, 08, 5, Rymanów obszar wiejski 
+18, 07, 09, 2, Wojaszówka 
+18, 21, 01, 2, Baligród 
+18, 21, 02, 2, Cisna 
+18, 21, 03, 3, Lesko 
+18, 21, 03, 4, Lesko miasto 
+18, 21, 03, 5, Lesko obszar wiejski 
+18, 21, 04, 2, Olszanica 
+18, 21, 05, 2, Solina 
+18, 08, 01, 1, Leżajsk 
+18, 08, 02, 2, Grodzisko Dolne 
+18, 08, 03, 2, Kuryłówka 
+18, 08, 04, 2, Leżajsk 
+18, 08, 05, 3, Nowa Sarzyna 
+18, 08, 05, 4, Nowa Sarzyna miasto 
+18, 08, 05, 5, Nowa Sarzyna obszar wiejski 
+18, 09, 01, 1, Lubaczów 
+18, 09, 02, 3, Cieszanów 
+18, 09, 02, 4, Cieszanów miasto 
+18, 09, 02, 5, Cieszanów obszar wiejski 
+18, 09, 03, 2, Horyniec-Zdrój 
+18, 09, 04, 2, Lubaczów 
+18, 09, 05, 3, Narol 
+18, 09, 05, 4, Narol miasto 
+18, 09, 05, 5, Narol obszar wiejski 
+18, 09, 06, 3, Oleszyce 
+18, 09, 06, 4, Oleszyce miasto 
+18, 09, 06, 5, Oleszyce obszar wiejski 
+18, 09, 07, 2, Stary Dzików 
+18, 09, 08, 2, Wielkie Oczy 
+18, 10, 01, 1, Łańcut 
+18, 10, 02, 2, Białobrzegi 
+18, 10, 03, 2, Czarna 
+18, 10, 04, 2, Łańcut 
+18, 10, 05, 2, Markowa 
+18, 10, 06, 2, Rakszawa 
+18, 10, 07, 2, Żołynia 
+18, 11, 01, 1, Mielec 
+18, 11, 02, 2, Borowa 
+18, 11, 03, 2, Czermin 
+18, 11, 04, 2, Gawłuszowice 
+18, 11, 05, 2, Mielec 
+18, 11, 06, 2, Padew Narodowa 
+18, 11, 07, 2, Przecław 
+18, 11, 08, 3, Radomyśl Wielki 
+18, 11, 08, 4, Radomyśl Wielki miasto 
+18, 11, 08, 5, Radomyśl Wielki obszar wiejski 
+18, 11, 09, 2, Tuszów Narodowy 
+18, 11, 10, 2, Wadowice Górne 
+18, 12, 01, 2, Harasiuki 
+18, 12, 02, 2, Jarocin 
+18, 12, 03, 2, Jeżowe 
+18, 12, 04, 2, Krzeszów 
+18, 12, 05, 3, Nisko 
+18, 12, 05, 4, Nisko miasto 
+18, 12, 05, 5, Nisko obszar wiejski 
+18, 12, 06, 3, Rudnik nad Sanem 
+18, 12, 06, 4, Rudnik nad Sanem miasto 
+18, 12, 06, 5, Rudnik nad Sanem obszar wiejski 
+18, 12, 07, 3, Ulanów 
+18, 12, 07, 4, Ulanów miasto 
+18, 12, 07, 5, Ulanów obszar wiejski 
+18, 13, 01, 2, Bircza 
+18, 13, 02, 2, Dubiecko  
+18, 13, 03, 2, Fredropol 
+18, 13, 04, 2, Krasiczyn 
+18, 13, 05, 2, Krzywcza  
+18, 13, 06, 2, Medyka 
+18, 13, 07, 2, Orły  
+18, 13, 08, 2, Przemyśl  
+18, 13, 09, 2, Stubno 
+18, 13, 10, 2, Żurawica  
+18, 14, 01, 1, Przeworsk 
+18, 14, 02, 2, Adamówka  
+18, 14, 03, 2, Gać 
+18, 14, 04, 2, Jawornik Polski  
+18, 14, 05, 3, Kańczuga  
+18, 14, 05, 4, Kańczuga miasto 
+18, 14, 05, 5, Kańczuga obszar wiejski 
+18, 14, 06, 2, Przeworsk 
+18, 14, 07, 3, Sieniawa 
+18, 14, 07, 4, Sieniawa miasto 
+18, 14, 07, 5, Sieniawa obszar wiejski 
+18, 14, 08, 2, Tryńcza 
+18, 14, 09, 2, Zarzecze 
+18, 15, 01, 2, Iwierzyce 
+18, 15, 02, 2, Ostrów 
+18, 15, 03, 3, Ropczyce 
+18, 15, 03, 4, Ropczyce miasto 
+18, 15, 03, 5, Ropczyce obszar wiejski 
+18, 15, 04, 3, Sędziszów Małopolski 
+18, 15, 04, 4, Sędziszów Małopolski miasto 
+18, 15, 04, 5, Sędziszów Małopolski obszar wiejski 
+18, 15, 05, 2, Wielopole Skrzyńskie 
+18, 16, 01, 1, Dynów 
+18, 16, 02, 3, Błażowa 
+18, 16, 02, 4, Błażowa miasto 
+18, 16, 02, 5, Błażowa obszar wiejski 
+18, 16, 03, 2, Boguchwała 
+18, 16, 04, 2, Chmielnik 
+18, 16, 05, 2, Dynów 
+18, 16, 06, 3, Głogów Małopolski 
+18, 16, 06, 4, Głogów Małopolski miasto 
+18, 16, 06, 5, Głogów Małopolski obszar wiejski 
+18, 16, 07, 2, Hyżne 
+18, 16, 08, 2, Kamień 
+18, 16, 09, 2, Krasne 
+18, 16, 10, 2, Lubenia 
+18, 16, 11, 3, Sokołów Małopolski 
+18, 16, 11, 4, Sokołów Małopolski miasto 
+18, 16, 11, 5, Sokołów Małopolski obszar wiejski 
+18, 16, 12, 2, Świlcza 
+18, 16, 13, 2, Trzebownisko 
+18, 16, 14, 3, Tyczyn 
+18, 16, 14, 4, Tyczyn miasto 
+18, 16, 14, 5, Tyczyn obszar wiejski 
+18, 17, 01, 1, Sanok 
+18, 17, 02, 2, Besko 
+18, 17, 03, 2, Bukowsko 
+18, 17, 04, 2, Komańcza 
+18, 17, 05, 2, Sanok 
+18, 17, 06, 2, Tyrawa Wołoska 
+18, 17, 07, 3, Zagórz 
+18, 17, 07, 4, Zagórz miasto 
+18, 17, 07, 5, Zagórz obszar wiejski 
+18, 17, 08, 2, Zarszyn 
+18, 18, 01, 1, Stalowa Wola 
+18, 18, 02, 2, Bojanów 
+18, 18, 03, 2, Pysznica 
+18, 18, 04, 2, Radomyśl nad Sanem 
+18, 18, 05, 2, Zaklików 
+18, 18, 06, 2, Zaleszany 
+18, 19, 01, 2, Czudec 
+18, 19, 02, 2, Frysztak 
+18, 19, 03, 2, Niebylec 
+18, 19, 04, 3, Strzyżów 
+18, 19, 04, 4, Strzyżów miasto 
+18, 19, 04, 5, Strzyżów obszar wiejski 
+18, 19, 05, 2, Wiśniowa 
+18, 20, 01, 3, Baranów Sandomierski 
+18, 20, 01, 4, Baranów Sandomierski miasto 
+18, 20, 01, 5, Baranów Sandomierski obszar wiejski 
+18, 20, 02, 2, Gorzyce 
+18, 20, 03, 2, Grębów 
+18, 20, 04, 3, Nowa Dęba 
+18, 20, 04, 4, Nowa Dęba miasto 
+18, 20, 04, 5, Nowa Dęba obszar wiejski 
+18, 61, 01, 1, M. Krosno 
+18, 62, 01, 1, M. Przemyśl 
+18, 63, 01, 1, M. Rzeszów 
+18, 64, 01, 1, M. Tarnobrzeg 
+20, 01, 01, 1, Augustów 
+20, 01, 02, 2, Augustów 
+20, 01, 03, 2, Bargłów Kościelny 
+20, 01, 04, 3, Lipsk 
+20, 01, 04, 4, Lipsk miasto 
+20, 01, 04, 5, Lipsk obszar wiejski 
+20, 01, 05, 2, Nowinka 
+20, 01, 06, 2, Płaska 
+20, 01, 07, 2, Sztabin 
+20, 02, 01, 3, Choroszcz 
+20, 02, 01, 4, Choroszcz miasto 
+20, 02, 01, 5, Choroszcz obszar wiejski 
+20, 02, 02, 3, Czarna Białostocka 
+20, 02, 02, 4, Czarna Białostocka miasto 
+20, 02, 02, 5, Czarna Białostocka obszar wiejski 
+20, 02, 03, 2, Dobrzyniewo Duże 
+20, 02, 04, 2, Gródek 
+20, 02, 05, 2, Juchnowiec Kościelny 
+20, 02, 06, 3, Łapy 
+20, 02, 06, 4, Łapy miasto 
+20, 02, 06, 5, Łapy obszar wiejski 
+20, 02, 07, 2, Michałowo 
+20, 02, 08, 2, Poświętne 
+20, 02, 09, 3, Supraśl 
+20, 02, 09, 4, Supraśl miasto 
+20, 02, 09, 5, Supraśl obszar wiejski 
+20, 02, 10, 3, Suraż 
+20, 02, 10, 4, Suraż miasto 
+20, 02, 10, 5, Suraż obszar wiejski 
+20, 02, 11, 2, Turośń Kościelna 
+20, 02, 12, 3, Tykocin 
+20, 02, 12, 4, Tykocin miasto 
+20, 02, 12, 5, Tykocin obszar wiejski 
+20, 02, 13, 3, Wasilków 
+20, 02, 13, 4, Wasilków miasto 
+20, 02, 13, 5, Wasilków obszar wiejski 
+20, 02, 14, 3, Zabłudów 
+20, 02, 14, 4, Zabłudów miasto 
+20, 02, 14, 5, Zabłudów obszar wiejski 
+20, 02, 15, 2, Zawady 
+20, 03, 01, 1, Bielsk Podlaski 
+20, 03, 02, 1, Brańsk 
+20, 03, 03, 2, Bielsk Podlaski 
+20, 03, 04, 2, Boćki 
+20, 03, 05, 2, Brańsk 
+20, 03, 06, 2, Orla 
+20, 03, 07, 2, Rudka 
+20, 03, 08, 2, Wyszki 
+20, 04, 01, 1, Grajewo 
+20, 04, 02, 2, Grajewo 
+20, 04, 03, 2, Radziłów 
+20, 04, 04, 3, Rajgród 
+20, 04, 04, 4, Rajgród miasto 
+20, 04, 04, 5, Rajgród obszar wiejski 
+20, 04, 05, 3, Szczuczyn 
+20, 04, 05, 4, Szczuczyn miasto 
+20, 04, 05, 5, Szczuczyn obszar wiejski 
+20, 04, 06, 2, Wąsosz 
+20, 05, 01, 1, Hajnówka 
+20, 05, 02, 2, Białowieża 
+20, 05, 03, 2, Czeremcha 
+20, 05, 04, 2, Czyże 
+20, 05, 05, 2, Dubicze Cerkiewne 
+20, 05, 06, 2, Hajnówka 
+20, 05, 07, 3, Kleszczele 
+20, 05, 07, 4, Kleszczele miasto 
+20, 05, 07, 5, Kleszczele obszar wiejski 
+20, 05, 08, 2, Narew 
+20, 05, 09, 2, Narewka 
+20, 06, 01, 1, Kolno 
+20, 06, 02, 2, Grabowo 
+20, 06, 03, 2, Kolno 
+20, 06, 04, 2, Mały Płock 
+20, 06, 05, 3, Stawiski 
+20, 06, 05, 4, Stawiski miasto 
+20, 06, 05, 5, Stawiski obszar wiejski 
+20, 06, 06, 2, Turośl 
+20, 07, 01, 3, Jedwabne 
+20, 07, 01, 4, Jedwabne miasto 
+20, 07, 01, 5, Jedwabne obszar wiejski 
+20, 07, 02, 2, Łomża 
+20, 07, 03, 2, Miastkowo 
+20, 07, 04, 3, Nowogród 
+20, 07, 04, 4, Nowogród miasto 
+20, 07, 04, 5, Nowogród obszar wiejski 
+20, 07, 05, 2, Piątnica 
+20, 07, 06, 2, Przytuły 
+20, 07, 07, 2, Śniadowo 
+20, 07, 08, 2, Wizna 
+20, 07, 09, 2, Zbójna 
+20, 08, 01, 3, Goniądz 
+20, 08, 01, 4, Goniądz miasto 
+20, 08, 01, 5, Goniądz obszar wiejski 
+20, 08, 02, 2, Jasionówka 
+20, 08, 03, 2, Jaświły 
+20, 08, 04, 3, Knyszyn 
+20, 08, 04, 4, Knyszyn miasto 
+20, 08, 04, 5, Knyszyn obszar wiejski 
+20, 08, 05, 2, Krypno 
+20, 08, 06, 3, Mońki 
+20, 08, 06, 4, Mońki miasto 
+20, 08, 06, 5, Mońki obszar wiejski 
+20, 08, 07, 2, Trzcianne 
+20, 09, 01, 1, Sejny 
+20, 09, 02, 2, Giby 
+20, 09, 03, 2, Krasnopol 
+20, 09, 04, 2, Puńsk 
+20, 09, 05, 2, Sejny 
+20, 10, 01, 1, Siemiatycze 
+20, 10, 02, 3, Drohiczyn 
+20, 10, 02, 4, Drohiczyn miasto 
+20, 10, 02, 5, Drohiczyn obszar wiejski 
+20, 10, 03, 2, Dziadkowice 
+20, 10, 04, 2, Grodzisk 
+20, 10, 05, 2, Mielnik 
+20, 10, 06, 2, Milejczyce 
+20, 10, 07, 2, Nurzec-Stacja 
+20, 10, 08, 2, Perlejewo 
+20, 10, 09, 2, Siemiatycze 
+20, 11, 01, 3, Dąbrowa Białostocka 
+20, 11, 01, 4, Dąbrowa Białostocka miasto 
+20, 11, 01, 5, Dąbrowa Białostocka obszar wiejski 
+20, 11, 02, 2, Janów 
+20, 11, 03, 2, Korycin 
+20, 11, 04, 2, Krynki 
+20, 11, 05, 2, Kuźnica 
+20, 11, 06, 2, Nowy Dwór 
+20, 11, 07, 2, Sidra 
+20, 11, 08, 3, Sokółka 
+20, 11, 08, 4, Sokółka miasto 
+20, 11, 08, 5, Sokółka obszar wiejski 
+20, 11, 09, 3, Suchowola 
+20, 11, 09, 4, Suchowola miasto 
+20, 11, 09, 5, Suchowola obszar wiejski 
+20, 11, 10, 2, Szudziałowo 
+20, 12, 01, 2, Bakałarzewo 
+20, 12, 02, 2, Filipów 
+20, 12, 03, 2, Jeleniewo 
+20, 12, 04, 2, Przerośl 
+20, 12, 05, 2, Raczki 
+20, 12, 06, 2, Rutka-Tartak 
+20, 12, 07, 2, Suwałki 
+20, 12, 08, 2, Szypliszki 
+20, 12, 09, 2, Wiżajny 
+20, 13, 01, 1, Wysokie Mazowieckie 
+20, 13, 02, 3, Ciechanowiec 
+20, 13, 02, 4, Ciechanowiec miasto 
+20, 13, 02, 5, Ciechanowiec obszar wiejski 
+20, 13, 03, 2, Czyżew-Osada 
+20, 13, 04, 2, Klukowo 
+20, 13, 05, 2, Kobylin-Borzymy 
+20, 13, 06, 2, Kulesze Kościelne 
+20, 13, 07, 2, Nowe Piekuty 
+20, 13, 08, 2, Sokoły 
+20, 13, 09, 2, Szepietowo 
+20, 13, 10, 2, Wysokie Mazowieckie 
+20, 14, 01, 1, Zambrów 
+20, 14, 02, 2, Kołaki Kościelne 
+20, 14, 03, 2, Rutki 
+20, 14, 04, 2, Szumowo 
+20, 14, 05, 2, Zambrów 
+20, 61, 01, 1, M. Białystok 
+20, 62, 01, 1, M. Łomża 
+20, 63, 01, 1, M. Suwałki 
+22, 01, 01, 2, Borzytuchom 
+22, 01, 02, 3, Bytów 
+22, 01, 02, 4, Bytów miasto 
+22, 01, 02, 5, Bytów obszar wiejski 
+22, 01, 03, 2, Czarna Dąbrówka 
+22, 01, 04, 2, Kołczygłowy 
+22, 01, 05, 2, Lipnica 
+22, 01, 06, 3, Miastko 
+22, 01, 06, 4, Miastko miasto 
+22, 01, 06, 5, Miastko obszar wiejski 
+22, 01, 07, 2, Parchowo 
+22, 01, 08, 2, Studzienice 
+22, 01, 09, 2, Trzebielino 
+22, 01, 10, 2, Tuchomie 
+22, 02, 01, 1, Chojnice 
+22, 02, 02, 3, Brusy 
+22, 02, 02, 4, Brusy miasto 
+22, 02, 02, 5, Brusy obszar wiejski 
+22, 02, 03, 2, Chojnice 
+22, 02, 04, 3, Czersk 
+22, 02, 04, 4, Czersk miasto 
+22, 02, 04, 5, Czersk obszar wiejski 
+22, 02, 05, 2, Konarzyny 
+22, 03, 01, 1, Człuchów 
+22, 03, 02, 3, Czarne 
+22, 03, 02, 4, Czarne miasto 
+22, 03, 02, 5, Czarne obszar wiejski 
+22, 03, 03, 2, Człuchów 
+22, 03, 04, 3, Debrzno 
+22, 03, 04, 4, Debrzno miasto 
+22, 03, 04, 5, Debrzno obszar wiejski 
+22, 03, 05, 2, Koczała 
+22, 03, 06, 2, Przechlewo 
+22, 03, 07, 2, Rzeczenica 
+22, 04, 01, 1, Pruszcz Gdański 
+22, 04, 02, 2, Cedry Wielkie 
+22, 04, 03, 2, Kolbudy 
+22, 04, 04, 2, Pruszcz Gdański 
+22, 04, 05, 2, Przywidz 
+22, 04, 06, 2, Pszczółki 
+22, 04, 07, 2, Suchy Dąb 
+22, 04, 08, 2, Trąbki Wielkie 
+22, 05, 01, 2, Chmielno 
+22, 05, 02, 3, Kartuzy 
+22, 05, 02, 4, Kartuzy miasto 
+22, 05, 02, 5, Kartuzy obszar wiejski 
+22, 05, 03, 2, Przodkowo 
+22, 05, 04, 2, Sierakowice 
+22, 05, 05, 2, Somonino 
+22, 05, 06, 2, Stężyca 
+22, 05, 07, 2, Sulęczyno 
+22, 05, 08, 3, Żukowo 
+22, 05, 08, 4, Żukowo miasto 
+22, 05, 08, 5, Żukowo obszar wiejski 
+22, 06, 01, 1, Kościerzyna 
+22, 06, 02, 2, Dziemiany 
+22, 06, 03, 2, Karsin 
+22, 06, 04, 2, Kościerzyna 
+22, 06, 05, 2, Liniewo 
+22, 06, 06, 2, Lipusz 
+22, 06, 07, 2, Nowa Karczma 
+22, 06, 08, 2, Stara Kiszewa 
+22, 07, 01, 1, Kwidzyn 
+22, 07, 02, 2, Gardeja 
+22, 07, 03, 2, Kwidzyn 
+22, 07, 04, 3, Prabuty 
+22, 07, 04, 4, Prabuty miasto 
+22, 07, 04, 5, Prabuty obszar wiejski 
+22, 07, 05, 2, Ryjewo 
+22, 07, 06, 2, Sadlinki 
+22, 08, 01, 1, Lębork 
+22, 08, 02, 1, Łeba 
+22, 08, 03, 2, Cewice 
+22, 08, 04, 2, Nowa Wieś Lęborska 
+22, 08, 05, 2, Wicko 
+22, 09, 01, 1, Malbork 
+22, 09, 03, 2, Lichnowy 
+22, 09, 04, 2, Malbork 
+22, 09, 06, 2, Miłoradz 
+22, 09, 07, 3, Nowy Staw 
+22, 09, 07, 4, Nowy Staw miasto 
+22, 09, 07, 5, Nowy Staw obszar wiejski 
+22, 09, 08, 2, Stare Pole 
+22, 10, 01, 1, Krynica Morska 
+22, 10, 02, 3, Nowy Dwór Gdański 
+22, 10, 02, 4, Nowy Dwór Gdański miasto 
+22, 10, 02, 5, Nowy Dwór Gdański obszar wiejski 
+22, 10, 03, 2, Ostaszewo 
+22, 10, 04, 2, Stegna 
+22, 10, 05, 2, Sztutowo 
+22, 11, 01, 1, Hel 
+22, 11, 02, 1, Jastarnia 
+22, 11, 03, 1, Puck 
+22, 11, 04, 1, Władysławowo 
+22, 11, 05, 2, Kosakowo 
+22, 11, 06, 2, Krokowa 
+22, 11, 07, 2, Puck 
+22, 12, 01, 1, Ustka 
+22, 12, 02, 2, Damnica 
+22, 12, 03, 2, Dębnica Kaszubska 
+22, 12, 04, 2, Główczyce 
+22, 12, 05, 3, Kępice 
+22, 12, 05, 4, Kępice miasto 
+22, 12, 05, 5, Kępice obszar wiejski 
+22, 12, 06, 2, Kobylnica 
+22, 12, 07, 2, Potęgowo 
+22, 12, 08, 2, Słupsk 
+22, 12, 09, 2, Smołdzino 
+22, 12, 10, 2, Ustka 
+22, 13, 01, 1, Czarna Woda 
+22, 13, 02, 1, Skórcz 
+22, 13, 03, 1, Starogard Gdański 
+22, 13, 04, 2, Bobowo 
+22, 13, 05, 2, Kaliska 
+22, 13, 06, 2, Lubichowo 
+22, 13, 07, 2, Osieczna 
+22, 13, 08, 2, Osiek 
+22, 13, 09, 3, Skarszewy 
+22, 13, 09, 4, Skarszewy miasto 
+22, 13, 09, 5, Skarszewy obszar wiejski 
+22, 13, 10, 2, Skórcz 
+22, 13, 11, 2, Smętowo Graniczne 
+22, 13, 12, 2, Starogard Gdański 
+22, 13, 13, 2, Zblewo 
+22, 16, 01, 3, Dzierzgoń 
+22, 16, 01, 4, Dzierzgoń miasto 
+22, 16, 01, 5, Dzierzgoń obszar wiejski 
+22, 16, 02, 2, Mikołajki Pomorskie 
+22, 16, 03, 2, Stary Dzierzgoń 
+22, 16, 04, 2, Stary Targ 
+22, 16, 05, 3, Sztum 
+22, 16, 05, 4, Sztum miasto 
+22, 16, 05, 5, Sztum obszar wiejski 
+22, 14, 01, 1, Tczew 
+22, 14, 02, 3, Gniew 
+22, 14, 02, 4, Gniew miasto 
+22, 14, 02, 5, Gniew obszar wiejski 
+22, 14, 03, 2, Morzeszczyn 
+22, 14, 04, 3, Pelplin 
+22, 14, 04, 4, Pelplin miasto 
+22, 14, 04, 5, Pelplin obszar wiejski 
+22, 14, 05, 2, Subkowy 
+22, 14, 06, 2, Tczew 
+22, 15, 01, 1, Reda 
+22, 15, 02, 1, Rumia 
+22, 15, 03, 1, Wejherowo 
+22, 15, 04, 2, Choczewo 
+22, 15, 05, 2, Gniewino 
+22, 15, 06, 2, Linia 
+22, 15, 07, 2, Luzino 
+22, 15, 08, 2, Łęczyce   
+22, 15, 09, 2, Szemud 
+22, 15, 10, 2, Wejherowo 
+22, 61, 01, 1, M. Gdańsk 
+22, 62, 01, 1, M. Gdynia 
+22, 63, 01, 1, M. Słupsk 
+22, 64, 01, 1, M. Sopot  
+24, 01, 01, 1, Będzin 
+24, 01, 02, 1, Czeladź   
+24, 01, 08, 1, Sławków 
+24, 01, 03, 1, Wojkowice 
+24, 01, 04, 2, Bobrowniki 
+24, 01, 05, 2, Mierzęcice 
+24, 01, 06, 2, Psary 
+24, 01, 07, 3, Siewierz 
+24, 01, 07, 4, Siewierz miasto 
+24, 01, 07, 5, Siewierz obszar wiejski 
+24, 02, 01, 1, Szczyrk 
+24, 02, 02, 2, Bestwina 
+24, 02, 03, 2, Buczkowice 
+24, 02, 04, 3, Czechowice-Dziedzice 
+24, 02, 04, 4, Czechowice-Dziedzice miasto 
+24, 02, 04, 5, Czechowice-Dziedzice obszar wiejski 
+24, 02, 05, 2, Jasienica 
+24, 02, 06, 2, Jaworze 
+24, 02, 07, 2, Kozy 
+24, 02, 08, 2, Porąbka 
+24, 02, 09, 3, Wilamowice 
+24, 02, 09, 4, Wilamowice miasto 
+24, 02, 09, 5, Wilamowice obszar wiejski 
+24, 02, 10, 2, Wilkowice 
+24, 14, 01, 1, Bieruń 
+24, 14, 02, 1, Imielin 
+24, 14, 03, 1, Lędziny 
+24, 14, 04, 2, Bojszowy 
+24, 14, 05, 2, Chełm Śląski 
+24, 03, 01, 1, Cieszyn 
+24, 03, 02, 1, Ustroń 
+24, 03, 03, 1, Wisła 
+24, 03, 04, 2, Brenna 
+24, 03, 05, 2, Chybie 
+24, 03, 06, 2, Dębowiec 
+24, 03, 07, 2, Goleszów 
+24, 03, 08, 2, Hażlach 
+24, 03, 09, 2, Istebna 
+24, 03, 10, 3, Skoczów 
+24, 03, 10, 4, Skoczów miasto 
+24, 03, 10, 5, Skoczów obszar wiejski 
+24, 03, 11, 3, Strumień 
+24, 03, 11, 4, Strumień miasto 
+24, 03, 11, 5, Strumień obszar wiejski 
+24, 03, 12, 2, Zebrzydowice 
+24, 04, 01, 3, Blachownia 
+24, 04, 01, 4, Blachownia miasto 
+24, 04, 01, 5, Blachownia obszar wiejski 
+24, 04, 02, 2, Dąbrowa Zielona 
+24, 04, 03, 2, Janów 
+24, 04, 04, 2, Kamienica Polska 
+24, 04, 05, 2, Kłomnice 
+24, 04, 06, 3, Koniecpol 
+24, 04, 06, 4, Koniecpol miasto 
+24, 04, 06, 5, Koniecpol obszar wiejski 
+24, 04, 07, 2, Konopiska 
+24, 04, 08, 2, Kruszyna 
+24, 04, 09, 2, Lelów 
+24, 04, 10, 2, Mstów 
+24, 04, 11, 2, Mykanów 
+24, 04, 12, 2, Olsztyn 
+24, 04, 13, 2, Poczesna 
+24, 04, 14, 2, Przyrów 
+24, 04, 15, 2, Rędziny 
+24, 04, 16, 2, Starcza 
+24, 05, 01, 1, Knurów 
+24, 05, 02, 1, Pyskowice 
+24, 05, 03, 2, Gierałtowice 
+24, 05, 04, 2, Pilchowice 
+24, 05, 05, 2, Rudziniec 
+24, 05, 06, 3, Sośnicowice 
+24, 05, 06, 4, Sośnicowice miasto 
+24, 05, 06, 5, Sośnicowice obszar wiejski 
+24, 05, 07, 3, Toszek 
+24, 05, 07, 4, Toszek miasto 
+24, 05, 07, 5, Toszek obszar wiejski 
+24, 05, 08, 2, Wielowieś 
+24, 06, 01, 3, Kłobuck 
+24, 06, 01, 4, Kłobuck miasto 
+24, 06, 01, 5, Kłobuck obszar wiejski 
+24, 06, 02, 3, Krzepice 
+24, 06, 02, 4, Krzepice miasto 
+24, 06, 02, 5, Krzepice obszar wiejski 
+24, 06, 03, 2, Lipie 
+24, 06, 04, 2, Miedźno 
+24, 06, 05, 2, Opatów 
+24, 06, 06, 2, Panki 
+24, 06, 07, 2, Popów 
+24, 06, 08, 2, Przystajń 
+24, 06, 09, 2, Wręczyca Wielka 
+24, 07, 01, 1, Lubliniec 
+24, 07, 02, 2, Boronów 
+24, 07, 03, 2, Ciasna 
+24, 07, 04, 2, Herby 
+24, 07, 05, 2, Kochanowice 
+24, 07, 06, 2, Koszęcin 
+24, 07, 07, 2, Pawonków 
+24, 07, 08, 3, Woźniki 
+24, 07, 08, 4, Woźniki miasto 
+24, 07, 08, 5, Woźniki obszar wiejski 
+24, 08, 01, 1, Łaziska Górne 
+24, 08, 02, 1, Mikołów 
+24, 08, 03, 1, Orzesze 
+24, 08, 04, 2, Ornontowice 
+24, 08, 05, 2, Wyry 
+24, 09, 01, 1, Myszków 
+24, 09, 02, 3, Koziegłowy 
+24, 09, 02, 4, Koziegłowy miasto 
+24, 09, 02, 5, Koziegłowy obszar wiejski 
+24, 09, 03, 2, Niegowa 
+24, 09, 04, 2, Poraj 
+24, 09, 05, 3, Żarki 
+24, 09, 05, 4, Żarki miasto 
+24, 09, 05, 5, Żarki obszar wiejski 
+24, 10, 01, 2, Goczałkowice-Zdrój 
+24, 10, 02, 2, Kobiór 
+24, 10, 03, 2, Miedźna 
+24, 10, 04, 2, Pawłowice 
+24, 10, 05, 3, Pszczyna 
+24, 10, 05, 4, Pszczyna miasto 
+24, 10, 05, 5, Pszczyna obszar wiejski 
+24, 10, 06, 2, Suszec 
+24, 11, 01, 1, Racibórz 
+24, 11, 02, 2, Kornowac 
+24, 11, 03, 3, Krzanowice 
+24, 11, 03, 4, Krzanowice miasto 
+24, 11, 03, 5, Krzanowice obszar wiejski 
+24, 11, 04, 2, Krzyżanowice 
+24, 11, 05, 3, Kuźnia Raciborska 
+24, 11, 05, 4, Kuźnia Raciborska miasto 
+24, 11, 05, 5, Kuźnia Raciborska obszar wiejski 
+24, 11, 06, 2, Nędza 
+24, 11, 07, 2, Pietrowice Wielkie 
+24, 11, 08, 2, Rudnik 
+24, 12, 01, 3, Czerwionka-Leszczyny 
+24, 12, 01, 4, Czerwionka-Leszczyny miasto 
+24, 12, 01, 5, Czerwionka-Leszczyny obszar wiejski 
+24, 12, 02, 2, Gaszowice 
+24, 12, 03, 2, Jejkowice 
+24, 12, 04, 2, Lyski 
+24, 12, 05, 2, Świerklany 
+24, 13, 01, 1, Kalety 
+24, 13, 02, 1, Miasteczko Śląskie 
+24, 13, 03, 1, Radzionków 
+24, 13, 04, 1, Tarnowskie Góry 
+24, 13, 05, 2, Krupski Młyn 
+24, 13, 06, 2, Ożarowice 
+24, 13, 07, 2, Świerklaniec 
+24, 13, 08, 2, Tworóg 
+24, 13, 09, 2, Zbrosławice 
+24, 15, 01, 1, Pszów 
+24, 15, 02, 1, Radlin 
+24, 15, 03, 1, Rydułtowy 
+24, 15, 04, 1, Wodzisław Śląski 
+24, 15, 05, 2, Godów 
+24, 15, 06, 2, Gorzyce   
+24, 15, 07, 2, Lubomia   
+24, 15, 08, 2, Marklowice  
+24, 15, 09, 2, Mszana 
+24, 16, 01, 1, Poręba 
+24, 16, 02, 1, Zawiercie 
+24, 16, 03, 2, Irządze   
+24, 16, 04, 2, Kroczyce  
+24, 16, 05, 3, Łazy 
+24, 16, 05, 4, Łazy miasto 
+24, 16, 05, 5, Łazy obszar wiejski 
+24, 16, 06, 3, Ogrodzieniec 
+24, 16, 06, 4, Ogrodzieniec miasto 
+24, 16, 06, 5, Ogrodzieniec obszar wiejski 
+24, 16, 07, 3, Pilica 
+24, 16, 07, 4, Pilica miasto 
+24, 16, 07, 5, Pilica obszar wiejski 
+24, 16, 08, 3, Szczekociny 
+24, 16, 08, 4, Szczekociny miasto 
+24, 16, 08, 5, Szczekociny obszar wiejski 
+24, 16, 09, 2, Włodowice 
+24, 16, 10, 2, Żarnowiec 
+24, 17, 01, 1, Żywiec 
+24, 17, 02, 2, Czernichów  
+24, 17, 03, 2, Gilowice  
+24, 17, 04, 2, Jeleśnia  
+24, 17, 05, 2, Koszarawa 
+24, 17, 06, 2, Lipowa 
+24, 17, 07, 2, Łękawica  
+24, 17, 08, 2, Łodygowice  
+24, 17, 09, 2, Milówka   
+24, 17, 10, 2, Radziechowy-Wieprz 
+24, 17, 11, 2, Rajcza 
+24, 17, 12, 2, Ślemień   
+24, 17, 13, 2, Świnna 
+24, 17, 14, 2, Ujsoły 
+24, 17, 15, 2, Węgierska Górka  
+24, 61, 01, 1, M. Bielsko-Biała 
+24, 62, 01, 1, M. Bytom  
+24, 63, 01, 1, M. Chorzów  
+24, 64, 01, 1, M. Częstochowa   
+24, 65, 01, 1, M. Dąbrowa Górnicza 
+24, 66, 01, 1, M. Gliwice  
+24, 67, 01, 1, M. Jastrzębie-Zdrój 
+24, 68, 01, 1, M. Jaworzno 
+24, 69, 01, 1, M. Katowice 
+24, 70, 01, 1, M. Mysłowice  
+24, 71, 01, 1, M. Piekary Śląskie 
+24, 72, 01, 1, M. Ruda Śląska   
+24, 73, 01, 1, M. Rybnik 
+24, 74, 01, 1, M. Siemianowice Śląskie  
+24, 75, 01, 1, M. Sosnowiec  
+24, 76, 01, 1, M. Świętochłowice  
+24, 77, 01, 1, M. Tychy  
+24, 78, 01, 1, M. Zabrze 
+24, 79, 01, 1, M. Żory 
+26, 01, 01, 3, Busko-Zdrój 
+26, 01, 01, 4, Busko-Zdrój miasto 
+26, 01, 01, 5, Busko-Zdrój obszar wiejski 
+26, 01, 02, 2, Gnojno 
+26, 01, 03, 2, Nowy Korczyn 
+26, 01, 04, 2, Pacanów 
+26, 01, 05, 2, Solec-Zdrój 
+26, 01, 06, 2, Stopnica 
+26, 01, 07, 2, Tuczępy 
+26, 01, 08, 2, Wiślica 
+26, 02, 01, 2, Imielno 
+26, 02, 02, 3, Jędrzejów 
+26, 02, 02, 4, Jędrzejów miasto 
+26, 02, 02, 5, Jędrzejów obszar wiejski 
+26, 02, 03, 3, Małogoszcz 
+26, 02, 03, 4, Małogoszcz miasto 
+26, 02, 03, 5, Małogoszcz obszar wiejski 
+26, 02, 04, 2, Nagłowice 
+26, 02, 05, 2, Oksa 
+26, 02, 06, 3, Sędziszów 
+26, 02, 06, 4, Sędziszów miasto 
+26, 02, 06, 5, Sędziszów obszar wiejski 
+26, 02, 07, 2, Słupia (Jędrzejowska) 
+26, 02, 08, 2, Sobków 
+26, 02, 09, 2, Wodzisław 
+26, 03, 01, 2, Bejsce 
+26, 03, 02, 2, Czarnocin 
+26, 03, 03, 3, Kazimierza Wielka 
+26, 03, 03, 4, Kazimierza Wielka miasto 
+26, 03, 03, 5, Kazimierza Wielka obszar wiejski 
+26, 03, 04, 2, Opatowiec 
+26, 03, 05, 3, Skalbmierz 
+26, 03, 05, 4, Skalbmierz miasto 
+26, 03, 05, 5, Skalbmierz obszar wiejski 
+26, 04, 01, 2, Bieliny 
+26, 04, 02, 3, Bodzentyn 
+26, 04, 02, 4, Bodzentyn miasto 
+26, 04, 02, 5, Bodzentyn obszar wiejski 
+26, 04, 03, 3, Chęciny 
+26, 04, 03, 4, Chęciny miasto 
+26, 04, 03, 5, Chęciny obszar wiejski 
+26, 04, 04, 3, Chmielnik 
+26, 04, 04, 4, Chmielnik miasto 
+26, 04, 04, 5, Chmielnik obszar wiejski 
+26, 04, 05, 2, Daleszyce 
+26, 04, 06, 2, Górno 
+26, 04, 07, 2, Łagów 
+26, 04, 08, 2, Łopuszno 
+26, 04, 09, 2, Masłów 
+26, 04, 10, 2, Miedziana Góra 
+26, 04, 11, 2, Mniów 
+26, 04, 12, 2, Morawica 
+26, 04, 13, 2, Nowa Słupia 
+26, 04, 14, 2, Piekoszów 
+26, 04, 15, 2, Pierzchnica 
+26, 04, 16, 2, Raków 
+26, 04, 17, 2, Sitkówka-Nowiny 
+26, 04, 18, 2, Strawczyn 
+26, 04, 19, 2, Zagnańsk 
+26, 05, 01, 2, Fałków 
+26, 05, 02, 2, Gowarczów 
+26, 05, 03, 3, Końskie 
+26, 05, 03, 4, Końskie miasto 
+26, 05, 03, 5, Końskie obszar wiejski 
+26, 05, 04, 2, Radoszyce 
+26, 05, 05, 2, Ruda Maleniecka 
+26, 05, 06, 2, Słupia (Konecka) 
+26, 05, 07, 2, Smyków 
+26, 05, 08, 3, Stąporków 
+26, 05, 08, 4, Stąporków miasto 
+26, 05, 08, 5, Stąporków obszar wiejski 
+26, 06, 01, 2, Baćkowice 
+26, 06, 02, 2, Iwaniska 
+26, 06, 03, 2, Lipnik 
+26, 06, 04, 3, Opatów 
+26, 06, 04, 4, Opatów miasto 
+26, 06, 04, 5, Opatów obszar wiejski 
+26, 06, 05, 3, Ożarów 
+26, 06, 05, 4, Ożarów miasto 
+26, 06, 05, 5, Ożarów obszar wiejski 
+26, 06, 06, 2, Sadowie 
+26, 06, 07, 2, Tarłów 
+26, 06, 08, 2, Wojciechowice 
+26, 07, 01, 1, Ostrowiec Świętokrzyski 
+26, 07, 02, 2, Bałtów 
+26, 07, 03, 2, Bodzechów 
+26, 07, 04, 3, Ćmielów 
+26, 07, 04, 4, Ćmielów miasto 
+26, 07, 04, 5, Ćmielów obszar wiejski 
+26, 07, 05, 3, Kunów 
+26, 07, 05, 4, Kunów miasto 
+26, 07, 05, 5, Kunów obszar wiejski 
+26, 07, 06, 2, Waśniów 
+26, 08, 01, 3, Działoszyce 
+26, 08, 01, 4, Działoszyce miasto 
+26, 08, 01, 5, Działoszyce obszar wiejski 
+26, 08, 02, 2, Kije 
+26, 08, 03, 2, Michałów 
+26, 08, 04, 3, Pińczów 
+26, 08, 04, 4, Pińczów miasto 
+26, 08, 04, 5, Pińczów obszar wiejski 
+26, 08, 05, 2, Złota 
+26, 09, 01, 1, Sandomierz 
+26, 09, 02, 2, Dwikozy 
+26, 09, 03, 2, Klimontów 
+26, 09, 04, 3, Koprzywnica 
+26, 09, 04, 4, Koprzywnica miasto 
+26, 09, 04, 5, Koprzywnica obszar wiejski 
+26, 09, 05, 2, Łoniów 
+26, 09, 06, 2, Obrazów 
+26, 09, 07, 2, Samborzec 
+26, 09, 08, 2, Wilczyce 
+26, 09, 09, 3, Zawichost 
+26, 09, 09, 4, Zawichost miasto 
+26, 09, 09, 5, Zawichost obszar wiejski 
+26, 10, 01, 1, Skarżysko-Kamienna 
+26, 10, 02, 2, Bliżyn 
+26, 10, 03, 2, Łączna 
+26, 10, 04, 2, Skarżysko Kościelne 
+26, 10, 05, 3, Suchedniów 
+26, 10, 05, 4, Suchedniów miasto 
+26, 10, 05, 5, Suchedniów obszar wiejski 
+26, 11, 01, 1, Starachowice 
+26, 11, 02, 2, Brody 
+26, 11, 03, 2, Mirzec 
+26, 11, 04, 2, Pawłów 
+26, 11, 05, 3, Wąchock 
+26, 11, 05, 4, Wąchock miasto 
+26, 11, 05, 5, Wąchock obszar wiejski 
+26, 12, 01, 2, Bogoria 
+26, 12, 02, 2, Łubnice 
+26, 12, 03, 2, Oleśnica 
+26, 12, 04, 3, Osiek 
+26, 12, 04, 4, Osiek miasto 
+26, 12, 04, 5, Osiek obszar wiejski 
+26, 12, 05, 3, Połaniec 
+26, 12, 05, 4, Połaniec miasto 
+26, 12, 05, 5, Połaniec obszar wiejski 
+26, 12, 06, 2, Rytwiany 
+26, 12, 07, 3, Staszów 
+26, 12, 07, 4, Staszów miasto 
+26, 12, 07, 5, Staszów obszar wiejski 
+26, 12, 08, 2, Szydłów 
+26, 13, 01, 2, Kluczewsko 
+26, 13, 02, 2, Krasocin 
+26, 13, 03, 2, Moskorzew 
+26, 13, 04, 2, Radków 
+26, 13, 05, 2, Secemin 
+26, 13, 06, 3, Włoszczowa 
+26, 13, 06, 4, Włoszczowa miasto 
+26, 13, 06, 5, Włoszczowa obszar wiejski 
+26, 61, 01, 1, M. Kielce 
+28, 01, 01, 1, Bartoszyce 
+28, 01, 02, 1, Górowo Iławeckie 
+28, 01, 03, 2, Bartoszyce 
+28, 01, 04, 3, Bisztynek 
+28, 01, 04, 4, Bisztynek miasto 
+28, 01, 04, 5, Bisztynek obszar wiejski 
+28, 01, 05, 2, Górowo Iławeckie 
+28, 01, 06, 3, Sępopol 
+28, 01, 06, 4, Sępopol miasto 
+28, 01, 06, 5, Sępopol obszar wiejski 
+28, 02, 01, 1, Braniewo 
+28, 02, 02, 2, Braniewo 
+28, 02, 03, 3, Frombork 
+28, 02, 03, 4, Frombork miasto 
+28, 02, 03, 5, Frombork obszar wiejski 
+28, 02, 04, 2, Lelkowo 
+28, 02, 05, 3, Pieniężno 
+28, 02, 05, 4, Pieniężno miasto 
+28, 02, 05, 5, Pieniężno obszar wiejski 
+28, 02, 06, 2, Płoskinia 
+28, 02, 07, 2, Wilczęta 
+28, 03, 01, 1, Działdowo 
+28, 03, 02, 2, Działdowo 
+28, 03, 03, 2, Iłowo-Osada 
+28, 03, 04, 3, Lidzbark 
+28, 03, 04, 4, Lidzbark miasto 
+28, 03, 04, 5, Lidzbark obszar wiejski 
+28, 03, 05, 2, Płośnica 
+28, 03, 06, 2, Rybno 
+28, 04, 01, 2, Elbląg 
+28, 04, 02, 2, Godkowo 
+28, 04, 03, 2, Gronowo Elbląskie 
+28, 04, 04, 2, Markusy 
+28, 04, 05, 2, Milejewo 
+28, 04, 06, 3, Młynary 
+28, 04, 06, 4, Młynary miasto 
+28, 04, 06, 5, Młynary obszar wiejski 
+28, 04, 07, 3, Pasłęk 
+28, 04, 07, 4, Pasłęk miasto 
+28, 04, 07, 5, Pasłęk obszar wiejski 
+28, 04, 08, 2, Rychliki 
+28, 04, 09, 3, Tolkmicko 
+28, 04, 09, 4, Tolkmicko miasto 
+28, 04, 09, 5, Tolkmicko obszar wiejski 
+28, 05, 01, 1, Ełk 
+28, 05, 02, 2, Ełk 
+28, 05, 03, 2, Kalinowo 
+28, 05, 04, 2, Prostki 
+28, 05, 05, 2, Stare Juchy 
+28, 06, 01, 1, Giżycko 
+28, 06, 04, 2, Giżycko 
+28, 06, 05, 2, Kruklanki 
+28, 06, 06, 2, Miłki 
+28, 06, 08, 3, Ryn 
+28, 06, 08, 4, Ryn miasto 
+28, 06, 08, 5, Ryn obszar wiejski 
+28, 06, 10, 2, Wydminy 
+28, 18, 01, 2, Banie Mazurskie 
+28, 18, 02, 2, Dubeninki 
+28, 18, 03, 3, Gołdap 
+28, 18, 03, 4, Gołdap miasto 
+28, 18, 03, 5, Gołdap obszar wiejski 
+28, 07, 01, 1, Iława 
+28, 07, 02, 1, Lubawa 
+28, 07, 03, 2, Iława 
+28, 07, 04, 3, Kisielice 
+28, 07, 04, 4, Kisielice miasto 
+28, 07, 04, 5, Kisielice obszar wiejski 
+28, 07, 05, 2, Lubawa 
+28, 07, 06, 3, Susz 
+28, 07, 06, 4, Susz miasto 
+28, 07, 06, 5, Susz obszar wiejski 
+28, 07, 07, 3, Zalewo 
+28, 07, 07, 4, Zalewo miasto 
+28, 07, 07, 5, Zalewo obszar wiejski 
+28, 08, 01, 1, Kętrzyn 
+28, 08, 02, 2, Barciany 
+28, 08, 03, 2, Kętrzyn 
+28, 08, 04, 3, Korsze 
+28, 08, 04, 4, Korsze miasto 
+28, 08, 04, 5, Korsze obszar wiejski 
+28, 08, 05, 3, Reszel 
+28, 08, 05, 4, Reszel miasto 
+28, 08, 05, 5, Reszel obszar wiejski 
+28, 08, 06, 2, Srokowo 
+28, 09, 01, 1, Lidzbark Warmiński 
+28, 09, 02, 2, Kiwity 
+28, 09, 03, 2, Lidzbark Warmiński 
+28, 09, 04, 2, Lubomino 
+28, 09, 05, 3, Orneta 
+28, 09, 05, 4, Orneta miasto 
+28, 09, 05, 5, Orneta obszar wiejski 
+28, 10, 01, 1, Mrągowo 
+28, 10, 02, 3, Mikołajki 
+28, 10, 02, 4, Mikołajki miasto 
+28, 10, 02, 5, Mikołajki obszar wiejski 
+28, 10, 03, 2, Mrągowo 
+28, 10, 04, 2, Piecki 
+28, 10, 05, 2, Sorkwity 
+28, 11, 01, 2, Janowiec Kościelny 
+28, 11, 02, 2, Janowo 
+28, 11, 03, 2, Kozłowo 
+28, 11, 04, 3, Nidzica 
+28, 11, 04, 4, Nidzica miasto 
+28, 11, 04, 5, Nidzica obszar wiejski 
+28, 12, 01, 1, Nowe Miasto Lubawskie 
+28, 12, 02, 2, Biskupiec 
+28, 12, 03, 2, Grodziczno 
+28, 12, 04, 2, Kurzętnik 
+28, 12, 05, 2, Nowe Miasto Lubawskie 
+28, 13, 03, 2, Kowale Oleckie 
+28, 13, 04, 3, Olecko 
+28, 13, 04, 4, Olecko miasto 
+28, 13, 04, 5, Olecko obszar wiejski 
+28, 13, 05, 2, Świętajno 
+28, 13, 06, 2, Wieliczki 
+28, 14, 01, 3, Barczewo 
+28, 14, 01, 4, Barczewo miasto 
+28, 14, 01, 5, Barczewo obszar wiejski 
+28, 14, 02, 3, Biskupiec 
+28, 14, 02, 4, Biskupiec miasto 
+28, 14, 02, 5, Biskupiec obszar wiejski 
+28, 14, 03, 3, Dobre Miasto 
+28, 14, 03, 4, Dobre Miasto miasto 
+28, 14, 03, 5, Dobre Miasto obszar wiejski 
+28, 14, 04, 2, Dywity 
+28, 14, 05, 2, Gietrzwałd 
+28, 14, 06, 3, Jeziorany 
+28, 14, 06, 4, Jeziorany miasto 
+28, 14, 06, 5, Jeziorany obszar wiejski 
+28, 14, 07, 2, Jonkowo 
+28, 14, 08, 2, Kolno 
+28, 14, 09, 3, Olsztynek 
+28, 14, 09, 4, Olsztynek miasto 
+28, 14, 09, 5, Olsztynek obszar wiejski 
+28, 14, 10, 2, Purda 
+28, 14, 11, 2, Stawiguda 
+28, 14, 12, 2, Świątki 
+28, 15, 01, 1, Ostróda 
+28, 15, 02, 2, Dąbrówno 
+28, 15, 03, 2, Grunwald 
+28, 15, 04, 2, Łukta 
+28, 15, 05, 2, Małdyty 
+28, 15, 06, 3, Miłakowo 
+28, 15, 06, 4, Miłakowo miasto 
+28, 15, 06, 5, Miłakowo obszar wiejski 
+28, 15, 07, 3, Miłomłyn 
+28, 15, 07, 4, Miłomłyn miasto 
+28, 15, 07, 5, Miłomłyn obszar wiejski 
+28, 15, 08, 3, Morąg 
+28, 15, 08, 4, Morąg miasto 
+28, 15, 08, 5, Morąg obszar wiejski 
+28, 15, 09, 2, Ostróda 
+28, 16, 01, 3, Biała Piska 
+28, 16, 01, 4, Biała Piska miasto 
+28, 16, 01, 5, Biała Piska obszar wiejski 
+28, 16, 02, 3, Orzysz 
+28, 16, 02, 4, Orzysz miasto 
+28, 16, 02, 5, Orzysz obszar wiejski 
+28, 16, 03, 3, Pisz 
+28, 16, 03, 4, Pisz miasto 
+28, 16, 03, 5, Pisz obszar wiejski 
+28, 16, 04, 3, Ruciane-Nida 
+28, 16, 04, 4, Ruciane-Nida miasto 
+28, 16, 04, 5, Ruciane-Nida obszar wiejski 
+28, 17, 01, 1, Szczytno 
+28, 17, 02, 2, Dźwierzuty 
+28, 17, 03, 2, Jedwabno 
+28, 17, 04, 3, Pasym 
+28, 17, 04, 4, Pasym miasto 
+28, 17, 04, 5, Pasym obszar wiejski 
+28, 17, 05, 2, Rozogi 
+28, 17, 06, 2, Szczytno 
+28, 17, 07, 2, Świętajno 
+28, 17, 08, 2, Wielbark 
+28, 19, 01, 2, Budry 
+28, 19, 02, 2, Pozezdrze 
+28, 19, 03, 3, Węgorzewo 
+28, 19, 03, 4, Węgorzewo miasto 
+28, 19, 03, 5, Węgorzewo obszar wiejski 
+28, 61, 01, 1, M. Elbląg 
+28, 62, 01, 1, M. Olsztyn 
+30, 01, 01, 1, Chodzież 
+30, 01, 02, 2, Budzyń 
+30, 01, 03, 2, Chodzież 
+30, 01, 04, 3, Margonin 
+30, 01, 04, 4, Margonin miasto 
+30, 01, 04, 5, Margonin obszar wiejski 
+30, 01, 05, 3, Szamocin 
+30, 01, 05, 4, Szamocin miasto 
+30, 01, 05, 5, Szamocin obszar wiejski 
+30, 02, 01, 1, Czarnków 
+30, 02, 02, 2, Czarnków 
+30, 02, 03, 2, Drawsko 
+30, 02, 04, 3, Krzyż Wielkopolski 
+30, 02, 04, 4, Krzyż Wielkopolski miasto 
+30, 02, 04, 5, Krzyż Wielkopolski obszar wiejski 
+30, 02, 05, 2, Lubasz 
+30, 02, 06, 2, Połajewo 
+30, 02, 07, 3, Trzcianka 
+30, 02, 07, 4, Trzcianka miasto 
+30, 02, 07, 5, Trzcianka obszar wiejski 
+30, 02, 08, 3, Wieleń 
+30, 02, 08, 4, Wieleń miasto 
+30, 02, 08, 5, Wieleń obszar wiejski 
+30, 03, 01, 1, Gniezno 
+30, 03, 02, 3, Czerniejewo 
+30, 03, 02, 4, Czerniejewo miasto 
+30, 03, 02, 5, Czerniejewo obszar wiejski 
+30, 03, 03, 2, Gniezno 
+30, 03, 04, 2, Kiszkowo 
+30, 03, 05, 3, Kłecko 
+30, 03, 05, 4, Kłecko miasto 
+30, 03, 05, 5, Kłecko obszar wiejski 
+30, 03, 06, 2, Łubowo 
+30, 03, 07, 2, Mieleszyn 
+30, 03, 08, 2, Niechanowo 
+30, 03, 09, 3, Trzemeszno 
+30, 03, 09, 4, Trzemeszno miasto 
+30, 03, 09, 5, Trzemeszno obszar wiejski 
+30, 03, 10, 3, Witkowo 
+30, 03, 10, 4, Witkowo miasto 
+30, 03, 10, 5, Witkowo obszar wiejski 
+30, 04, 01, 3, Borek Wielkopolski 
+30, 04, 01, 4, Borek Wielkopolski miasto 
+30, 04, 01, 5, Borek Wielkopolski obszar wiejski 
+30, 04, 02, 3, Gostyń 
+30, 04, 02, 4, Gostyń miasto 
+30, 04, 02, 5, Gostyń obszar wiejski 
+30, 04, 03, 3, Krobia 
+30, 04, 03, 4, Krobia miasto 
+30, 04, 03, 5, Krobia obszar wiejski 
+30, 04, 04, 2, Pępowo 
+30, 04, 05, 2, Piaski 
+30, 04, 06, 3, Pogorzela 
+30, 04, 06, 4, Pogorzela miasto 
+30, 04, 06, 5, Pogorzela obszar wiejski 
+30, 04, 07, 3, Poniec 
+30, 04, 07, 4, Poniec miasto 
+30, 04, 07, 5, Poniec obszar wiejski 
+30, 05, 01, 2, Granowo 
+30, 05, 02, 3, Grodzisk Wielkopolski 
+30, 05, 02, 4, Grodzisk Wielkopolski miasto 
+30, 05, 02, 5, Grodzisk Wielkopolski obszar wiejski 
+30, 05, 03, 2, Kamieniec 
+30, 05, 04, 3, Rakoniewice 
+30, 05, 04, 4, Rakoniewice miasto 
+30, 05, 04, 5, Rakoniewice obszar wiejski 
+30, 05, 05, 3, Wielichowo 
+30, 05, 05, 4, Wielichowo miasto 
+30, 05, 05, 5, Wielichowo obszar wiejski 
+30, 06, 01, 2, Jaraczewo 
+30, 06, 02, 3, Jarocin 
+30, 06, 02, 4, Jarocin miasto 
+30, 06, 02, 5, Jarocin obszar wiejski 
+30, 06, 03, 2, Kotlin 
+30, 06, 04, 3, Żerków 
+30, 06, 04, 4, Żerków miasto 
+30, 06, 04, 5, Żerków obszar wiejski 
+30, 07, 01, 2, Blizanów 
+30, 07, 02, 2, Brzeziny 
+30, 07, 03, 2, Ceków-Kolonia 
+30, 07, 04, 2, Godziesze Wielkie 
+30, 07, 05, 2, Koźminek 
+30, 07, 06, 2, Lisków 
+30, 07, 07, 2, Mycielin 
+30, 07, 08, 2, Opatówek 
+30, 07, 09, 3, Stawiszyn 
+30, 07, 09, 4, Stawiszyn miasto 
+30, 07, 09, 5, Stawiszyn obszar wiejski 
+30, 07, 10, 2, Szczytniki 
+30, 07, 11, 2, Żelazków 
+30, 08, 01, 2, Baranów 
+30, 08, 02, 2, Bralin 
+30, 08, 03, 3, Kępno 
+30, 08, 03, 4, Kępno miasto 
+30, 08, 03, 5, Kępno obszar wiejski 
+30, 08, 04, 2, Łęka Opatowska 
+30, 08, 05, 2, Perzów 
+30, 08, 06, 2, Rychtal 
+30, 08, 07, 2, Trzcinica 
+30, 09, 01, 1, Koło 
+30, 09, 02, 2, Babiak 
+30, 09, 03, 2, Chodów 
+30, 09, 04, 3, Dąbie 
+30, 09, 04, 4, Dąbie miasto 
+30, 09, 04, 5, Dąbie obszar wiejski 
+30, 09, 05, 2, Grzegorzew 
+30, 09, 06, 3, Kłodawa 
+30, 09, 06, 4, Kłodawa miasto 
+30, 09, 06, 5, Kłodawa obszar wiejski 
+30, 09, 07, 2, Koło 
+30, 09, 08, 2, Kościelec 
+30, 09, 09, 2, Olszówka 
+30, 09, 10, 2, Osiek Mały 
+30, 09, 11, 3, Przedecz 
+30, 09, 11, 4, Przedecz miasto 
+30, 09, 11, 5, Przedecz obszar wiejski 
+30, 10, 01, 3, Golina 
+30, 10, 01, 4, Golina miasto 
+30, 10, 01, 5, Golina obszar wiejski 
+30, 10, 02, 2, Grodziec 
+30, 10, 03, 2, Kazimierz Biskupi 
+30, 10, 04, 3, Kleczew 
+30, 10, 04, 4, Kleczew miasto 
+30, 10, 04, 5, Kleczew obszar wiejski 
+30, 10, 05, 2, Kramsk 
+30, 10, 06, 2, Krzymów 
+30, 10, 07, 3, Rychwał 
+30, 10, 07, 4, Rychwał miasto 
+30, 10, 07, 5, Rychwał obszar wiejski 
+30, 10, 08, 2, Rzgów 
+30, 10, 09, 2, Skulsk 
+30, 10, 10, 3, Sompolno 
+30, 10, 10, 4, Sompolno miasto 
+30, 10, 10, 5, Sompolno obszar wiejski 
+30, 10, 11, 2, Stare Miasto 
+30, 10, 12, 3, Ślesin 
+30, 10, 12, 4, Ślesin miasto 
+30, 10, 12, 5, Ślesin obszar wiejski 
+30, 10, 13, 2, Wierzbinek 
+30, 10, 14, 2, Wilczyn 
+30, 11, 01, 1, Kościan 
+30, 11, 02, 3, Czempiń 
+30, 11, 02, 4, Czempiń miasto 
+30, 11, 02, 5, Czempiń obszar wiejski 
+30, 11, 03, 2, Kościan 
+30, 11, 04, 3, Krzywiń 
+30, 11, 04, 4, Krzywiń miasto 
+30, 11, 04, 5, Krzywiń obszar wiejski 
+30, 11, 05, 3, Śmigiel 
+30, 11, 05, 4, Śmigiel miasto 
+30, 11, 05, 5, Śmigiel obszar wiejski 
+30, 12, 01, 1, Sulmierzyce 
+30, 12, 02, 3, Kobylin 
+30, 12, 02, 4, Kobylin miasto 
+30, 12, 02, 5, Kobylin obszar wiejski 
+30, 12, 03, 3, Koźmin Wielkopolski 
+30, 12, 03, 4, Koźmin Wielkopolski miasto 
+30, 12, 03, 5, Koźmin Wielkopolski obszar wiejski 
+30, 12, 04, 3, Krotoszyn 
+30, 12, 04, 4, Krotoszyn miasto 
+30, 12, 04, 5, Krotoszyn obszar wiejski 
+30, 12, 05, 2, Rozdrażew 
+30, 12, 06, 3, Zduny 
+30, 12, 06, 4, Zduny miasto 
+30, 12, 06, 5, Zduny obszar wiejski 
+30, 13, 01, 2, Krzemieniewo 
+30, 13, 02, 2, Lipno 
+30, 13, 03, 3, Osieczna 
+30, 13, 03, 4, Osieczna miasto 
+30, 13, 03, 5, Osieczna obszar wiejski 
+30, 13, 04, 3, Rydzyna 
+30, 13, 04, 4, Rydzyna miasto 
+30, 13, 04, 5, Rydzyna obszar wiejski 
+30, 13, 05, 2, Święciechowa 
+30, 13, 06, 2, Wijewo 
+30, 13, 07, 2, Włoszakowice 
+30, 14, 01, 2, Chrzypsko Wielkie 
+30, 14, 02, 2, Kwilcz 
+30, 14, 03, 3, Międzychód 
+30, 14, 03, 4, Międzychód miasto 
+30, 14, 03, 5, Międzychód obszar wiejski 
+30, 14, 04, 3, Sieraków 
+30, 14, 04, 4, Sieraków miasto 
+30, 14, 04, 5, Sieraków obszar wiejski 
+30, 15, 01, 2, Kuślin 
+30, 15, 02, 3, Lwówek 
+30, 15, 02, 4, Lwówek miasto 
+30, 15, 02, 5, Lwówek obszar wiejski 
+30, 15, 03, 2, Miedzichowo 
+30, 15, 04, 3, Nowy Tomyśl 
+30, 15, 04, 4, Nowy Tomyśl miasto 
+30, 15, 04, 5, Nowy Tomyśl obszar wiejski 
+30, 15, 05, 3, Opalenica 
+30, 15, 05, 4, Opalenica miasto 
+30, 15, 05, 5, Opalenica obszar wiejski 
+30, 15, 06, 3, Zbąszyń 
+30, 15, 06, 4, Zbąszyń miasto 
+30, 15, 06, 5, Zbąszyń obszar wiejski 
+30, 16, 01, 3, Oborniki 
+30, 16, 01, 4, Oborniki miasto 
+30, 16, 01, 5, Oborniki obszar wiejski 
+30, 16, 02, 3, Rogoźno 
+30, 16, 02, 4, Rogoźno miasto 
+30, 16, 02, 5, Rogoźno obszar wiejski 
+30, 16, 03, 2, Ryczywół 
+30, 17, 01, 1, Ostrów Wielkopolski 
+30, 17, 02, 3, Nowe Skalmierzyce 
+30, 17, 02, 4, Nowe Skalmierzyce miasto 
+30, 17, 02, 5, Nowe Skalmierzyce obszar wiejski 
+30, 17, 03, 3, Odolanów 
+30, 17, 03, 4, Odolanów miasto 
+30, 17, 03, 5, Odolanów obszar wiejski 
+30, 17, 04, 2, Ostrów Wielkopolski 
+30, 17, 05, 2, Przygodzice 
+30, 17, 06, 3, Raszków 
+30, 17, 06, 4, Raszków miasto 
+30, 17, 06, 5, Raszków obszar wiejski 
+30, 17, 07, 2, Sieroszewice 
+30, 17, 08, 2, Sośnie 
+30, 18, 01, 2, Czajków 
+30, 18, 02, 2, Doruchów 
+30, 18, 03, 3, Grabów nad Prosną 
+30, 18, 03, 4, Grabów nad Prosną miasto 
+30, 18, 03, 5, Grabów nad Prosną obszar wiejski 
+30, 18, 04, 2, Kobyla Góra 
+30, 18, 05, 2, Kraszewice 
+30, 18, 06, 3, Mikstat 
+30, 18, 06, 4, Mikstat miasto 
+30, 18, 06, 5, Mikstat obszar wiejski 
+30, 18, 07, 3, Ostrzeszów 
+30, 18, 07, 4, Ostrzeszów miasto 
+30, 18, 07, 5, Ostrzeszów obszar wiejski 
+30, 19, 01, 1, Piła 
+30, 19, 02, 2, Białośliwie 
+30, 19, 03, 2, Kaczory 
+30, 19, 04, 3, Łobżenica 
+30, 19, 04, 4, Łobżenica miasto 
+30, 19, 04, 5, Łobżenica obszar wiejski 
+30, 19, 05, 2, Miasteczko Krajeńskie 
+30, 19, 06, 2, Szydłowo 
+30, 19, 07, 3, Ujście 
+30, 19, 07, 4, Ujście miasto 
+30, 19, 07, 5, Ujście obszar wiejski 
+30, 19, 08, 3, Wyrzysk 
+30, 19, 08, 4, Wyrzysk miasto 
+30, 19, 08, 5, Wyrzysk obszar wiejski 
+30, 19, 09, 3, Wysoka 
+30, 19, 09, 4, Wysoka miasto 
+30, 19, 09, 5, Wysoka obszar wiejski 
+30, 20, 01, 2, Chocz 
+30, 20, 02, 2, Czermin 
+30, 20, 03, 2, Dobrzyca 
+30, 20, 04, 2, Gizałki 
+30, 20, 05, 2, Gołuchów 
+30, 20, 06, 3, Pleszew 
+30, 20, 06, 4, Pleszew miasto 
+30, 20, 06, 5, Pleszew obszar wiejski 
+30, 21, 01, 1, Luboń 
+30, 21, 02, 1, Puszczykowo 
+30, 21, 03, 3, Buk 
+30, 21, 03, 4, Buk miasto 
+30, 21, 03, 5, Buk obszar wiejski 
+30, 21, 04, 2, Czerwonak 
+30, 21, 05, 2, Dopiewo 
+30, 21, 06, 2, Kleszczewo 
+30, 21, 07, 2, Komorniki 
+30, 21, 08, 3, Kostrzyn 
+30, 21, 08, 4, Kostrzyn miasto 
+30, 21, 08, 5, Kostrzyn obszar wiejski 
+30, 21, 09, 3, Kórnik 
+30, 21, 09, 4, Kórnik miasto 
+30, 21, 09, 5, Kórnik obszar wiejski 
+30, 21, 10, 3, Mosina 
+30, 21, 10, 4, Mosina miasto 
+30, 21, 10, 5, Mosina obszar wiejski 
+30, 21, 11, 3, Murowana Goślina 
+30, 21, 11, 4, Murowana Goślina miasto 
+30, 21, 11, 5, Murowana Goślina obszar wiejski 
+30, 21, 12, 3, Pobiedziska 
+30, 21, 12, 4, Pobiedziska miasto 
+30, 21, 12, 5, Pobiedziska obszar wiejski 
+30, 21, 13, 2, Rokietnica 
+30, 21, 14, 3, Stęszew 
+30, 21, 14, 4, Stęszew miasto 
+30, 21, 14, 5, Stęszew obszar wiejski 
+30, 21, 15, 2, Suchy Las 
+30, 21, 16, 3, Swarzędz 
+30, 21, 16, 4, Swarzędz miasto 
+30, 21, 16, 5, Swarzędz obszar wiejski 
+30, 21, 17, 2, Tarnowo Podgórne 
+30, 22, 01, 3, Bojanowo 
+30, 22, 01, 4, Bojanowo miasto 
+30, 22, 01, 5, Bojanowo obszar wiejski 
+30, 22, 02, 3, Jutrosin 
+30, 22, 02, 4, Jutrosin miasto 
+30, 22, 02, 5, Jutrosin obszar wiejski 
+30, 22, 03, 3, Miejska Górka 
+30, 22, 03, 4, Miejska Górka miasto 
+30, 22, 03, 5, Miejska Górka obszar wiejski 
+30, 22, 04, 2, Pakosław 
+30, 22, 05, 3, Rawicz 
+30, 22, 05, 4, Rawicz miasto 
+30, 22, 05, 5, Rawicz obszar wiejski 
+30, 23, 01, 1, Słupca 
+30, 23, 02, 2, Lądek 
+30, 23, 03, 2, Orchowo 
+30, 23, 04, 2, Ostrowite 
+30, 23, 05, 2, Powidz 
+30, 23, 06, 2, Słupca 
+30, 23, 07, 2, Strzałkowo 
+30, 23, 08, 3, Zagórów 
+30, 23, 08, 4, Zagórów miasto 
+30, 23, 08, 5, Zagórów obszar wiejski 
+30, 24, 01, 1, Obrzycko 
+30, 24, 02, 2, Duszniki 
+30, 24, 03, 2, Kaźmierz 
+30, 24, 04, 2, Obrzycko 
+30, 24, 05, 3, Ostroróg 
+30, 24, 05, 4, Ostroróg miasto 
+30, 24, 05, 5, Ostroróg obszar wiejski 
+30, 24, 06, 3, Pniewy 
+30, 24, 06, 4, Pniewy miasto 
+30, 24, 06, 5, Pniewy obszar wiejski 
+30, 24, 07, 3, Szamotuły 
+30, 24, 07, 4, Szamotuły miasto 
+30, 24, 07, 5, Szamotuły obszar wiejski 
+30, 24, 08, 3, Wronki 
+30, 24, 08, 4, Wronki miasto 
+30, 24, 08, 5, Wronki obszar wiejski 
+30, 25, 01, 2, Dominowo 
+30, 25, 02, 2, Krzykosy 
+30, 25, 03, 2, Nowe Miasto nad Wartą 
+30, 25, 04, 3, Środa Wielkopolska 
+30, 25, 04, 4, Środa Wielkopolska miasto 
+30, 25, 04, 5, Środa Wielkopolska obszar wiejski 
+30, 25, 05, 2, Zaniemyśl 
+30, 26, 01, 2, Brodnica 
+30, 26, 02, 3, Dolsk 
+30, 26, 02, 4, Dolsk miasto 
+30, 26, 02, 5, Dolsk obszar wiejski 
+30, 26, 03, 3, Książ Wielkopolski 
+30, 26, 03, 4, Książ Wielkopolski miasto 
+30, 26, 03, 5, Książ Wielkopolski obszar wiejski 
+30, 26, 04, 3, Śrem 
+30, 26, 04, 4, Śrem miasto 
+30, 26, 04, 5, Śrem obszar wiejski 
+30, 27, 01, 1, Turek 
+30, 27, 02, 2, Brudzew 
+30, 27, 03, 3, Dobra 
+30, 27, 03, 4, Dobra miasto 
+30, 27, 03, 5, Dobra obszar wiejski 
+30, 27, 04, 2, Kawęczyn 
+30, 27, 05, 2, Malanów 
+30, 27, 06, 2, Przykona 
+30, 27, 07, 3, Tuliszków 
+30, 27, 07, 4, Tuliszków miasto 
+30, 27, 07, 5, Tuliszków obszar wiejski 
+30, 27, 08, 2, Turek 
+30, 27, 09, 2, Władysławów 
+30, 28, 01, 1, Wągrowiec 
+30, 28, 02, 2, Damasławek 
+30, 28, 03, 3, Gołańcz 
+30, 28, 03, 4, Gołańcz miasto 
+30, 28, 03, 5, Gołańcz obszar wiejski 
+30, 28, 04, 2, Mieścisko 
+30, 28, 05, 3, Skoki 
+30, 28, 05, 4, Skoki miasto 
+30, 28, 05, 5, Skoki obszar wiejski 
+30, 28, 06, 2, Wapno 
+30, 28, 07, 2, Wągrowiec 
+30, 29, 01, 2, Przemęt 
+30, 29, 02, 2, Siedlec 
+30, 29, 03, 3, Wolsztyn 
+30, 29, 03, 4, Wolsztyn miasto 
+30, 29, 03, 5, Wolsztyn obszar wiejski 
+30, 30, 01, 2, Kołaczkowo 
+30, 30, 02, 3, Miłosław 
+30, 30, 02, 4, Miłosław miasto 
+30, 30, 02, 5, Miłosław obszar wiejski 
+30, 30, 03, 3, Nekla 
+30, 30, 03, 4, Nekla miasto 
+30, 30, 03, 5, Nekla obszar wiejski 
+30, 30, 04, 3, Pyzdry 
+30, 30, 04, 4, Pyzdry miasto 
+30, 30, 04, 5, Pyzdry obszar wiejski 
+30, 30, 05, 3, Września 
+30, 30, 05, 4, Września miasto 
+30, 30, 05, 5, Września obszar wiejski 
+30, 31, 01, 1, Złotów 
+30, 31, 02, 3, Jastrowie 
+30, 31, 02, 4, Jastrowie miasto 
+30, 31, 02, 5, Jastrowie obszar wiejski 
+30, 31, 03, 3, Krajenka 
+30, 31, 03, 4, Krajenka miasto 
+30, 31, 03, 5, Krajenka obszar wiejski 
+30, 31, 04, 2, Lipka 
+30, 31, 05, 3, Okonek 
+30, 31, 05, 4, Okonek miasto 
+30, 31, 05, 5, Okonek obszar wiejski 
+30, 31, 06, 2, Tarnówka 
+30, 31, 07, 2, Zakrzewo 
+30, 31, 08, 2, Złotów 
+30, 61, 01, 1, M. Kalisz 
+30, 62, 01, 1, M. Konin 
+30, 63, 01, 1, M. Leszno 
+30, 64, 01, 1, M. Poznań 
+30, 64, 02, 9, Poznań-Grunwald 
+30, 64, 03, 9, Poznań-Jeżyce 
+30, 64, 04, 9, Poznań-Nowe Miasto 
+30, 64, 05, 9, Poznań-Stare Miasto 
+30, 64, 06, 9, Poznań-Wilda 
+32, 01, 01, 1, Białogard 
+32, 01, 02, 2, Białogard 
+32, 01, 03, 3, Karlino 
+32, 01, 03, 4, Karlino miasto 
+32, 01, 03, 5, Karlino obszar wiejski 
+32, 01, 04, 2, Tychowo 
+32, 02, 01, 2, Bierzwnik 
+32, 02, 02, 3, Choszczno 
+32, 02, 02, 4, Choszczno miasto 
+32, 02, 02, 5, Choszczno obszar wiejski 
+32, 02, 03, 3, Drawno 
+32, 02, 03, 4, Drawno miasto 
+32, 02, 03, 5, Drawno obszar wiejski 
+32, 02, 04, 2, Krzęcin 
+32, 02, 05, 3, Pełczyce 
+32, 02, 05, 4, Pełczyce miasto 
+32, 02, 05, 5, Pełczyce obszar wiejski 
+32, 02, 06, 3, Recz 
+32, 02, 06, 4, Recz miasto 
+32, 02, 06, 5, Recz obszar wiejski 
+32, 03, 01, 3, Czaplinek 
+32, 03, 01, 4, Czaplinek miasto 
+32, 03, 01, 5, Czaplinek obszar wiejski 
+32, 03, 02, 3, Drawsko Pomorskie 
+32, 03, 02, 4, Drawsko Pomorskie miasto 
+32, 03, 02, 5, Drawsko Pomorskie obszar wiejski 
+32, 03, 03, 3, Kalisz Pomorski 
+32, 03, 03, 4, Kalisz Pomorski miasto 
+32, 03, 03, 5, Kalisz Pomorski obszar wiejski 
+32, 03, 04, 2, Ostrowice 
+32, 03, 05, 2, Wierzchowo 
+32, 03, 06, 3, Złocieniec 
+32, 03, 06, 4, Złocieniec miasto 
+32, 03, 06, 5, Złocieniec obszar wiejski 
+32, 04, 02, 3, Goleniów 
+32, 04, 02, 4, Goleniów miasto 
+32, 04, 02, 5, Goleniów obszar wiejski 
+32, 04, 03, 3, Maszewo 
+32, 04, 03, 4, Maszewo miasto 
+32, 04, 03, 5, Maszewo obszar wiejski 
+32, 04, 04, 3, Nowogard 
+32, 04, 04, 4, Nowogard miasto 
+32, 04, 04, 5, Nowogard obszar wiejski 
+32, 04, 05, 2, Osina 
+32, 04, 06, 2, Przybiernów 
+32, 04, 07, 2, Stepnica 
+32, 05, 01, 2, Brojce 
+32, 05, 02, 3, Gryfice 
+32, 05, 02, 4, Gryfice miasto 
+32, 05, 02, 5, Gryfice obszar wiejski 
+32, 05, 03, 2, Karnice 
+32, 05, 04, 3, Płoty 
+32, 05, 04, 4, Płoty miasto 
+32, 05, 04, 5, Płoty obszar wiejski 
+32, 05, 07, 2, Rewal 
+32, 05, 08, 3, Trzebiatów 
+32, 05, 08, 4, Trzebiatów miasto 
+32, 05, 08, 5, Trzebiatów obszar wiejski 
+32, 06, 01, 2, Banie 
+32, 06, 02, 3, Cedynia 
+32, 06, 02, 4, Cedynia miasto 
+32, 06, 02, 5, Cedynia obszar wiejski 
+32, 06, 03, 3, Chojna 
+32, 06, 03, 4, Chojna miasto 
+32, 06, 03, 5, Chojna obszar wiejski 
+32, 06, 04, 3, Gryfino 
+32, 06, 04, 4, Gryfino miasto 
+32, 06, 04, 5, Gryfino obszar wiejski 
+32, 06, 05, 3, Mieszkowice 
+32, 06, 05, 4, Mieszkowice miasto 
+32, 06, 05, 5, Mieszkowice obszar wiejski 
+32, 06, 06, 3, Moryń 
+32, 06, 06, 4, Moryń miasto 
+32, 06, 06, 5, Moryń obszar wiejski 
+32, 06, 07, 2, Stare Czarnowo 
+32, 06, 08, 3, Trzcińsko-Zdrój 
+32, 06, 08, 4, Trzcińsko-Zdrój miasto 
+32, 06, 08, 5, Trzcińsko-Zdrój obszar wiejski 
+32, 06, 09, 2, Widuchowa 
+32, 07, 01, 2, Dziwnów 
+32, 07, 02, 3, Golczewo 
+32, 07, 02, 4, Golczewo miasto 
+32, 07, 02, 5, Golczewo obszar wiejski 
+32, 07, 03, 3, Kamień Pomorski 
+32, 07, 03, 4, Kamień Pomorski miasto 
+32, 07, 03, 5, Kamień Pomorski obszar wiejski 
+32, 07, 04, 3, Międzyzdroje 
+32, 07, 04, 4, Międzyzdroje miasto 
+32, 07, 04, 5, Międzyzdroje obszar wiejski 
+32, 07, 05, 2, Świerzno 
+32, 07, 06, 3, Wolin 
+32, 07, 06, 4, Wolin miasto 
+32, 07, 06, 5, Wolin obszar wiejski 
+32, 08, 01, 1, Kołobrzeg 
+32, 08, 02, 2, Dygowo 
+32, 08, 03, 2, Gościno 
+32, 08, 04, 2, Kołobrzeg 
+32, 08, 05, 2, Rymań 
+32, 08, 06, 2, Siemyśl 
+32, 08, 07, 2, Ustronie Morskie 
+32, 09, 01, 2, Będzino 
+32, 09, 02, 2, Biesiekierz 
+32, 09, 03, 3, Bobolice 
+32, 09, 03, 4, Bobolice miasto 
+32, 09, 03, 5, Bobolice obszar wiejski 
+32, 09, 04, 2, Manowo 
+32, 09, 05, 2, Mielno 
+32, 09, 06, 3, Polanów 
+32, 09, 06, 4, Polanów miasto 
+32, 09, 06, 5, Polanów obszar wiejski 
+32, 09, 07, 3, Sianów 
+32, 09, 07, 4, Sianów miasto 
+32, 09, 07, 5, Sianów obszar wiejski 
+32, 09, 08, 2, Świeszyno 
+32, 18, 01, 3, Dobra 
+32, 18, 01, 4, Dobra miasto 
+32, 18, 01, 5, Dobra obszar wiejski 
+32, 18, 02, 3, Łobez 
+32, 18, 02, 4, Łobez miasto 
+32, 18, 02, 5, Łobez obszar wiejski 
+32, 18, 03, 2, Radowo Małe 
+32, 18, 04, 3, Resko 
+32, 18, 04, 4, Resko miasto 
+32, 18, 04, 5, Resko obszar wiejski 
+32, 18, 05, 3, Węgorzyno 
+32, 18, 05, 4, Węgorzyno miasto 
+32, 18, 05, 5, Węgorzyno obszar wiejski 
+32, 10, 01, 3, Barlinek 
+32, 10, 01, 4, Barlinek miasto 
+32, 10, 01, 5, Barlinek obszar wiejski 
+32, 10, 02, 2, Boleszkowice 
+32, 10, 03, 3, Dębno 
+32, 10, 03, 4, Dębno miasto 
+32, 10, 03, 5, Dębno obszar wiejski 
+32, 10, 04, 3, Myślibórz 
+32, 10, 04, 4, Myślibórz miasto 
+32, 10, 04, 5, Myślibórz obszar wiejski 
+32, 10, 05, 2, Nowogródek Pomorski 
+32, 11, 01, 2, Dobra (Szczecińska) 
+32, 11, 02, 2, Kołbaskowo 
+32, 11, 03, 3, Nowe Warpno 
+32, 11, 03, 4, Nowe Warpno miasto 
+32, 11, 03, 5, Nowe Warpno obszar wiejski 
+32, 11, 04, 3, Police 
+32, 11, 04, 4, Police miasto 
+32, 11, 04, 5, Police obszar wiejski 
+32, 12, 01, 2, Bielice 
+32, 12, 02, 2, Kozielice 
+32, 12, 03, 3, Lipiany 
+32, 12, 03, 4, Lipiany miasto 
+32, 12, 03, 5, Lipiany obszar wiejski 
+32, 12, 04, 2, Przelewice 
+32, 12, 05, 3, Pyrzyce 
+32, 12, 05, 4, Pyrzyce miasto 
+32, 12, 05, 5, Pyrzyce obszar wiejski 
+32, 12, 06, 2, Warnice 
+32, 13, 01, 1, Darłowo 
+32, 13, 02, 1, Sławno 
+32, 13, 03, 2, Darłowo 
+32, 13, 04, 2, Malechowo 
+32, 13, 05, 2, Postomino 
+32, 13, 06, 2, Sławno 
+32, 14, 01, 1, Stargard Szczeciński 
+32, 14, 02, 3, Chociwel 
+32, 14, 02, 4, Chociwel miasto 
+32, 14, 02, 5, Chociwel obszar wiejski 
+32, 14, 03, 3, Dobrzany 
+32, 14, 03, 4, Dobrzany miasto 
+32, 14, 03, 5, Dobrzany obszar wiejski 
+32, 14, 04, 2, Dolice 
+32, 14, 05, 3, Ińsko 
+32, 14, 05, 4, Ińsko miasto 
+32, 14, 05, 5, Ińsko obszar wiejski 
+32, 14, 06, 2, Kobylanka 
+32, 14, 08, 2, Marianowo 
+32, 14, 09, 2, Stara Dąbrowa 
+32, 14, 10, 2, Stargard Szczeciński 
+32, 14, 11, 3, Suchań 
+32, 14, 11, 4, Suchań miasto 
+32, 14, 11, 5, Suchań obszar wiejski 
+32, 15, 01, 1, Szczecinek 
+32, 15, 02, 3, Barwice 
+32, 15, 02, 4, Barwice miasto 
+32, 15, 02, 5, Barwice obszar wiejski 
+32, 15, 03, 3, Biały Bór 
+32, 15, 03, 4, Biały Bór miasto 
+32, 15, 03, 5, Biały Bór obszar wiejski 
+32, 15, 04, 3, Borne Sulinowo 
+32, 15, 04, 4, Borne Sulinowo miasto 
+32, 15, 04, 5, Borne Sulinowo obszar wiejski 
+32, 15, 05, 2, Grzmiąca 
+32, 15, 06, 2, Szczecinek 
+32, 16, 01, 1, Świdwin 
+32, 16, 02, 2, Brzeżno 
+32, 16, 03, 3, Połczyn-Zdrój 
+32, 16, 03, 4, Połczyn-Zdrój miasto 
+32, 16, 03, 5, Połczyn-Zdrój obszar wiejski 
+32, 16, 04, 2, Rąbino 
+32, 16, 05, 2, Sławoborze 
+32, 16, 06, 2, Świdwin 
+32, 17, 01, 1, Wałcz 
+32, 17, 02, 3, Człopa 
+32, 17, 02, 4, Człopa miasto 
+32, 17, 02, 5, Człopa obszar wiejski 
+32, 17, 03, 3, Mirosławiec 
+32, 17, 03, 4, Mirosławiec miasto 
+32, 17, 03, 5, Mirosławiec obszar wiejski 
+32, 17, 04, 3, Tuczno 
+32, 17, 04, 4, Tuczno miasto 
+32, 17, 04, 5, Tuczno obszar wiejski 
+32, 17, 05, 2, Wałcz 
+32, 61, 01, 1, M. Koszalin 
+32, 62, 01, 1, M. Szczecin 
+32, 63, 01, 1, M. Świnoujście   
