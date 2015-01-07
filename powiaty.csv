@@ -1,0 +1,379 @@
+01, Powiat bolesławiecki 
+02, Powiat dzierżoniowski 
+03, Powiat głogowski 
+04, Powiat górowski 
+05, Powiat jaworski 
+06, Powiat jeleniogórski 
+07, Powiat kamiennogórski 
+08, Powiat kłodzki 
+09, Powiat legnicki 
+10, Powiat lubański 
+11, Powiat lubiński 
+12, Powiat lwówecki 
+13, Powiat milicki 
+14, Powiat oleśnicki 
+15, Powiat oławski 
+16, Powiat polkowicki 
+17, Powiat strzeliński 
+18, Powiat średzki 
+19, Powiat świdnicki 
+20, Powiat trzebnicki 
+21, Powiat wałbrzyski 
+22, Powiat wołowski 
+23, Powiat wrocławski 
+24, Powiat ząbkowicki 
+25, Powiat zgorzelecki 
+26, Powiat złotoryjski 
+61, Powiat m. Jelenia Góra 
+62, Powiat m. Legnica  
+64, Powiat m. Wrocław  
+01, Powiat aleksandrowski  
+02, Powiat brodnicki 
+03, Powiat bydgoski 
+04, Powiat chełmiński 
+05, Powiat golubsko-dobrzyński 
+06, Powiat grudziądzki 
+07, Powiat inowrocławski 
+08, Powiat lipnowski 
+09, Powiat mogileński 
+10, Powiat nakielski 
+11, Powiat radziejowski 
+12, Powiat rypiński 
+13, Powiat sępoleński 
+14, Powiat świecki 
+15, Powiat toruński  
+16, Powiat tucholski 
+17, Powiat wąbrzeski 
+18, Powiat włocławski 
+19, Powiat żniński 
+61, Powiat m. Bydgoszcz 
+62, Powiat m. Grudziądz 
+63, Powiat m. Toruń  
+64, Powiat m. Włocławek 
+01, Powiat bialski   
+02, Powiat biłgorajski 
+03, Powiat chełmski  
+04, Powiat hrubieszowski   
+05, Powiat janowski  
+06, Powiat krasnostawski 
+07, Powiat kraśnicki 
+08, Powiat lubartowski 
+09, Powiat lubelski 
+10, Powiat łęczyński 
+11, Powiat łukowski 
+12, Powiat opolski 
+13, Powiat parczewski 
+14, Powiat puławski 
+15, Powiat radzyński 
+16, Powiat rycki 
+17, Powiat świdnicki 
+18, Powiat tomaszowski 
+19, Powiat włodawski 
+20, Powiat zamojski 
+61, Powiat m. Biała Podlaska 
+62, Powiat m. Chełm 
+63, Powiat m. Lublin 
+64, Powiat m. Zamość 
+01, Powiat gorzowski 
+02, Powiat krośnieński 
+03, Powiat międzyrzecki 
+04, Powiat nowosolski 
+05, Powiat słubicki 
+06, Powiat strzelecko-drezdenecki 
+07, Powiat sulęciński 
+08, Powiat świebodziński 
+12, Powiat wschowski 
+09, Powiat zielonogórski 
+10, Powiat żagański 
+11, Powiat żarski 
+61, Powiat m. Gorzów Wielkopolski 
+62, Powiat m. Zielona Góra 
+01, Powiat bełchatowski 
+21, Powiat brzeziński 
+02, Powiat kutnowski 
+03, Powiat łaski 
+04, Powiat łęczycki 
+05, Powiat łowicki   
+06, Powiat łódzki wschodni 
+07, Powiat opoczyński 
+08, Powiat pabianicki 
+09, Powiat pajęczański 
+10, Powiat piotrkowski 
+11, Powiat poddębicki 
+12, Powiat radomszczański 
+13, Powiat rawski 
+14, Powiat sieradzki 
+15, Powiat skierniewicki 
+16, Powiat tomaszowski 
+17, Powiat wieluński 
+18, Powiat wieruszowski 
+19, Powiat zduńskowolski 
+20, Powiat zgierski 
+61, Powiat m. Łódź 
+62, Powiat m. Piotrków Trybunalski 
+63, Powiat m. Skierniewice 
+01, Powiat bocheński 
+02, Powiat brzeski 
+03, Powiat chrzanowski 
+04, Powiat dąbrowski 
+05, Powiat gorlicki 
+06, Powiat krakowski 
+07, Powiat limanowski 
+08, Powiat miechowski  
+09, Powiat myślenicki 
+10, Powiat nowosądecki 
+11, Powiat nowotarski 
+12, Powiat olkuski 
+13, Powiat oświęcimski 
+14, Powiat proszowicki 
+15, Powiat suski 
+16, Powiat tarnowski 
+17, Powiat tatrzański 
+18, Powiat wadowicki 
+19, Powiat wielicki 
+61, Powiat m. Kraków 
+62, Powiat m. Nowy Sącz 
+63, Powiat m. Tarnów 
+01, Powiat białobrzeski 
+02, Powiat ciechanowski 
+03, Powiat garwoliński 
+04, Powiat gostyniński 
+05, Powiat grodziski 
+06, Powiat grójecki 
+07, Powiat kozienicki 
+08, Powiat legionowski 
+09, Powiat lipski 
+10, Powiat łosicki 
+11, Powiat makowski 
+12, Powiat miński 
+13, Powiat mławski   
+14, Powiat nowodworski 
+15, Powiat ostrołęcki 
+16, Powiat ostrowski 
+17, Powiat otwocki 
+18, Powiat piaseczyński 
+19, Powiat płocki 
+20, Powiat płoński 
+21, Powiat pruszkowski 
+22, Powiat przasnyski 
+23, Powiat przysuski 
+24, Powiat pułtuski 
+25, Powiat radomski 
+26, Powiat siedlecki 
+27, Powiat sierpecki 
+28, Powiat sochaczewski 
+29, Powiat sokołowski  
+30, Powiat szydłowiecki 
+32, Powiat warszawski zachodni 
+33, Powiat węgrowski 
+34, Powiat wołomiński 
+35, Powiat wyszkowski 
+36, Powiat zwoleński 
+37, Powiat żuromiński 
+38, Powiat żyrardowski 
+61, Powiat m. Ostrołęka 
+62, Powiat m. Płock  
+63, Powiat m. Radom  
+64, Powiat m. Siedlce  
+65, Powiat m. st. Warszawa 
+01, Powiat brzeski 
+02, Powiat głubczycki 
+03, Powiat kędzierzyńsko-kozielski 
+04, Powiat kluczborski 
+05, Powiat krapkowicki 
+06, Powiat namysłowski 
+07, Powiat nyski 
+08, Powiat oleski 
+09, Powiat opolski 
+10, Powiat prudnicki 
+11, Powiat strzelecki 
+61, Powiat m. Opole 
+01, Powiat bieszczadzki 
+02, Powiat brzozowski 
+03, Powiat dębicki 
+04, Powiat jarosławski 
+05, Powiat jasielski 
+06, Powiat kolbuszowski 
+07, Powiat krośnieński 
+21, Powiat leski 
+08, Powiat leżajski 
+09, Powiat lubaczowski 
+10, Powiat łańcucki 
+11, Powiat mielecki 
+12, Powiat niżański 
+13, Powiat przemyski 
+14, Powiat przeworski  
+15, Powiat ropczycko-sędziszowski 
+16, Powiat rzeszowski 
+17, Powiat sanocki 
+18, Powiat stalowowolski 
+19, Powiat strzyżowski 
+20, Powiat tarnobrzeski 
+61, Powiat m. Krosno 
+62, Powiat m. Przemyśl 
+63, Powiat m. Rzeszów 
+64, Powiat m. Tarnobrzeg 
+01, Powiat augustowski 
+02, Powiat białostocki 
+03, Powiat bielski 
+04, Powiat grajewski 
+05, Powiat hajnowski 
+06, Powiat kolneński 
+07, Powiat łomżyński 
+08, Powiat moniecki 
+09, Powiat sejneński 
+10, Powiat siemiatycki 
+11, Powiat sokólski 
+12, Powiat suwalski 
+13, Powiat wysokomazowiecki 
+14, Powiat zambrowski 
+61, Powiat m. Białystok 
+62, Powiat m. Łomża 
+63, Powiat m. Suwałki 
+01, Powiat bytowski 
+02, Powiat chojnicki 
+03, Powiat człuchowski 
+04, Powiat gdański 
+05, Powiat kartuski 
+06, Powiat kościerski 
+07, Powiat kwidzyński 
+08, Powiat lęborski 
+09, Powiat malborski 
+10, Powiat nowodworski 
+11, Powiat pucki 
+12, Powiat słupski 
+13, Powiat starogardzki 
+16, Powiat sztumski 
+14, Powiat tczewski 
+15, Powiat wejherowski 
+61, Powiat m. Gdańsk 
+62, Powiat m. Gdynia 
+63, Powiat m. Słupsk 
+64, Powiat m. Sopot  
+01, Powiat będziński 
+02, Powiat bielski 
+14, Powiat bieruńsko-lędziński 
+03, Powiat cieszyński 
+04, Powiat częstochowski 
+05, Powiat gliwicki 
+06, Powiat kłobucki 
+07, Powiat lubliniecki 
+08, Powiat mikołowski 
+09, Powiat myszkowski 
+10, Powiat pszczyński 
+11, Powiat raciborski 
+12, Powiat rybnicki 
+13, Powiat tarnogórski 
+15, Powiat wodzisławski 
+16, Powiat zawierciański   
+17, Powiat żywiecki 
+61, Powiat m. Bielsko-Biała  
+62, Powiat m. Bytom  
+63, Powiat m. Chorzów  
+64, Powiat m. Częstochowa  
+65, Powiat m. Dąbrowa Górnicza 
+66, Powiat m. Gliwice  
+67, Powiat m. Jastrzębie-Zdrój 
+68, Powiat m. Jaworzno 
+69, Powiat m. Katowice 
+70, Powiat m. Mysłowice 
+71, Powiat m. Piekary Śląskie 
+72, Powiat m. Ruda Śląska  
+73, Powiat m. Rybnik 
+74, Powiat m. Siemianowice Śląskie  
+75, Powiat m. Sosnowiec 
+76, Powiat m. Świętochłowice 
+77, Powiat m. Tychy  
+78, Powiat m. Zabrze 
+79, Powiat m. Żory 
+01, Powiat buski 
+02, Powiat jędrzejowski 
+03, Powiat kazimierski 
+04, Powiat kielecki 
+05, Powiat konecki 
+06, Powiat opatowski 
+07, Powiat ostrowiecki 
+08, Powiat pińczowski 
+09, Powiat sandomierski 
+10, Powiat skarżyski 
+11, Powiat starachowicki 
+12, Powiat staszowski 
+13, Powiat włoszczowski 
+61, Powiat m. Kielce 
+01, Powiat bartoszycki 
+02, Powiat braniewski 
+03, Powiat działdowski 
+04, Powiat elbląski 
+05, Powiat ełcki 
+06, Powiat giżycki 
+18, Powiat gołdapski 
+07, Powiat iławski 
+08, Powiat kętrzyński 
+09, Powiat lidzbarski 
+10, Powiat mrągowski 
+11, Powiat nidzicki 
+12, Powiat nowomiejski 
+13, Powiat olecki 
+14, Powiat olsztyński 
+15, Powiat ostródzki 
+16, Powiat piski 
+17, Powiat szczycieński 
+19, Powiat węgorzewski 
+61, Powiat m. Elbląg 
+62, Powiat m. Olsztyn 
+01, Powiat chodzieski 
+02, Powiat czarnkowsko-trzcianecki 
+03, Powiat gnieźnieński 
+04, Powiat gostyński 
+05, Powiat grodziski 
+06, Powiat jarociński 
+07, Powiat kaliski 
+08, Powiat kępiński 
+09, Powiat kolski 
+10, Powiat koniński 
+11, Powiat kościański 
+12, Powiat krotoszyński 
+13, Powiat leszczyński 
+14, Powiat międzychodzki 
+15, Powiat nowotomyski 
+16, Powiat obornicki 
+17, Powiat ostrowski 
+18, Powiat ostrzeszowski 
+19, Powiat pilski 
+20, Powiat pleszewski 
+21, Powiat poznański 
+22, Powiat rawicki 
+23, Powiat słupecki 
+24, Powiat szamotulski 
+25, Powiat średzki 
+26, Powiat śremski 
+27, Powiat turecki 
+28, Powiat wągrowiecki 
+29, Powiat wolsztyński 
+30, Powiat wrzesiński 
+31, Powiat złotowski 
+61, Powiat m. Kalisz 
+62, Powiat m. Konin 
+63, Powiat m. Leszno 
+64, Powiat m. Poznań 
+01, Powiat białogardzki 
+02, Powiat choszczeński 
+03, Powiat drawski 
+04, Powiat goleniowski 
+05, Powiat gryficki 
+06, Powiat gryfiński 
+07, Powiat kamieński 
+08, Powiat kołobrzeski 
+09, Powiat koszaliński 
+18, Powiat łobeski 
+10, Powiat myśliborski 
+11, Powiat policki 
+12, Powiat pyrzycki 
+13, Powiat sławieński 
+14, Powiat stargardzki 
+15, Powiat szczecinecki 
+16, Powiat świdwiński 
+17, Powiat wałecki 
+61, Powiat m. Koszalin 
+62, Powiat m. Szczecin 
+63, Powiat m. Świnoujście  
