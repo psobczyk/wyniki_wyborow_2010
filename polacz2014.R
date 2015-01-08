@@ -3,8 +3,9 @@ obwod    <- as.numeric(args[1])
 kod      <- as.numeric(args[2])
 wyborcow <- as.numeric(gsub(" ", "", args[3]))
 wydanych <- as.numeric(args[4])
-waznych  <- as.numeric(args[5])
-miejsce  <- args[6:length(args)]
+wyjetych <- as.numeric(args[5])
+waznych  <- as.numeric(args[6])
+miejsce  <- args[7:length(args)]
 
 miejsce  <- paste0(miejsce, collapse="_")
 miejsce <- gsub("/", "", miejsce)
@@ -13,7 +14,9 @@ miejsce <- gsub("\"", "", miejsce)
 komitety <- read.csv("kom.csv", header=F)
 glosy <- read.csv("glos.csv", header=F)
 
-dane2 <- data.frame("Kod gminy"=kod, "Numer obwodu"=obwod, "Adres"=miejsce, "Liczba wyborców"=wyborcow, "Liczba kart oddanych"=wydanych, "Liczba głosów ważnych"=waznych)
+dane2 <- data.frame("Kod gminy"=kod, "Numer obwodu"=obwod, "Adres"=miejsce, 
+                    "Liczba wyborców"=wyborcow, "Liczba kart oddanych"=wydanych, 
+                    "Liczba kart wyjętych"=wyjetych, "Liczba głosów ważnych"=waznych)
 dane2 <- dane2[rep(1,nrow(komitety)),]
 dane2 <- cbind(dane2, komitety, glosy)
 if(any(is.na(dane2))){
