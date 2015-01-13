@@ -6,6 +6,7 @@
 library(moments)
 source("wczytywanie_danych.R")
 
+duze.partie <- unique(dane$partia)[c(1,3,4,6)]
 dane.diff <- dane %>%
   filter(wyborcy > 500,
          partia %in% duze.partie)
