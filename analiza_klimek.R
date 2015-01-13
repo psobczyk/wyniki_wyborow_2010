@@ -13,7 +13,10 @@ dane.fsd <- dane.plik %>%
          wojewodztwo = lista.wojwodztw[floor(kod/10000)/2]) %>%
   dplyr::select(wojewodztwo, wyborcy, frekwencja, partia, wynik)
 
-ggplot(dane.fsd, aes(y=wynik, x=frekwencja)) + 
+neworder <- lista.wojwodztw[c(2,3,5,13,7,6, 10,9,4,8,14,16,11,12,15,1)]
+png("wyniki_frekwencja_2014.png", width = 1000, height = 1400)
+ggplot(transform(dane.fsd,
+                 wojewodztwo=factor(wojewodztwo,levels=neworder)), aes(y=wynik, x=frekwencja)) + 
   geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
   facet_grid(wojewodztwo ~ partia)+
   theme(strip.text.y = element_text(size=12, face="bold"),
@@ -21,6 +24,7 @@ ggplot(dane.fsd, aes(y=wynik, x=frekwencja)) +
   xlab("Frekwencja w %") +
   ylab("Poparcie w %") +
   ggtitle("Wyniki wyborów samorzadowych 2014")
+dev.off()
 
 ggplot(dane.fsd, aes(y=wynik, x=frekwencja)) + 
   geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
