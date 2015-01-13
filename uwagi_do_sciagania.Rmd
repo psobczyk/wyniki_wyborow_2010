@@ -1,0 +1,21 @@
+
+1. Dolnośląskie
+1.1 Nie ma 72 komisji dla Wałbrzycha - brak danych na stronie pkw
+4. Praktycznie brak danych dla Warszawy (pkw nie opublikowała protokołów)
+
+
+```{r}
+dane <- read.csv("lista_gmin", header=F)
+lista.wojwodztw <- read.csv("wojewodztwa.csv", header=F, row.names=1)
+lista.wojwodztw <- sapply(strsplit(paste(lista.wojwodztw[,1]), split = " "), function(x) x[3])
+wojewodztwa <- floor(dane/10000)
+moje.dane <- table(wojewodztwa)
+names(moje.dane) <- lista.wojwodztw
+prawdziwe <- rev(c(114, 226, 116, 102, 167, 123, 118, 160, 71, 314, 182, 177, 83, 213, 144, 169))
+prawdziwe-moje.dane
+```
+
+* W Mazowieckim jest różnica bo głosy są zliczane w dzielnicach osobno
+* W Lubelskim i Podkarpaciu brakuje po jednej gminie
+* W Dolnośląskim brakuje Wałbrzycha, alei tak PKW nie publikuj stamtąd wyników
+
