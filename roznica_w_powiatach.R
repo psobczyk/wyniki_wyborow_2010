@@ -24,7 +24,7 @@ dane.diff <- cbind(dane.diff, powiat.mediana)
 
 dane.diff <- dane.diff %>%
   mutate(diff = wynik-powiat.mediana) %>%
-  select(kod, wojewodztwo, frekwencja, niewazne, partia, wynik, powiat.mediana, diff)
+  dplyr::select(kod, wojewodztwo, frekwencja, niewazne, partia, wynik, powiat.mediana, diff)
 
 ggplot(dane.diff, aes(x=diff)) + 
   geom_density(alpha=.3, kernel="gau", colour="black", fill="gray") +
