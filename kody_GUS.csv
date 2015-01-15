@@ -1,0 +1,3669 @@
+020101, 1, Bolesławiec
+020102, 2, Bolesławiec
+020103, 2, Gromadka
+020104, 3, Nowogrodziec
+020104, 4, Nowogrodziec miasto
+020104, 5, Nowogrodziec obszar wiejski
+020105, 2, Osiecznica
+020106, 2, Warta Bolesławiecka
+020201, 1, Bielawa
+020202, 1, Dzierżoniów
+020203, 1, Pieszyce
+020204, 1, Piława Górna
+020205, 2, Dzierżoniów
+020206, 2, Łagiewniki
+020207, 3, Niemcza
+020207, 4, Niemcza miasto
+020207, 5, Niemcza obszar wiejski
+020301, 1, Głogów
+020302, 2, Głogów
+020303, 2, Jerzmanowa
+020304, 2, Kotla
+020305, 2, Pęcław
+020306, 2, Żukowice
+020401, 3, Góra
+020401, 4, Góra miasto
+020401, 5, Góra obszar wiejski
+020402, 2, Jemielno
+020403, 2, Niechlów
+020404, 3, Wąsosz
+020404, 4, Wąsosz miasto
+020404, 5, Wąsosz obszar wiejski
+020501, 1, Jawor
+020502, 3, Bolków
+020502, 4, Bolków miasto
+020502, 5, Bolków obszar wiejski
+020503, 2, Męcinka
+020504, 2, Mściwojów
+020505, 2, Paszowice
+020506, 2, Wądroże Wielkie
+020601, 1, Karpacz
+020602, 1, Kowary
+020603, 1, Piechowice
+020604, 1, Szklarska Poręba
+020605, 2, Janowice Wielkie
+020606, 2, Jeżów Sudecki
+020607, 2, Mysłakowice
+020608, 2, Podgórzyn
+020609, 2, Stara Kamienica
+020701, 1, Kamienna Góra
+020702, 2, Kamienna Góra
+020703, 3, Lubawka
+020703, 4, Lubawka miasto
+020703, 5, Lubawka obszar wiejski
+020704, 2, Marciszów
+020801, 1, Duszniki-Zdrój
+020802, 1, Kłodzko
+020803, 1, Kudowa-Zdrój
+020804, 1, Nowa Ruda
+020805, 1, Polanica-Zdrój
+020806, 3, Bystrzyca Kłodzka
+020806, 4, Bystrzyca Kłodzka miasto
+020806, 5, Bystrzyca Kłodzka obszar wiejski
+020807, 2, Kłodzko
+020808, 3, Lądek-Zdrój
+020808, 4, Lądek-Zdrój miasto
+020808, 5, Lądek-Zdrój obszar wiejski
+020809, 2, Lewin Kłodzki
+020810, 3, Międzylesie
+020810, 4, Międzylesie miasto
+020810, 5, Międzylesie obszar wiejski
+020811, 2, Nowa Ruda
+020812, 3, Radków
+020812, 4, Radków miasto
+020812, 5, Radków obszar wiejski
+020813, 3, Stronie Śląskie
+020813, 4, Stronie Śląskie miasto
+020813, 5, Stronie Śląskie obszar wiejski
+020814, 3, Szczytna
+020814, 4, Szczytna miasto
+020814, 5, Szczytna obszar wiejski
+020901, 1, Chojnów
+020902, 2, Chojnów
+020903, 2, Krotoszyce
+020904, 2, Kunice
+020905, 2, Legnickie Pole
+020906, 2, Miłkowice
+020907, 3, Prochowice
+020907, 4, Prochowice miasto
+020907, 5, Prochowice obszar wiejski
+020908, 2, Ruja
+021001, 1, Lubań
+021002, 1, Świeradów-Zdrój
+021003, 3, Leśna
+021003, 4, Leśna miasto
+021003, 5, Leśna obszar wiejski
+021004, 2, Lubań
+021005, 2, Olszyna
+021006, 2, Platerówka
+021007, 2, Siekierczyn
+021101, 1, Lubin
+021102, 2, Lubin
+021103, 2, Rudna
+021104, 3, Ścinawa
+021104, 4, Ścinawa miasto
+021104, 5, Ścinawa obszar wiejski
+021201, 3, Gryfów Śląski
+021201, 4, Gryfów Śląski miasto
+021201, 5, Gryfów Śląski obszar wiejski
+021202, 3, Lubomierz
+021202, 4, Lubomierz miasto
+021202, 5, Lubomierz obszar wiejski
+021203, 3, Lwówek Śląski
+021203, 4, Lwówek Śląski miasto
+021203, 5, Lwówek Śląski obszar wiejski
+021204, 3, Mirsk
+021204, 4, Mirsk miasto
+021204, 5, Mirsk obszar wiejski
+021205, 3, Wleń
+021205, 4, Wleń miasto
+021205, 5, Wleń obszar wiejski
+021301, 2, Cieszków
+021302, 2, Krośnice
+021303, 3, Milicz
+021303, 4, Milicz miasto
+021303, 5, Milicz obszar wiejski
+021401, 1, Oleśnica
+021402, 3, Bierutów
+021402, 4, Bierutów miasto
+021402, 5, Bierutów obszar wiejski
+021403, 2, Dobroszyce
+021404, 2, Dziadowa Kłoda
+021405, 3, Międzybórz
+021405, 4, Międzybórz miasto
+021405, 5, Międzybórz obszar wiejski
+021406, 2, Oleśnica
+021407, 3, Syców
+021407, 4, Syców miasto
+021407, 5, Syców obszar wiejski
+021408, 3, Twardogóra
+021408, 4, Twardogóra miasto
+021408, 5, Twardogóra obszar wiejski
+021501, 1, Oława
+021502, 2, Domaniów
+021503, 3, Jelcz-Laskowice
+021503, 4, Jelcz-Laskowice miasto
+021503, 5, Jelcz-Laskowice obszar wiejski
+021504, 2, Oława
+021601, 3, Chocianów
+021601, 4, Chocianów miasto
+021601, 5, Chocianów obszar wiejski
+021602, 2, Gaworzyce
+021603, 2, Grębocice
+021604, 3, Polkowice
+021604, 4, Polkowice miasto
+021604, 5, Polkowice obszar wiejski
+021605, 3, Przemków
+021605, 4, Przemków miasto
+021605, 5, Przemków obszar wiejski
+021606, 2, Radwanice
+021701, 2, Borów
+021702, 2, Kondratowice
+021703, 2, Przeworno
+021704, 3, Strzelin
+021704, 4, Strzelin miasto
+021704, 5, Strzelin obszar wiejski
+021705, 3, Wiązów
+021705, 4, Wiązów miasto
+021705, 5, Wiązów obszar wiejski
+021801, 2, Kostomłoty
+021802, 2, Malczyce
+021803, 2, Miękinia
+021804, 3, Środa Śląska
+021804, 4, Środa Śląska miasto
+021804, 5, Środa Śląska obszar wiejski
+021805, 2, Udanin
+021901, 1, Świdnica
+021902, 1, Świebodzice
+021903, 2, Dobromierz
+021904, 3, Jaworzyna Śląska
+021904, 4, Jaworzyna Śląska miasto
+021904, 5, Jaworzyna Śląska obszar wiejski
+021905, 2, Marcinowice
+021906, 3, Strzegom
+021906, 4, Strzegom miasto
+021906, 5, Strzegom obszar wiejski
+021907, 2, Świdnica
+021908, 3, Żarów
+021908, 4, Żarów miasto
+021908, 5, Żarów obszar wiejski
+022001, 3, Oborniki Śląskie
+022001, 4, Oborniki Śląskie miasto
+022001, 5, Oborniki Śląskie obszar wiejski
+022002, 3, Prusice
+022002, 4, Prusice miasto
+022002, 5, Prusice obszar wiejski
+022003, 3, Trzebnica
+022003, 4, Trzebnica miasto
+022003, 5, Trzebnica obszar wiejski
+022004, 2, Wisznia Mała
+022005, 2, Zawonia
+022006, 3, Żmigród
+022006, 4, Żmigród miasto
+022006, 5, Żmigród obszar wiejski
+022101, 1, Boguszów-Gorce
+022102, 1, Jedlina-Zdrój
+022103, 1, Szczawno-Zdrój
+022109, 1, Wałbrzych
+022104, 2, Czarny Bór
+022105, 3, Głuszyca
+022105, 4, Głuszyca miasto
+022105, 5, Głuszyca obszar wiejski
+022106, 3, Mieroszów
+022106, 4, Mieroszów miasto
+022106, 5, Mieroszów obszar wiejski
+022107, 2, Stare Bogaczowice
+022108, 2, Walim
+022201, 3, Brzeg Dolny
+022201, 4, Brzeg Dolny miasto
+022201, 5, Brzeg Dolny obszar wiejski
+022202, 2, Wińsko
+022203, 3, Wołów
+022203, 4, Wołów miasto
+022203, 5, Wołów obszar wiejski
+022301, 2, Czernica
+022302, 2, Długołęka
+022303, 2, Jordanów Śląski
+022304, 3, Kąty Wrocławskie
+022304, 4, Kąty Wrocławskie miasto
+022304, 5, Kąty Wrocławskie obszar wiejski
+022305, 2, Kobierzyce
+022306, 2, Mietków
+022307, 3, Sobótka
+022307, 4, Sobótka miasto
+022307, 5, Sobótka obszar wiejski
+022308, 3, Święta Katarzyna
+022308, 4, Siechnice miasto
+022308, 5, Święta Katarzyna obszar wiejski
+022309, 2, Żórawina
+022401, 3, Bardo
+022401, 4, Bardo miasto
+022401, 5, Bardo obszar wiejski
+022402, 2, Ciepłowody
+022403, 2, Kamieniec Ząbkowicki
+022404, 2, Stoszowice
+022405, 3, Ząbkowice Śląskie
+022405, 4, Ząbkowice Śląskie miasto
+022405, 5, Ząbkowice Śląskie obszar wiejski
+022406, 3, Ziębice
+022406, 4, Ziębice miasto
+022406, 5, Ziębice obszar wiejski
+022407, 3, Złoty Stok
+022407, 4, Złoty Stok miasto
+022407, 5, Złoty Stok obszar wiejski
+022501, 1, Zawidów
+022502, 1, Zgorzelec
+022503, 3, Bogatynia
+022503, 4, Bogatynia miasto
+022503, 5, Bogatynia obszar wiejski
+022504, 3, Pieńsk
+022504, 4, Pieńsk miasto
+022504, 5, Pieńsk obszar wiejski
+022505, 2, Sulików
+022506, 3, Węgliniec
+022506, 4, Węgliniec miasto
+022506, 5, Węgliniec obszar wiejski
+022507, 2, Zgorzelec
+022601, 1, Wojcieszów
+022602, 1, Złotoryja
+022603, 2, Pielgrzymka
+022604, 3, Świerzawa
+022604, 4, Świerzawa miasto
+022604, 5, Świerzawa obszar wiejski
+022605, 2, Zagrodno
+022606, 2, Złotoryja
+026101, 1, M. Jelenia Góra 
+026201, 1, M. Legnica 
+026401, 1, M. Wrocław 
+026402, 9, Wrocław-Fabryczna 
+026403, 9, Wrocław-Krzyki  
+026404, 9, Wrocław-Psie Pole 
+026405, 9, Wrocław-Stare Miasto  
+026406, 9, Wrocław-Śródmieście
+040101, 1, Aleksandrów Kujawski  
+040102, 1, Ciechocinek
+040103, 1, Nieszawa 
+040104, 2, Aleksandrów Kujawski  
+040105, 2, Bądkowo
+040106, 2, Koneck
+040107, 2, Raciążek
+040108, 2, Waganiec
+040109, 2, Zakrzewo
+040201, 1, Brodnica
+040202, 2, Bobrowo
+040203, 2, Brodnica
+040204, 2, Brzozie
+040205, 3, Górzno
+040205, 4, Górzno miasto
+040205, 5, Górzno obszar wiejski
+040206, 2, Grążawy
+040207, 3, Jabłonowo Pomorskie
+040207, 4, Jabłonowo Pomorskie miasto
+040207, 5, Jabłonowo Pomorskie obszar wiejski
+040208, 2, Osiek
+040209, 2, Świedziebnia
+040210, 2, Zbiczno
+040301, 2, Białe Błota
+040302, 2, Dąbrowa Chełmińska
+040303, 2, Dobrcz
+040304, 3, Koronowo
+040304, 4, Koronowo miasto
+040304, 5, Koronowo obszar wiejski
+040305, 2, Nowa Wieś Wielka
+040306, 2, Osielsko
+040307, 2, Sicienko
+040308, 3, Solec Kujawski
+040308, 4, Solec Kujawski miasto
+040308, 5, Solec Kujawski obszar wiejski
+040401, 1, Chełmno
+040402, 2, Chełmno
+040403, 2, Kijewo Królewskie
+040404, 2, Lisewo
+040405, 2, Papowo Biskupie
+040406, 2, Stolno
+040407, 2, Unisław
+040501, 1, Golub-Dobrzyń
+040502, 2, Ciechocin
+040503, 2, Golub-Dobrzyń
+040504, 3, Kowalewo Pomorskie
+040504, 4, Kowalewo Pomorskie miasto
+040504, 5, Kowalewo Pomorskie obszar wiejski
+040505, 2, Radomin
+040506, 2, Zbójno
+040601, 2, Grudziądz
+040602, 2, Gruta
+040603, 3, Łasin
+040603, 4, Łasin miasto
+040603, 5, Łasin obszar wiejski
+040604, 3, Radzyń Chełmiński
+040604, 4, Radzyń Chełmiński miasto
+040604, 5, Radzyń Chełmiński obszar wiejski
+040605, 2, Rogóźno
+040606, 2, Świecie nad Osą
+040701, 1, Inowrocław
+040702, 2, Dąbrowa Biskupia
+040703, 3, Gniewkowo
+040703, 4, Gniewkowo miasto
+040703, 5, Gniewkowo obszar wiejski
+040704, 2, Inowrocław
+040705, 3, Janikowo
+040705, 4, Janikowo miasto
+040705, 5, Janikowo obszar wiejski
+040706, 3, Kruszwica
+040706, 4, Kruszwica miasto
+040706, 5, Kruszwica obszar wiejski
+040707, 3, Pakość
+040707, 4, Pakość miasto
+040707, 5, Pakość obszar wiejski
+040708, 2, Rojewo
+040709, 2, Złotniki Kujawskie
+040801, 1, Lipno
+040802, 2, Bobrowniki
+040803, 2, Chrostkowo
+040804, 3, Dobrzyń nad Wisłą
+040804, 4, Dobrzyń nad Wisłą miasto
+040804, 5, Dobrzyń nad Wisłą obszar wiejski
+040805, 2, Kikół
+040806, 2, Lipno
+040807, 3, Skępe
+040807, 4, Skępe miasto
+040807, 5, Skępe obszar wiejski
+040808, 2, Tłuchowo
+040809, 2, Wielgie
+040901, 2, Dąbrowa
+040902, 2, Jeziora Wielkie
+040903, 3, Mogilno
+040903, 4, Mogilno miasto
+040903, 5, Mogilno obszar wiejski
+040904, 3, Strzelno
+040904, 4, Strzelno miasto
+040904, 5, Strzelno obszar wiejski
+041001, 3, Kcynia
+041001, 4, Kcynia miasto
+041001, 5, Kcynia obszar wiejski
+041002, 3, Mrocza
+041002, 4, Mrocza miasto
+041002, 5, Mrocza obszar wiejski
+041003, 3, Nakło nad Notecią
+041003, 4, Nakło nad Notecią miasto
+041003, 5, Nakło nad Notecią obszar wiejski
+041004, 2, Sadki
+041005, 3, Szubin
+041005, 4, Szubin miasto
+041005, 5, Szubin obszar wiejski
+041101, 1, Radziejów
+041102, 2, Bytoń
+041103, 2, Dobre
+041104, 2, Osięciny
+041105, 3, Piotrków Kujawski
+041105, 4, Piotrków Kujawski miasto
+041105, 5, Piotrków Kujawski obszar wiejski
+041106, 2, Radziejów
+041107, 2, Topólka
+041201, 1, Rypin
+041202, 2, Brzuze
+041203, 2, Rogowo
+041204, 2, Rypin
+041205, 2, Skrwilno
+041206, 2, Wąpielsk
+041301, 3, Kamień Krajeński
+041301, 4, Kamień Krajeński miasto
+041301, 5, Kamień Krajeński obszar wiejski
+041302, 3, Sępólno Krajeńskie
+041302, 4, Sępólno Krajeńskie miasto
+041302, 5, Sępólno Krajeńskie obszar wiejski
+041303, 2, Sośno
+041304, 3, Więcbork
+041304, 4, Więcbork miasto
+041304, 5, Więcbork obszar wiejski
+041401, 2, Bukowiec
+041402, 2, Dragacz
+041403, 2, Drzycim
+041404, 2, Jeżewo
+041405, 2, Lniano
+041406, 3, Nowe
+041406, 4, Nowe miasto
+041406, 5, Nowe obszar wiejski
+041407, 2, Osie
+041408, 2, Pruszcz
+041409, 3, Świecie
+041409, 4, Świecie miasto
+041409, 5, Świecie obszar wiejski
+041410, 2, Świekatowo
+041411, 2, Warlubie
+041501, 1, Chełmża  
+041502, 2, Chełmża  
+041503, 2, Czernikowo 
+041504, 2, Lubicz
+041505, 2, Łubianka 
+041506, 2, Łysomice 
+041507, 2, Obrowo
+041508, 2, Wielka Nieszawka
+041509, 2, Zławieś Wielka  
+041601, 2, Cekcyn
+041602, 2, Gostycyn 
+041603, 2, Kęsowo
+041604, 2, Lubiewo  
+041605, 2, Śliwice  
+041606, 3, Tuchola
+041606, 4, Tuchola miasto
+041606, 5, Tuchola obszar wiejski
+041701, 1, Wąbrzeźno
+041702, 2, Dębowa Łąka
+041703, 2, Książki
+041704, 2, Płużnica
+041705, 2, Wąbrzeźno
+041801, 1, Kowal
+041802, 2, Baruchowo
+041803, 2, Boniewo
+041804, 3, Brześć Kujawski
+041804, 4, Brześć Kujawski miasto
+041804, 5, Brześć Kujawski obszar wiejski
+041805, 2, Choceń
+041806, 3, Chodecz
+041806, 4, Chodecz miasto
+041806, 5, Chodecz obszar wiejski
+041807, 2, Fabianki
+041808, 3, Izbica Kujawska
+041808, 4, Izbica Kujawska miasto
+041808, 5, Izbica Kujawska obszar wiejski
+041809, 2, Kowal
+041810, 2, Lubanie
+041811, 3, Lubień Kujawski
+041811, 4, Lubień Kujawski miasto
+041811, 5, Lubień Kujawski obszar wiejski
+041812, 3, Lubraniec
+041812, 4, Lubraniec miasto
+041812, 5, Lubraniec obszar wiejski
+041813, 2, Włocławek
+041901, 3, Barcin
+041901, 4, Barcin miasto
+041901, 5, Barcin obszar wiejski
+041902, 2, Gąsawa
+041903, 3, Janowiec Wielkopolski
+041903, 4, Janowiec Wielkopolski miasto
+041903, 5, Janowiec Wielkopolski obszar wiejski
+041904, 3, Łabiszyn
+041904, 4, Łabiszyn miasto
+041904, 5, Łabiszyn obszar wiejski
+041905, 2, Rogowo
+041906, 3, Żnin
+041906, 4, Żnin miasto
+041906, 5, Żnin obszar wiejski
+046101, 1, M. Bydgoszcz 
+046201, 1, M. Grudziądz 
+046301, 1, M. Toruń 
+046401, 1, M. Włocławek 
+060101, 1, Międzyrzec Podlaski
+060102, 1, Terespol 
+060103, 2, Biała Podlaska  
+060104, 2, Drelów
+060105, 2, Janów Podlaski  
+060106, 2, Kodeń
+060107, 2, Konstantynów 
+060108, 2, Leśna Podlaska  
+060109, 2, Łomazy
+060110, 2, Międzyrzec Podlaski
+060111, 2, Piszczac 
+060112, 2, Rokitno  
+060113, 2, Rossosz  
+060114, 2, Sławatycze 
+060115, 2, Sosnówka 
+060116, 2, Terespol 
+060117, 2, Tuczna
+060118, 2, Wisznice 
+060119, 2, Zalesie  
+060201, 1, Biłgoraj 
+060202, 2, Aleksandrów
+060203, 2, Biłgoraj
+060204, 2, Biszcza
+060205, 3, Frampol
+060205, 4, Frampol miasto
+060205, 5, Frampol obszar wiejski
+060206, 2, Goraj
+060207, 3, Józefów
+060207, 4, Józefów miasto
+060207, 5, Józefów obszar wiejski
+060208, 2, Księżpol
+060209, 2, Łukowa
+060210, 2, Obsza
+060211, 2, Potok Górny
+060212, 3, Tarnogród
+060212, 4, Tarnogród miasto
+060212, 5, Tarnogród obszar wiejski
+060213, 2, Tereszpol
+060214, 2, Turobin  
+060301, 1, Rejowiec Fabryczny
+060302, 2, Białopole
+060303, 2, Chełm
+060304, 2, Dorohusk 
+060305, 2, Dubienka 
+060306, 2, Kamień
+060307, 2, Leśniowice 
+060308, 2, Rejowiec Fabryczny
+060309, 2, Ruda-Huta
+060310, 2, Sawin
+060311, 2, Siedliszcze
+060312, 2, Wierzbica
+060313, 2, Wojsławice 
+060314, 2, Żmudź
+060401, 1, Hrubieszów 
+060402, 2, Dołhobyczów
+060403, 2, Horodło  
+060404, 2, Hrubieszów 
+060405, 2, Mircze
+060406, 2, Trzeszczany
+060407, 2, Uchanie  
+060408, 2, Werbkowice 
+060501, 2, Batorz
+060502, 2, Chrzanów 
+060503, 2, Dzwola
+060504, 2, Godziszów
+060505, 3, Janów Lubelski  
+060505, 4, Janów Lubelski miasto
+060505, 5, Janów Lubelski obszar wiejski
+060506, 2, Modliborzyce
+060507, 2, Potok Wielki
+060601, 1, Krasnystaw
+060602, 2, Fajsławice
+060603, 2, Gorzków
+060604, 2, Izbica
+060605, 2, Krasnystaw
+060606, 2, Kraśniczyn
+060607, 2, Łopiennik Górny
+060608, 2, Rejowiec
+060609, 2, Rudnik
+060610, 2, Siennica Różana
+060611, 2, Żółkiewka
+060701, 1, Kraśnik
+060702, 3, Annopol
+060702, 4, Annopol miasto
+060702, 5, Annopol obszar wiejski
+060703, 2, Dzierzkowice
+060704, 2, Gościeradów
+060705, 2, Kraśnik
+060706, 2, Szastarka
+060707, 2, Trzydnik Duży
+060708, 2, Urzędów
+060709, 2, Wilkołaz
+060710, 2, Zakrzówek
+060801, 1, Lubartów
+060802, 2, Abramów
+060803, 2, Firlej
+060804, 2, Jeziorzany
+060805, 2, Kamionka
+060806, 3, Kock
+060806, 4, Kock miasto
+060806, 5, Kock obszar wiejski
+060807, 2, Lubartów
+060808, 2, Michów
+060809, 2, Niedźwiada
+060810, 3, Ostrów Lubelski
+060810, 4, Ostrów Lubelski miasto
+060810, 5, Ostrów Lubelski obszar wiejski
+060811, 2, Ostrówek
+060812, 2, Serniki
+060813, 2, Uścimów
+060901, 3, Bełżyce
+060901, 4, Bełżyce miasto
+060901, 5, Bełżyce obszar wiejski
+060902, 2, Borzechów
+060903, 3, Bychawa
+060903, 4, Bychawa miasto
+060903, 5, Bychawa obszar wiejski
+060904, 2, Garbów
+060905, 2, Głusk
+060906, 2, Jabłonna
+060907, 2, Jastków
+060908, 2, Konopnica
+060909, 2, Krzczonów
+060910, 2, Niedrzwica Duża
+060911, 2, Niemce
+060912, 2, Strzyżewice
+060913, 2, Wojciechów
+060914, 2, Wólka
+060915, 2, Wysokie
+060916, 2, Zakrzew
+061001, 2, Cyców
+061002, 2, Ludwin
+061003, 3, Łęczna
+061003, 4, Łęczna miasto
+061003, 5, Łęczna obszar wiejski
+061004, 2, Milejów
+061005, 2, Puchaczów
+061006, 2, Spiczyn
+061101, 1, Łuków
+061102, 1, Stoczek Łukowski
+061103, 2, Adamów
+061104, 2, Krzywda
+061105, 2, Łuków
+061106, 2, Serokomla
+061107, 2, Stanin
+061108, 2, Stoczek Łukowski
+061109, 2, Trzebieszów
+061110, 2, Wojcieszków
+061111, 2, Wola Mysłowska
+061201, 2, Chodel
+061202, 2, Józefów
+061203, 2, Karczmiska
+061204, 2, Łaziska
+061205, 3, Opole Lubelskie
+061205, 4, Opole Lubelskie miasto
+061205, 5, Opole Lubelskie obszar wiejski
+061206, 3, Poniatowa
+061206, 4, Poniatowa miasto
+061206, 5, Poniatowa obszar wiejski
+061207, 2, Wilków
+061301, 2, Dębowa Kłoda
+061302, 2, Jabłoń
+061303, 2, Milanów
+061304, 3, Parczew
+061304, 4, Parczew miasto
+061304, 5, Parczew obszar wiejski
+061305, 2, Podedwórze
+061306, 2, Siemień
+061307, 2, Sosnowica
+061401, 1, Puławy
+061402, 2, Baranów
+061403, 2, Janowiec
+061404, 3, Kazimierz Dolny
+061404, 4, Kazimierz Dolny miasto
+061404, 5, Kazimierz Dolny obszar wiejski
+061405, 2, Końskowola
+061406, 2, Kurów
+061407, 2, Markuszów
+061408, 3, Nałęczów
+061408, 4, Nałęczów miasto
+061408, 5, Nałęczów obszar wiejski
+061409, 2, Puławy
+061410, 2, Wąwolnica
+061411, 2, Żyrzyn
+061501, 1, Radzyń Podlaski
+061502, 2, Borki
+061503, 2, Czemierniki
+061504, 2, Kąkolewnica Wschodnia
+061505, 2, Komarówka Podlaska
+061506, 2, Radzyń Podlaski
+061507, 2, Ulan-Majorat
+061508, 2, Wohyń
+061601, 1, Dęblin
+061602, 2, Kłoczew
+061603, 2, Nowodwór
+061604, 3, Ryki
+061604, 4, Ryki miasto
+061604, 5, Ryki obszar wiejski
+061605, 2, Stężyca
+061606, 2, Ułęż
+061701, 1, Świdnik
+061702, 2, Mełgiew
+061703, 3, Piaski
+061703, 4, Piaski miasto
+061703, 5, Piaski obszar wiejski
+061704, 2, Rybczewice
+061705, 2, Trawniki
+061801, 1, Tomaszów Lubelski
+061802, 2, Bełżec
+061803, 2, Jarczów
+061804, 2, Krynice
+061805, 2, Lubycza Królewska
+061806, 2, Łaszczów
+061807, 2, Rachanie
+061808, 2, Susiec
+061809, 2, Tarnawatka
+061810, 2, Telatyn
+061811, 2, Tomaszów Lubelski
+061812, 3, Tyszowce
+061812, 4, Tyszowce miasto
+061812, 5, Tyszowce obszar wiejski
+061813, 2, Ulhówek
+061901, 1, Włodawa
+061902, 2, Hanna
+061903, 2, Hańsk
+061904, 2, Stary Brus
+061905, 2, Urszulin
+061906, 2, Włodawa
+061907, 2, Wola Uhruska
+061908, 2, Wyryki
+062001, 2, Adamów
+062002, 2, Grabowiec
+062003, 2, Komarów-Osada
+062004, 3, Krasnobród
+062004, 4, Krasnobród miasto
+062004, 5, Krasnobród obszar wiejski
+062005, 2, Łabunie
+062006, 2, Miączyn
+062007, 2, Nielisz
+062008, 2, Radecznica
+062009, 2, Sitno
+062010, 2, Skierbieszów
+062011, 2, Stary Zamość
+062012, 2, Sułów
+062013, 3, Szczebrzeszyn
+062013, 4, Szczebrzeszyn miasto
+062013, 5, Szczebrzeszyn obszar wiejski
+062014, 2, Zamość
+062015, 3, Zwierzyniec
+062015, 4, Zwierzyniec miasto
+062015, 5, Zwierzyniec obszar wiejski
+066101, 1, M. Biała Podlaska
+066201, 1, M. Chełm
+066301, 1, M. Lublin
+066401, 1, M. Zamość
+080101, 1, Kostrzyn
+080102, 2, Bogdaniec
+080103, 2, Deszczno
+080104, 2, Kłodawa
+080105, 2, Lubiszyn
+080106, 2, Santok
+080107, 3, Witnica
+080107, 4, Witnica miasto
+080107, 5, Witnica obszar wiejski
+080201, 1, Gubin
+080202, 2, Bobrowice
+080203, 2, Bytnica
+080204, 2, Dąbie
+080205, 2, Gubin
+080206, 3, Krosno Odrzańskie
+080206, 4, Krosno Odrzańskie miasto
+080206, 5, Krosno Odrzańskie obszar wiejski
+080207, 2, Maszewo
+080301, 2, Bledzew
+080302, 3, Międzyrzecz
+080302, 4, Międzyrzecz miasto
+080302, 5, Międzyrzecz obszar wiejski
+080303, 2, Przytoczna
+080304, 2, Pszczew
+080305, 3, Skwierzyna
+080305, 4, Skwierzyna miasto
+080305, 5, Skwierzyna obszar wiejski
+080306, 3, Trzciel
+080306, 4, Trzciel miasto
+080306, 5, Trzciel obszar wiejski
+080401, 1, Nowa Sól
+080402, 3, Bytom Odrzański
+080402, 4, Bytom Odrzański miasto
+080402, 5, Bytom Odrzański obszar wiejski
+080403, 2, Kolsko
+080404, 3, Kożuchów
+080404, 4, Kożuchów miasto
+080404, 5, Kożuchów obszar wiejski
+080405, 2, Nowa Sól
+080406, 3, Nowe Miasteczko
+080406, 4, Nowe Miasteczko miasto
+080406, 5, Nowe Miasteczko obszar wiejski
+080407, 2, Otyń
+080408, 2, Siedlisko
+080501, 3, Cybinka
+080501, 4, Cybinka miasto
+080501, 5, Cybinka obszar wiejski
+080502, 2, Górzyca
+080503, 3, Ośno Lubuskie
+080503, 4, Ośno Lubuskie miasto
+080503, 5, Ośno Lubuskie obszar wiejski
+080504, 3, Rzepin
+080504, 4, Rzepin miasto
+080504, 5, Rzepin obszar wiejski
+080505, 3, Słubice
+080505, 4, Słubice miasto
+080505, 5, Słubice obszar wiejski
+080601, 3, Dobiegniew
+080601, 4, Dobiegniew miasto
+080601, 5, Dobiegniew obszar wiejski
+080602, 3, Drezdenko
+080602, 4, Drezdenko miasto
+080602, 5, Drezdenko obszar wiejski
+080603, 2, Stare Kurowo
+080604, 3, Strzelce Krajeńskie
+080604, 4, Strzelce Krajeńskie miasto
+080604, 5, Strzelce Krajeńskie obszar wiejski
+080605, 2, Zwierzyn
+080701, 2, Krzeszyce
+080702, 3, Lubniewice
+080702, 4, Lubniewice miasto
+080702, 5, Lubniewice obszar wiejski
+080703, 2, Słońsk
+080704, 3, Sulęcin
+080704, 4, Sulęcin miasto
+080704, 5, Sulęcin obszar wiejski
+080705, 3, Torzym
+080705, 4, Torzym miasto
+080705, 5, Torzym obszar wiejski
+080801, 2, Lubrza
+080802, 2, Łagów
+080803, 2, Skąpe
+080804, 2, Szczaniec
+080805, 3, Świebodzin
+080805, 4, Świebodzin miasto
+080805, 5, Świebodzin obszar wiejski
+080806, 3, Zbąszynek
+080806, 4, Zbąszynek miasto
+080806, 5, Zbąszynek obszar wiejski
+081201, 3, Sława
+081201, 4, Sława miasto
+081201, 5, Sława obszar wiejski
+081202, 3, Szlichtyngowa
+081202, 4, Szlichtyngowa miasto
+081202, 5, Szlichtyngowa obszar wiejski
+081203, 3, Wschowa
+081203, 4, Wschowa miasto
+081203, 5, Wschowa obszar wiejski
+080901, 3, Babimost
+080901, 4, Babimost miasto
+080901, 5, Babimost obszar wiejski
+080902, 2, Bojadła
+080903, 3, Czerwieńsk
+080903, 4, Czerwieńsk miasto
+080903, 5, Czerwieńsk obszar wiejski
+080904, 3, Kargowa
+080904, 4, Kargowa miasto
+080904, 5, Kargowa obszar wiejski
+080905, 3, Nowogród Bobrzański
+080905, 4, Nowogród Bobrzański miasto
+080905, 5, Nowogród Bobrzański obszar wiejski
+080906, 3, Sulechów
+080906, 4, Sulechów miasto
+080906, 5, Sulechów obszar wiejski
+080907, 2, Świdnica
+080908, 2, Trzebiechów
+080909, 2, Zabór
+080910, 2, Zielona Góra
+081001, 1, Gozdnica
+081002, 1, Żagań
+081003, 2, Brzeźnica
+081004, 3, Iłowa
+081004, 4, Iłowa miasto
+081004, 5, Iłowa obszar wiejski
+081005, 3, Małomice
+081005, 4, Małomice miasto
+081005, 5, Małomice obszar wiejski
+081006, 2, Niegosławice
+081007, 3, Szprotawa
+081007, 4, Szprotawa miasto
+081007, 5, Szprotawa obszar wiejski
+081008, 2, Wymiarki
+081009, 2, Żagań
+081101, 1, Łęknica
+081102, 1, Żary
+081103, 2, Brody
+081104, 3, Jasień
+081104, 4, Jasień miasto
+081104, 5, Jasień obszar wiejski
+081105, 2, Lipinki Łużyckie
+081106, 3, Lubsko
+081106, 4, Lubsko miasto
+081106, 5, Lubsko obszar wiejski
+081107, 2, Przewóz
+081108, 2, Trzebiel
+081109, 2, Tuplice
+081110, 2, Żary
+086101, 1, M. Gorzów Wielkopolski
+086201, 1, M. Zielona Góra
+100101, 1, Bełchatów
+100102, 2, Bełchatów
+100103, 2, Drużbice
+100104, 2, Kleszczów
+100105, 2, Kluki
+100106, 2, Rusiec
+100107, 2, Szczerców
+100108, 3, Zelów
+100108, 4, Zelów miasto
+100108, 5, Zelów obszar wiejski
+102101, 1, Brzeziny
+102102, 2, Brzeziny
+102103, 2, Dmosin
+102104, 2, Jeżów
+102105, 2, Rogów
+100201, 1, Kutno
+100202, 2, Bedlno
+100203, 2, Dąbrowice
+100204, 3, Krośniewice
+100204, 4, Krośniewice miasto
+100204, 5, Krośniewice obszar wiejski
+100205, 2, Krzyżanów
+100206, 2, Kutno
+100207, 2, Łanięta
+100208, 2, Nowe Ostrowy
+100209, 2, Oporów
+100210, 2, Strzelce
+100211, 3, Żychlin
+100211, 4, Żychlin miasto
+100211, 5, Żychlin obszar wiejski
+100301, 2, Buczek
+100302, 3, Łask
+100302, 4, Łask miasto
+100302, 5, Łask obszar wiejski
+100303, 2, Sędziejowice
+100304, 2, Widawa
+100305, 2, Wodzierady
+100401, 1, Łęczyca
+100402, 2, Daszyna  
+100403, 2, Góra Świętej Małgorzaty 
+100404, 2, Grabów
+100405, 2, Łęczyca  
+100406, 2, Piątek
+100407, 2, Świnice Warckie 
+100408, 2, Witonia  
+100501, 1, Łowicz
+100502, 2, Bielawy  
+100503, 2, Chąśno
+100504, 2, Domaniewice
+100505, 2, Kiernozia
+100506, 2, Kocierzew Południowy  
+100507, 2, Łowicz
+100508, 2, Łyszkowice 
+100509, 2, Nieborów
+100510, 2, Zduny
+100602, 2, Andrespol
+100603, 2, Brójce
+100607, 3, Koluszki
+100607, 4, Koluszki miasto
+100607, 5, Koluszki obszar wiejski
+100608, 2, Nowosolna
+100610, 2, Rzgów
+100611, 3, Tuszyn
+100611, 4, Tuszyn miasto
+100611, 5, Tuszyn obszar wiejski
+100701, 2, Białaczów
+100702, 3, Drzewica
+100702, 4, Drzewica miasto
+100702, 5, Drzewica obszar wiejski
+100703, 2, Mniszków
+100704, 3, Opoczno
+100704, 4, Opoczno miasto
+100704, 5, Opoczno obszar wiejski
+100705, 2, Paradyż
+100706, 2, Poświętne
+100707, 2, Sławno
+100708, 2, Żarnów
+100801, 1, Konstantynów Łódzki
+100802, 1, Pabianice
+100803, 2, Dłutów
+100804, 2, Dobroń
+100805, 2, Ksawerów
+100806, 2, Lutomiersk
+100807, 2, Pabianice
+100901, 3, Działoszyn
+100901, 4, Działoszyn miasto
+100901, 5, Działoszyn obszar wiejski
+100902, 2, Kiełczygłów
+100903, 2, Nowa Brzeźnica
+100904, 3, Pajęczno
+100904, 4, Pajęczno miasto
+100904, 5, Pajęczno obszar wiejski
+100905, 2, Rząśnia
+100906, 2, Siemkowice
+100907, 2, Strzelce Wielkie
+100908, 2, Sulmierzyce
+101001, 2, Aleksandrów
+101002, 2, Czarnocin
+101003, 2, Gorzkowice
+101004, 2, Grabica
+101005, 2, Łęki Szlacheckie
+101006, 2, Moszczenica
+101007, 2, Ręczno
+101008, 2, Rozprza
+101009, 3, Sulejów
+101009, 4, Sulejów miasto
+101009, 5, Sulejów obszar wiejski
+101010, 2, Wola Krzysztoporska
+101011, 2, Wolbórz
+101101, 2, Dalików
+101102, 2, Pęczniew
+101103, 3, Poddębice
+101103, 4, Poddębice miasto
+101103, 5, Poddębice obszar wiejski
+101104, 3, Uniejów
+101104, 4, Uniejów miasto
+101104, 5, Uniejów obszar wiejski
+101105, 2, Wartkowice
+101106, 2, Zadzim
+101201, 1, Radomsko
+101202, 2, Dobryszyce
+101203, 2, Gidle
+101204, 2, Gomunice
+101205, 3, Kamieńsk
+101205, 4, Kamieńsk miasto
+101205, 5, Kamieńsk obszar wiejski
+101206, 2, Kobiele Wielkie
+101207, 2, Kodrąb
+101208, 2, Lgota Wielka
+101209, 2, Ładzice
+101210, 2, Masłowice
+101211, 3, Przedbórz
+101211, 4, Przedbórz miasto
+101211, 5, Przedbórz obszar wiejski
+101212, 2, Radomsko
+101213, 2, Wielgomłyny
+101214, 2, Żytno
+101301, 1, Rawa Mazowiecka
+101302, 3, Biała Rawska
+101302, 4, Biała Rawska miasto
+101302, 5, Biała Rawska obszar wiejski
+101303, 2, Cielądz
+101304, 2, Rawa Mazowiecka
+101305, 2, Regnów
+101306, 2, Sadkowice
+101401, 1, Sieradz
+101402, 3, Błaszki
+101402, 4, Błaszki miasto
+101402, 5, Błaszki obszar wiejski
+101403, 2, Brąszewice
+101404, 2, Brzeźnio
+101405, 2, Burzenin
+101406, 2, Goszczanów
+101407, 2, Klonowa
+101408, 2, Sieradz
+101409, 3, Warta
+101409, 4, Warta miasto
+101409, 5, Warta obszar wiejski
+101410, 2, Wróblew
+101411, 3, Złoczew
+101411, 4, Złoczew miasto
+101411, 5, Złoczew obszar wiejski
+101501, 2, Bolimów
+101502, 2, Głuchów
+101503, 2, Godzianów
+101504, 2, Kowiesy
+101505, 2, Lipce Reymontowskie
+101506, 2, Maków
+101507, 2, Nowy Kawęczyn
+101508, 2, Skierniewice
+101509, 2, Słupia
+101601, 1, Tomaszów Mazowiecki
+101602, 2, Będków
+101603, 2, Budziszewice 
+101604, 2, Czerniewice
+101605, 2, Inowłódz 
+101606, 2, Lubochnia
+101607, 2, Rokiciny 
+101608, 2, Rzeczyca 
+101609, 2, Tomaszów Mazowiecki
+101610, 2, Ujazd
+101611, 2, Żelechlinek
+101701, 2, Biała
+101702, 2, Czarnożyły 
+101703, 2, Konopnica
+101704, 2, Mokrsko
+101705, 2, Osjaków
+101706, 2, Ostrówek
+101707, 2, Pątnów
+101708, 2, Skomlin
+101709, 3, Wieluń
+101709, 4, Wieluń miasto
+101709, 5, Wieluń obszar wiejski
+101710, 2, Wierzchlas
+101801, 2, Bolesławiec
+101802, 2, Czastary
+101803, 2, Galewice
+101804, 2, Lututów
+101805, 2, Łubnice
+101806, 2, Sokolniki
+101807, 3, Wieruszów
+101807, 4, Wieruszów miasto
+101807, 5, Wieruszów obszar wiejski
+101901, 1, Zduńska Wola
+101902, 3, Szadek
+101902, 4, Szadek miasto
+101902, 5, Szadek obszar wiejski
+101903, 2, Zapolice
+101904, 2, Zduńska Wola
+102001, 1, Głowno
+102002, 1, Ozorków
+102003, 1, Zgierz
+102004, 3, Aleksandrów Łódzki
+102004, 4, Aleksandrów Łódzki miasto
+102004, 5, Aleksandrów Łódzki obszar wiejski
+102005, 2, Głowno
+102006, 2, Ozorków
+102007, 2, Parzęczew
+102008, 3, Stryków
+102008, 4, Stryków miasto
+102008, 5, Stryków obszar wiejski
+102009, 2, Zgierz
+106101, 1, M. Łódź
+106102, 9, Łódź-Bałuty
+106103, 9, Łódź-Górna
+106104, 9, Łódź-Polesie
+106105, 9, Łódź-Śródmieście
+106106, 9, Łódź-Widzew
+106201, 1, M. Piotrków Trybunalski
+106301, 1, M. Skierniewice
+120101, 1, Bochnia
+120102, 2, Bochnia
+120103, 2, Drwinia
+120104, 2, Lipnica Murowana
+120105, 2, Łapanów
+120106, 3, Nowy Wiśnicz
+120106, 4, Nowy Wiśnicz miasto
+120106, 5, Nowy Wiśnicz obszar wiejski
+120107, 2, Rzezawa
+120108, 2, Trzciana
+120109, 2, Żegocina
+120201, 2, Borzęcin
+120202, 3, Brzesko
+120202, 4, Brzesko miasto
+120202, 5, Brzesko obszar wiejski
+120203, 3, Czchów
+120203, 4, Czchów miasto
+120203, 5, Czchów obszar wiejski
+120204, 2, Dębno
+120205, 2, Gnojnik
+120206, 2, Iwkowa
+120207, 2, Szczurowa
+120301, 3, Alwernia
+120301, 4, Alwernia miasto
+120301, 5, Alwernia obszar wiejski
+120302, 2, Babice
+120303, 3, Chrzanów
+120303, 4, Chrzanów miasto
+120303, 5, Chrzanów obszar wiejski
+120304, 3, Libiąż
+120304, 4, Libiąż miasto
+120304, 5, Libiąż obszar wiejski
+120305, 3, Trzebinia
+120305, 4, Trzebinia miasto
+120305, 5, Trzebinia obszar wiejski
+120401, 2, Bolesław
+120402, 3, Dąbrowa Tarnowska
+120402, 4, Dąbrowa Tarnowska miasto
+120402, 5, Dąbrowa Tarnowska obszar wiejski
+120403, 2, Gręboszów
+120404, 2, Mędrzechów
+120405, 2, Olesno
+120406, 2, Radgoszcz
+120407, 2, Szczucin
+120501, 1, Gorlice
+120502, 3, Biecz
+120502, 4, Biecz miasto
+120502, 5, Biecz obszar wiejski
+120503, 2, Bobowa
+120504, 2, Gorlice
+120505, 2, Lipinki
+120506, 2, Łużna
+120507, 2, Moszczenica
+120508, 2, Ropa
+120509, 2, Sękowa
+120510, 2, Uście Gorlickie
+120601, 2, Czernichów
+120602, 2, Igołomia-Wawrzeńczyce
+120603, 2, Iwanowice
+120604, 2, Jerzmanowice-Przeginia
+120605, 2, Kocmyrzów-Luborzyca
+120606, 3, Krzeszowice
+120606, 4, Krzeszowice miasto
+120606, 5, Krzeszowice obszar wiejski
+120607, 2, Liszki
+120608, 2, Michałowice
+120609, 2, Mogilany
+120610, 3, Skała
+120610, 4, Skała miasto
+120610, 5, Skała obszar wiejski
+120611, 3, Skawina
+120611, 4, Skawina miasto
+120611, 5, Skawina obszar wiejski
+120612, 3, Słomniki
+120612, 4, Słomniki miasto
+120612, 5, Słomniki obszar wiejski
+120613, 2, Sułoszowa
+120614, 3, Świątniki Górne
+120614, 4, Świątniki Górne miasto
+120614, 5, Świątniki Górne obszar wiejski
+120615, 2, Wielka Wieś
+120616, 2, Zabierzów
+120617, 2, Zielonki
+120701, 1, Limanowa
+120702, 1, Mszana Dolna
+120703, 2, Dobra
+120704, 2, Jodłownik
+120705, 2, Kamienica
+120706, 2, Laskowa  
+120707, 2, Limanowa 
+120708, 2, Łukowica 
+120709, 2, Mszana Dolna 
+120710, 2, Niedźwiedź 
+120711, 2, Słopnice 
+120712, 2, Tymbark  
+120801, 2, Charsznica 
+120802, 2, Gołcza
+120803, 2, Kozłów
+120804, 2, Książ Wielki 
+120805, 3, Miechów  
+120805, 4, Miechów miasto
+120805, 5, Miechów obszar wiejski
+120806, 2, Racławice
+120807, 2, Słaboszów
+120901, 3, Dobczyce
+120901, 4, Dobczyce miasto
+120901, 5, Dobczyce obszar wiejski
+120902, 2, Lubień
+120903, 3, Myślenice
+120903, 4, Myślenice miasto
+120903, 5, Myślenice obszar wiejski
+120904, 2, Pcim
+120905, 2, Raciechowice
+120906, 2, Siepraw
+120907, 3, Sułkowice
+120907, 4, Sułkowice miasto
+120907, 5, Sułkowice obszar wiejski
+120908, 2, Tokarnia
+120909, 2, Wiśniowa
+121001, 1, Grybów
+121002, 2, Chełmiec
+121003, 2, Gródek nad Dunajcem
+121004, 2, Grybów
+121005, 2, Kamionka Wielka
+121006, 2, Korzenna
+121007, 3, Krynica-Zdrój
+121007, 4, Krynica-Zdrój miasto
+121007, 5, Krynica-Zdrój obszar wiejski
+121008, 2, Łabowa
+121009, 2, Łącko
+121010, 2, Łososina Dolna
+121011, 3, Muszyna
+121011, 4, Muszyna miasto
+121011, 5, Muszyna obszar wiejski
+121012, 2, Nawojowa
+121013, 3, Piwniczna-Zdrój
+121013, 4, Piwniczna-Zdrój miasto
+121013, 5, Piwniczna-Zdrój obszar wiejski
+121014, 2, Podegrodzie
+121015, 2, Rytro
+121016, 3, Stary Sącz
+121016, 4, Stary Sącz miasto
+121016, 5, Stary Sącz obszar wiejski
+121101, 1, Nowy Targ
+121102, 1, Szczawnica
+121103, 2, Czarny Dunajec
+121104, 2, Czorsztyn
+121105, 2, Jabłonka
+121106, 2, Krościenko nad Dunajcem
+121107, 2, Lipnica Wielka
+121108, 2, Łapsze Niżne
+121109, 2, Nowy Targ
+121110, 2, Ochotnica Dolna
+121111, 2, Raba Wyżna
+121112, 3, Rabka-Zdrój
+121112, 4, Rabka-Zdrój miasto
+121112, 5, Rabka-Zdrój obszar wiejski
+121113, 2, Spytkowice
+121114, 2, Szaflary
+121201, 1, Bukowno
+121203, 2, Bolesław
+121204, 2, Klucze
+121205, 3, Olkusz
+121205, 4, Olkusz miasto
+121205, 5, Olkusz obszar wiejski
+121206, 2, Trzyciąż
+121207, 3, Wolbrom
+121207, 4, Wolbrom miasto
+121207, 5, Wolbrom obszar wiejski
+121301, 1, Oświęcim
+121302, 3, Brzeszcze
+121302, 4, Brzeszcze miasto
+121302, 5, Brzeszcze obszar wiejski
+121303, 3, Chełmek
+121303, 4, Chełmek miasto
+121303, 5, Chełmek obszar wiejski
+121304, 3, Kęty
+121304, 4, Kęty miasto
+121304, 5, Kęty obszar wiejski
+121305, 2, Osiek
+121306, 2, Oświęcim
+121307, 2, Polanka Wielka
+121308, 2, Przeciszów
+121309, 3, Zator
+121309, 4, Zator miasto
+121309, 5, Zator obszar wiejski
+121401, 2, Koniusza
+121402, 2, Koszyce
+121403, 2, Nowe Brzesko
+121404, 2, Pałecznica
+121405, 3, Proszowice
+121405, 4, Proszowice miasto
+121405, 5, Proszowice obszar wiejski
+121406, 2, Radziemice
+121501, 1, Jordanów
+121502, 1, Sucha Beskidzka
+121503, 2, Budzów
+121504, 2, Bystra-Sidzina
+121505, 2, Jordanów
+121506, 3, Maków Podhalański
+121506, 4, Maków Podhalański miasto
+121506, 5, Maków Podhalański obszar wiejski
+121507, 2, Stryszawa
+121508, 2, Zawoja
+121509, 2, Zembrzyce
+121601, 3, Ciężkowice
+121601, 4, Ciężkowice miasto
+121601, 5, Ciężkowice obszar wiejski
+121602, 2, Gromnik
+121603, 2, Lisia Góra
+121604, 2, Pleśna
+121605, 2, Radłów
+121606, 3, Ryglice
+121606, 4, Ryglice miasto
+121606, 5, Ryglice obszar wiejski
+121607, 2, Rzepiennik Strzyżewski
+121608, 2, Skrzyszów
+121616, 2, Szerzyny
+121609, 2, Tarnów
+121610, 3, Tuchów
+121610, 4, Tuchów miasto
+121610, 5, Tuchów obszar wiejski
+121611, 2, Wierzchosławice
+121612, 2, Wietrzychowice
+121613, 2, Wojnicz
+121614, 2, Zakliczyn
+121615, 3, Żabno
+121615, 4, Żabno miasto
+121615, 5, Żabno obszar wiejski
+121701, 1, Zakopane
+121702, 2, Biały Dunajec
+121703, 2, Bukowina Tatrzańska
+121704, 2, Kościelisko
+121705, 2, Poronin
+121801, 3, Andrychów
+121801, 4, Andrychów miasto
+121801, 5, Andrychów obszar wiejski
+121802, 2, Brzeźnica
+121803, 3, Kalwaria Zebrzydowska
+121803, 4, Kalwaria Zebrzydowska miasto
+121803, 5, Kalwaria Zebrzydowska obszar wiejski
+121804, 2, Lanckorona
+121805, 2, Mucharz
+121806, 2, Spytkowice
+121807, 2, Stryszów
+121808, 2, Tomice
+121809, 3, Wadowice
+121809, 4, Wadowice miasto
+121809, 5, Wadowice obszar wiejski
+121810, 2, Wieprz
+121901, 2, Biskupice
+121902, 2, Gdów
+121903, 2, Kłaj
+121904, 3, Niepołomice
+121904, 4, Niepołomice miasto
+121904, 5, Niepołomice obszar wiejski
+121905, 3, Wieliczka
+121905, 4, Wieliczka miasto
+121905, 5, Wieliczka obszar wiejski
+126101, 1, M. Kraków
+126102, 9, Kraków-Krowodrza
+126103, 9, Kraków-Nowa Huta
+126104, 9, Kraków-Podgórze
+126105, 9, Kraków-Śródmieście
+126201, 1, M. Nowy Sącz
+126301, 1, M. Tarnów
+140101, 3, Białobrzegi
+140101, 4, Białobrzegi miasto
+140101, 5, Białobrzegi obszar wiejski
+140102, 2, Promna
+140103, 2, Radzanów
+140104, 2, Stara Błotnica
+140105, 2, Stromiec
+140106, 3, Wyśmierzyce
+140106, 4, Wyśmierzyce miasto
+140106, 5, Wyśmierzyce obszar wiejski
+140201, 1, Ciechanów
+140202, 2, Ciechanów
+140203, 3, Glinojeck
+140203, 4, Glinojeck miasto
+140203, 5, Glinojeck obszar wiejski
+140204, 2, Gołymin-Ośrodek
+140205, 2, Grudusk
+140206, 2, Ojrzeń
+140207, 2, Opinogóra Górna
+140208, 2, Regimin
+140209, 2, Sońsk
+140301, 1, Garwolin
+140302, 1, Łaskarzew
+140303, 2, Borowie
+140304, 2, Garwolin
+140305, 2, Górzno
+140306, 2, Łaskarzew
+140307, 2, Maciejowice
+140308, 2, Miastków Kościelny
+140309, 2, Parysów
+140310, 3, Pilawa
+140310, 4, Pilawa miasto
+140310, 5, Pilawa obszar wiejski
+140311, 2, Sobolew
+140312, 2, Trojanów
+140313, 2, Wilga
+140314, 3, Żelechów
+140314, 4, Żelechów miasto
+140314, 5, Żelechów obszar wiejski
+140401, 1, Gostynin
+140402, 2, Gostynin
+140403, 2, Pacyna
+140404, 2, Sanniki
+140405, 2, Szczawin Kościelny
+140501, 1, Milanówek
+140502, 1, Podkowa Leśna
+140503, 2, Baranów
+140504, 3, Grodzisk Mazowiecki
+140504, 4, Grodzisk Mazowiecki miasto
+140504, 5, Grodzisk Mazowiecki obszar wiejski
+140505, 2, Jaktorów
+140506, 2, Żabia Wola
+140601, 2, Belsk Duży
+140602, 2, Błędów
+140603, 2, Chynów
+140604, 2, Goszczyn
+140605, 3, Grójec
+140605, 4, Grójec miasto
+140605, 5, Grójec obszar wiejski
+140606, 2, Jasieniec
+140607, 3, Mogielnica
+140607, 4, Mogielnica miasto
+140607, 5, Mogielnica obszar wiejski
+140608, 3, Nowe Miasto nad Pilicą
+140608, 4, Nowe Miasto nad Pilicą miasto
+140608, 5, Nowe Miasto nad Pilicą obszar wiejski
+140609, 2, Pniewy
+140611, 3, Warka
+140611, 4, Warka miasto
+140611, 5, Warka obszar wiejski
+140701, 2, Garbatka-Letnisko
+140702, 2, Głowaczów
+140703, 2, Gniewoszów
+140704, 2, Grabów nad Pilicą
+140705, 3, Kozienice
+140705, 4, Kozienice miasto
+140705, 5, Kozienice obszar wiejski
+140706, 2, Magnuszew
+140707, 2, Sieciechów
+140801, 1, Legionowo
+140802, 2, Jabłonna
+140803, 2, Nieporęt
+140804, 3, Serock
+140804, 4, Serock miasto
+140804, 5, Serock obszar wiejski
+140805, 2, Wieliszew
+140901, 2, Chotcza
+140902, 2, Ciepielów
+140903, 3, Lipsko
+140903, 4, Lipsko miasto
+140903, 5, Lipsko obszar wiejski
+140904, 2, Rzeczniów
+140905, 2, Sienno
+140906, 2, Solec nad Wisłą
+141001, 2, Huszlew
+141002, 3, Łosice
+141002, 4, Łosice miasto
+141002, 5, Łosice obszar wiejski
+141003, 2, Olszanka
+141004, 2, Platerów
+141005, 2, Sarnaki
+141006, 2, Stara Kornica
+141101, 1, Maków Mazowiecki
+141102, 2, Czerwonka
+141103, 2, Karniewo
+141104, 2, Krasnosielc
+141105, 2, Młynarze
+141106, 2, Płoniawy-Bramura
+141107, 3, Różan
+141107, 4, Różan miasto
+141107, 5, Różan obszar wiejski
+141108, 2, Rzewnie
+141109, 2, Sypniewo
+141110, 2, Szelków
+141201, 1, Mińsk Mazowiecki
+141215, 1, Sulejówek
+141204, 2, Cegłów
+141205, 2, Dębe Wielkie
+141206, 2, Dobre
+141207, 3, Halinów
+141207, 4, Halinów miasto
+141207, 5, Halinów obszar wiejski
+141208, 2, Jakubów
+141209, 3, Kałuszyn
+141209, 4, Kałuszyn miasto
+141209, 5, Kałuszyn obszar wiejski
+141210, 2, Latowicz
+141211, 2, Mińsk Mazowiecki
+141212, 2, Mrozy
+141213, 2, Siennica 
+141214, 2, Stanisławów
+141301, 1, Mława
+141302, 2, Dzierzgowo 
+141303, 2, Lipowiec Kościelny
+141304, 2, Radzanów 
+141305, 2, Strzegowo
+141306, 2, Stupsk
+141307, 2, Szreńsk  
+141308, 2, Szydłowo 
+141309, 2, Wieczfnia Kościelna
+141310, 2, Wiśniewo 
+141401, 1, Nowy Dwór Mazowiecki
+141402, 2, Czosnów
+141403, 2, Leoncin
+141404, 3, Nasielsk
+141404, 4, Nasielsk miasto
+141404, 5, Nasielsk obszar wiejski
+141405, 2, Pomiechówek
+141406, 3, Zakroczym
+141406, 4, Zakroczym miasto
+141406, 5, Zakroczym obszar wiejski
+141501, 2, Baranowo
+141502, 2, Czarnia
+141503, 2, Czerwin
+141504, 2, Goworowo
+141505, 2, Kadzidło
+141506, 2, Lelis
+141507, 2, Łyse
+141508, 3, Myszyniec
+141508, 4, Myszyniec miasto
+141508, 5, Myszyniec obszar wiejski
+141509, 2, Olszewo-Borki
+141510, 2, Rzekuń
+141511, 2, Troszyn
+141601, 1, Ostrów Mazowiecka
+141602, 2, Andrzejewo
+141603, 2, Boguty-Pianki
+141604, 3, Brok
+141604, 4, Brok miasto
+141604, 5, Brok obszar wiejski
+141605, 2, Małkinia Górna
+141606, 2, Nur
+141607, 2, Ostrów Mazowiecka
+141608, 2, Stary Lubotyń
+141609, 2, Szulborze Wielkie
+141610, 2, Wąsewo
+141611, 2, Zaręby Kościelne
+141701, 1, Józefów
+141702, 1, Otwock
+141703, 2, Celestynów
+141704, 3, Karczew
+141704, 4, Karczew miasto
+141704, 5, Karczew obszar wiejski
+141705, 2, Kołbiel
+141706, 2, Osieck
+141707, 2, Sobienie-Jeziory
+141708, 2, Wiązowna
+141801, 3, Góra Kalwaria
+141801, 4, Góra Kalwaria miasto
+141801, 5, Góra Kalwaria obszar wiejski
+141802, 3, Konstancin-Jeziorna
+141802, 4, Konstancin-Jeziorna miasto
+141802, 5, Konstancin-Jeziorna obszar wiejski
+141803, 2, Lesznowola
+141804, 3, Piaseczno
+141804, 4, Piaseczno miasto
+141804, 5, Piaseczno obszar wiejski
+141805, 2, Prażmów
+141806, 3, Tarczyn
+141806, 4, Tarczyn miasto
+141806, 5, Tarczyn obszar wiejski
+141901, 2, Bielsk
+141902, 2, Bodzanów
+141903, 2, Brudzeń Duży
+141904, 2, Bulkowo
+141905, 3, Drobin
+141905, 4, Drobin miasto
+141905, 5, Drobin obszar wiejski
+141906, 3, Gąbin
+141906, 4, Gąbin miasto
+141906, 5, Gąbin obszar wiejski
+141907, 2, Łąck
+141908, 2, Mała Wieś
+141909, 2, Nowy Duninów
+141910, 2, Radzanowo
+141911, 2, Słubice
+141912, 2, Słupno
+141913, 2, Stara Biała
+141914, 2, Staroźreby
+141915, 3, Wyszogród
+141915, 4, Wyszogród miasto
+141915, 5, Wyszogród obszar wiejski
+142001, 1, Płońsk
+142002, 1, Raciąż
+142003, 2, Baboszewo
+142004, 2, Czerwińsk nad Wisłą
+142005, 2, Dzierzążnia
+142006, 2, Joniec
+142007, 2, Naruszewo
+142008, 2, Nowe Miasto
+142009, 2, Płońsk
+142010, 2, Raciąż
+142011, 2, Sochocin
+142012, 2, Załuski
+142101, 1, Piastów
+142102, 1, Pruszków
+142103, 3, Brwinów
+142103, 4, Brwinów miasto
+142103, 5, Brwinów obszar wiejski
+142104, 2, Michałowice
+142105, 2, Nadarzyn
+142106, 2, Raszyn
+142201, 1, Przasnysz
+142202, 3, Chorzele
+142202, 4, Chorzele miasto
+142202, 5, Chorzele obszar wiejski
+142203, 2, Czernice Borowe
+142204, 2, Jednorożec
+142205, 2, Krasne
+142206, 2, Krzynowłoga Mała
+142207, 2, Przasnysz
+142301, 2, Borkowice
+142302, 2, Gielniów
+142303, 2, Klwów
+142304, 2, Odrzywół
+142305, 2, Potworów
+142306, 3, Przysucha
+142306, 4, Przysucha miasto
+142306, 5, Przysucha obszar wiejski
+142307, 2, Rusinów
+142308, 2, Wieniawa
+142401, 2, Gzy
+142402, 2, Obryte
+142403, 2, Pokrzywnica
+142404, 3, Pułtusk
+142404, 4, Pułtusk miasto
+142404, 5, Pułtusk obszar wiejski
+142405, 2, Świercze
+142406, 2, Winnica
+142407, 2, Zatory
+142501, 1, Pionki
+142502, 2, Gózd
+142503, 3, Iłża
+142503, 4, Iłża miasto
+142503, 5, Iłża obszar wiejski
+142504, 2, Jastrzębia
+142505, 2, Jedlińsk
+142506, 2, Jedlnia-Letnisko
+142507, 2, Kowala
+142508, 2, Pionki
+142509, 2, Przytyk
+142510, 3, Skaryszew
+142510, 4, Skaryszew miasto
+142510, 5, Skaryszew obszar wiejski
+142511, 2, Wierzbica
+142512, 2, Wolanów
+142513, 2, Zakrzew
+142601, 2, Domanice
+142602, 2, Korczew
+142603, 2, Kotuń
+142604, 2, Mokobody
+142605, 3, Mordy
+142605, 4, Mordy miasto
+142605, 5, Mordy obszar wiejski
+142606, 2, Paprotnia
+142607, 2, Przesmyki
+142608, 2, Siedlce
+142609, 2, Skórzec
+142610, 2, Suchożebry
+142611, 2, Wiśniew
+142612, 2, Wodynie
+142613, 2, Zbuczyn Poduchowny
+142701, 1, Sierpc
+142702, 2, Gozdowo
+142703, 2, Mochowo  
+142704, 2, Rościszewo 
+142705, 2, Sierpc
+142706, 2, Szczutowo
+142707, 2, Zawidz
+142801, 1, Sochaczew
+142802, 2, Brochów  
+142803, 2, Iłów 
+142804, 2, Młodzieszyn
+142805, 2, Nowa Sucha 
+142806, 2, Rybno
+142807, 2, Sochaczew
+142808, 2, Teresin  
+142901, 1, Sokołów Podlaski
+142902, 2, Bielany
+142903, 2, Ceranów
+142904, 2, Jabłonna Lacka
+142905, 3, Kosów Lacki
+142905, 4, Kosów Lacki miasto
+142905, 5, Kosów Lacki obszar wiejski
+142906, 2, Repki
+142907, 2, Sabnie
+142908, 2, Sokołów Podlaski
+142909, 2, Sterdyń
+143001, 2, Chlewiska
+143002, 2, Jastrząb
+143003, 2, Mirów
+143004, 2, Orońsko
+143005, 3, Szydłowiec
+143005, 4, Szydłowiec miasto
+143005, 5, Szydłowiec obszar wiejski
+143201, 3, Błonie
+143201, 4, Błonie miasto
+143201, 5, Błonie obszar wiejski
+143202, 2, Izabelin
+143203, 2, Kampinos
+143204, 2, Leszno
+143205, 3, Łomianki
+143205, 4, Łomianki miasto
+143205, 5, Łomianki obszar wiejski
+143206, 3, Ożarów Mazowiecki
+143206, 4, Ożarów Mazowiecki miasto
+143206, 5, Ożarów Mazowiecki obszar wiejski
+143207, 2, Stare Babice
+143301, 1, Węgrów
+143302, 2, Grębków
+143303, 2, Korytnica
+143304, 2, Liw
+143305, 3, Łochów
+143305, 4, Łochów miasto
+143305, 5, Łochów obszar wiejski
+143306, 2, Miedzna
+143307, 2, Sadowne
+143308, 2, Stoczek
+143309, 2, Wierzbno
+143401, 1, Kobyłka
+143402, 1, Marki
+143403, 1, Ząbki
+143404, 1, Zielonka
+143405, 2, Dąbrówka
+143406, 2, Jadów
+143407, 2, Klembów
+143408, 2, Poświętne
+143409, 3, Radzymin
+143409, 4, Radzymin miasto
+143409, 5, Radzymin obszar wiejski
+143410, 2, Strachówka
+143411, 3, Tłuszcz
+143411, 4, Tłuszcz miasto
+143411, 5, Tłuszcz obszar wiejski
+143412, 3, Wołomin
+143412, 4, Wołomin miasto
+143412, 5, Wołomin obszar wiejski
+143501, 2, Brańszczyk
+143502, 2, Długosiodło
+143503, 2, Rząśnik
+143504, 2, Somianka
+143505, 3, Wyszków
+143505, 4, Wyszków miasto
+143505, 5, Wyszków obszar wiejski
+143506, 2, Zabrodzie
+143601, 2, Kazanów
+143602, 2, Policzna
+143603, 2, Przyłęk
+143604, 2, Tczów
+143605, 3, Zwoleń
+143605, 4, Zwoleń miasto
+143605, 5, Zwoleń obszar wiejski
+143701, 3, Bieżuń
+143701, 4, Bieżuń miasto
+143701, 5, Bieżuń obszar wiejski
+143702, 2, Kuczbork-Osada
+143703, 2, Lubowidz
+143704, 2, Lutocin
+143705, 2, Siemiątkowo Koziebrodzkie
+143706, 3, Żuromin
+143706, 4, Żuromin miasto
+143706, 5, Żuromin obszar wiejski
+143801, 1, Żyrardów
+143802, 3, Mszczonów
+143802, 4, Mszczonów miasto
+143802, 5, Mszczonów obszar wiejski
+143803, 2, Puszcza Mariańska 
+143804, 2, Radziejowice 
+143805, 2, Wiskitki 
+146101, 1, M. Ostrołęka 
+146201, 1, M. Płock 
+146301, 1, M. Radom 
+146401, 1, M. Siedlce 
+146501, 1, M. st. Warszawa 
+146502, 8, Bemowo
+146503, 8, Białołęka
+146504, 8, Bielany  
+146505, 8, Mokotów  
+146506, 8, Ochota
+146507, 8, Praga-Południe  
+146508, 8, Praga-Północ 
+146509, 8, Rembertów
+146510, 8, Śródmieście
+146511, 8, Targówek 
+146512, 8, Ursus
+146513, 8, Ursynów  
+146514, 8, Wawer
+146515, 8, Wesoła
+146516, 8, Wilanów  
+146517, 8, Włochy
+146518, 8, Wola 
+146519, 8, Żoliborz 
+160101, 1, Brzeg
+160103, 3, Grodków
+160103, 4, Grodków miasto
+160103, 5, Grodków obszar wiejski
+160104, 3, Lewin Brzeski
+160104, 4, Lewin Brzeski miasto
+160104, 5, Lewin Brzeski obszar wiejski
+160105, 2, Lubsza
+160106, 2, Olszanka
+160102, 2, Skarbimierz
+160201, 3, Baborów
+160201, 4, Baborów miasto
+160201, 5, Baborów obszar wiejski
+160202, 2, Branice
+160203, 3, Głubczyce
+160203, 4, Głubczyce miasto
+160203, 5, Głubczyce obszar wiejski
+160204, 3, Kietrz
+160204, 4, Kietrz miasto
+160204, 5, Kietrz obszar wiejski
+160301, 1, Kędzierzyn-Koźle
+160302, 2, Bierawa
+160303, 2, Cisek
+160304, 2, Pawłowiczki
+160305, 2, Polska Cerekiew
+160306, 2, Reńska Wieś
+160401, 3, Byczyna
+160401, 4, Byczyna miasto
+160401, 5, Byczyna obszar wiejski
+160402, 3, Kluczbork
+160402, 4, Kluczbork miasto
+160402, 5, Kluczbork obszar wiejski
+160403, 2, Lasowice Wielkie
+160404, 3, Wołczyn
+160404, 4, Wołczyn miasto
+160404, 5, Wołczyn obszar wiejski
+160501, 3, Gogolin
+160501, 4, Gogolin miasto
+160501, 5, Gogolin obszar wiejski
+160502, 3, Krapkowice
+160502, 4, Krapkowice miasto
+160502, 5, Krapkowice obszar wiejski
+160503, 2, Strzeleczki
+160504, 2, Walce
+160505, 3, Zdzieszowice
+160505, 4, Zdzieszowice miasto
+160505, 5, Zdzieszowice obszar wiejski
+160601, 2, Domaszowice
+160602, 3, Namysłów
+160602, 4, Namysłów miasto
+160602, 5, Namysłów obszar wiejski
+160603, 2, Pokój
+160604, 2, Świerczów
+160605, 2, Wilków
+160701, 3, Głuchołazy
+160701, 4, Głuchołazy miasto
+160701, 5, Głuchołazy obszar wiejski
+160702, 2, Kamiennik
+160703, 3, Korfantów
+160703, 4, Korfantów miasto
+160703, 5, Korfantów obszar wiejski
+160704, 2, Łambinowice
+160705, 3, Nysa
+160705, 4, Nysa miasto
+160705, 5, Nysa obszar wiejski
+160706, 3, Otmuchów
+160706, 4, Otmuchów miasto
+160706, 5, Otmuchów obszar wiejski
+160707, 3, Paczków
+160707, 4, Paczków miasto
+160707, 5, Paczków obszar wiejski
+160708, 2, Pakosławice
+160709, 2, Skoroszyce
+160801, 3, Dobrodzień
+160801, 4, Dobrodzień miasto
+160801, 5, Dobrodzień obszar wiejski
+160802, 3, Gorzów Śląski
+160802, 4, Gorzów Śląski miasto
+160802, 5, Gorzów Śląski obszar wiejski
+160803, 3, Olesno
+160803, 4, Olesno miasto
+160803, 5, Olesno obszar wiejski
+160804, 3, Praszka
+160804, 4, Praszka miasto
+160804, 5, Praszka obszar wiejski
+160805, 2, Radłów
+160806, 2, Rudniki
+160807, 2, Zębowice
+160901, 2, Chrząstowice
+160902, 2, Dąbrowa
+160903, 2, Dobrzeń Wielki
+160904, 2, Komprachcice
+160905, 2, Łubniany
+160906, 2, Murów
+160907, 3, Niemodlin
+160907, 4, Niemodlin miasto
+160907, 5, Niemodlin obszar wiejski
+160908, 3, Ozimek
+160908, 4, Ozimek miasto
+160908, 5, Ozimek obszar wiejski
+160909, 2, Popielów
+160910, 2, Prószków
+160911, 2, Tarnów Opolski
+160912, 2, Tułowice
+160913, 2, Turawa
+161001, 3, Biała
+161001, 4, Biała miasto
+161001, 5, Biała obszar wiejski
+161002, 3, Głogówek
+161002, 4, Głogówek miasto
+161002, 5, Głogówek obszar wiejski
+161003, 2, Lubrza
+161004, 3, Prudnik
+161004, 4, Prudnik miasto
+161004, 5, Prudnik obszar wiejski
+161101, 2, Izbicko
+161102, 2, Jemielnica
+161103, 3, Kolonowskie
+161103, 4, Kolonowskie miasto
+161103, 5, Kolonowskie obszar wiejski
+161104, 3, Leśnica
+161104, 4, Leśnica miasto
+161104, 5, Leśnica obszar wiejski
+161105, 3, Strzelce Opolskie
+161105, 4, Strzelce Opolskie miasto
+161105, 5, Strzelce Opolskie obszar wiejski
+161106, 3, Ujazd
+161106, 4, Ujazd miasto
+161106, 5, Ujazd obszar wiejski
+161107, 3, Zawadzkie
+161107, 4, Zawadzkie miasto
+161107, 5, Zawadzkie obszar wiejski
+166101, 1, M. Opole
+180103, 2, Czarna
+180105, 2, Lutowiska
+180108, 3, Ustrzyki Dolne
+180108, 4, Ustrzyki Dolne miasto
+180108, 5, Ustrzyki Dolne obszar wiejski
+180201, 3, Brzozów
+180201, 4, Brzozów miasto
+180201, 5, Brzozów obszar wiejski
+180202, 2, Domaradz
+180203, 2, Dydnia
+180204, 2, Haczów
+180205, 2, Jasienica Rosielna
+180206, 2, Nozdrzec
+180301, 1, Dębica
+180302, 2, Brzostek
+180303, 2, Czarna
+180304, 2, Dębica
+180305, 2, Jodłowa
+180306, 3, Pilzno
+180306, 4, Pilzno miasto
+180306, 5, Pilzno obszar wiejski
+180307, 2, Żyraków
+180401, 1, Jarosław
+180402, 1, Radymno
+180403, 2, Chłopice
+180404, 2, Jarosław
+180405, 2, Laszki
+180406, 2, Pawłosiów
+180407, 2, Pruchnik 
+180408, 2, Radymno  
+180409, 2, Rokietnica 
+180410, 2, Roźwienica 
+180411, 2, Wiązownica 
+180501, 1, Jasło
+180502, 2, Brzyska  
+180503, 2, Dębowiec 
+180504, 2, Jasło
+180505, 2, Kołaczyce
+180506, 2, Krempna  
+180507, 2, Nowy Żmigród 
+180508, 2, Osiek Jasielski 
+180509, 2, Skołyszyn
+180511, 2, Tarnowiec
+180601, 2, Cmolas
+180606, 2, Dzikowiec
+180602, 3, Kolbuszowa
+180602, 4, Kolbuszowa miasto
+180602, 5, Kolbuszowa obszar wiejski
+180603, 2, Majdan Królewski
+180604, 2, Niwiska
+180605, 2, Raniżów
+180701, 2, Chorkówka
+180702, 3, Dukla
+180702, 4, Dukla miasto
+180702, 5, Dukla obszar wiejski
+180703, 3, Iwonicz-Zdrój
+180703, 4, Iwonicz-Zdrój miasto
+180703, 5, Iwonicz-Zdrój obszar wiejski
+180704, 3, Jedlicze
+180704, 4, Jedlicze miasto
+180704, 5, Jedlicze obszar wiejski
+180705, 2, Korczyna
+180706, 2, Krościenko Wyżne
+180707, 2, Miejsce Piastowe
+180708, 3, Rymanów
+180708, 4, Rymanów miasto
+180708, 5, Rymanów obszar wiejski
+180709, 2, Wojaszówka
+182101, 2, Baligród
+182102, 2, Cisna
+182103, 3, Lesko
+182103, 4, Lesko miasto
+182103, 5, Lesko obszar wiejski
+182104, 2, Olszanica
+182105, 2, Solina
+180801, 1, Leżajsk
+180802, 2, Grodzisko Dolne
+180803, 2, Kuryłówka
+180804, 2, Leżajsk
+180805, 3, Nowa Sarzyna
+180805, 4, Nowa Sarzyna miasto
+180805, 5, Nowa Sarzyna obszar wiejski
+180901, 1, Lubaczów
+180902, 3, Cieszanów
+180902, 4, Cieszanów miasto
+180902, 5, Cieszanów obszar wiejski
+180903, 2, Horyniec-Zdrój
+180904, 2, Lubaczów
+180905, 3, Narol
+180905, 4, Narol miasto
+180905, 5, Narol obszar wiejski
+180906, 3, Oleszyce
+180906, 4, Oleszyce miasto
+180906, 5, Oleszyce obszar wiejski
+180907, 2, Stary Dzików
+180908, 2, Wielkie Oczy
+181001, 1, Łańcut
+181002, 2, Białobrzegi
+181003, 2, Czarna
+181004, 2, Łańcut
+181005, 2, Markowa
+181006, 2, Rakszawa
+181007, 2, Żołynia
+181101, 1, Mielec
+181102, 2, Borowa
+181103, 2, Czermin
+181104, 2, Gawłuszowice
+181105, 2, Mielec
+181106, 2, Padew Narodowa
+181107, 2, Przecław
+181108, 3, Radomyśl Wielki
+181108, 4, Radomyśl Wielki miasto
+181108, 5, Radomyśl Wielki obszar wiejski
+181109, 2, Tuszów Narodowy
+181110, 2, Wadowice Górne
+181201, 2, Harasiuki
+181202, 2, Jarocin
+181203, 2, Jeżowe
+181204, 2, Krzeszów
+181205, 3, Nisko
+181205, 4, Nisko miasto
+181205, 5, Nisko obszar wiejski
+181206, 3, Rudnik nad Sanem
+181206, 4, Rudnik nad Sanem miasto
+181206, 5, Rudnik nad Sanem obszar wiejski
+181207, 3, Ulanów
+181207, 4, Ulanów miasto
+181207, 5, Ulanów obszar wiejski
+181301, 2, Bircza
+181302, 2, Dubiecko 
+181303, 2, Fredropol
+181304, 2, Krasiczyn
+181305, 2, Krzywcza 
+181306, 2, Medyka
+181307, 2, Orły 
+181308, 2, Przemyśl 
+181309, 2, Stubno
+181310, 2, Żurawica 
+181401, 1, Przeworsk
+181402, 2, Adamówka 
+181403, 2, Gać
+181404, 2, Jawornik Polski 
+181405, 3, Kańczuga 
+181405, 4, Kańczuga miasto
+181405, 5, Kańczuga obszar wiejski
+181406, 2, Przeworsk
+181407, 3, Sieniawa
+181407, 4, Sieniawa miasto
+181407, 5, Sieniawa obszar wiejski
+181408, 2, Tryńcza
+181409, 2, Zarzecze
+181501, 2, Iwierzyce
+181502, 2, Ostrów
+181503, 3, Ropczyce
+181503, 4, Ropczyce miasto
+181503, 5, Ropczyce obszar wiejski
+181504, 3, Sędziszów Małopolski
+181504, 4, Sędziszów Małopolski miasto
+181504, 5, Sędziszów Małopolski obszar wiejski
+181505, 2, Wielopole Skrzyńskie
+181601, 1, Dynów
+181602, 3, Błażowa
+181602, 4, Błażowa miasto
+181602, 5, Błażowa obszar wiejski
+181603, 2, Boguchwała
+181604, 2, Chmielnik
+181605, 2, Dynów
+181606, 3, Głogów Małopolski
+181606, 4, Głogów Małopolski miasto
+181606, 5, Głogów Małopolski obszar wiejski
+181607, 2, Hyżne
+181608, 2, Kamień
+181609, 2, Krasne
+181610, 2, Lubenia
+181611, 3, Sokołów Małopolski
+181611, 4, Sokołów Małopolski miasto
+181611, 5, Sokołów Małopolski obszar wiejski
+181612, 2, Świlcza
+181613, 2, Trzebownisko
+181614, 3, Tyczyn
+181614, 4, Tyczyn miasto
+181614, 5, Tyczyn obszar wiejski
+181701, 1, Sanok
+181702, 2, Besko
+181703, 2, Bukowsko
+181704, 2, Komańcza
+181705, 2, Sanok
+181706, 2, Tyrawa Wołoska
+181707, 3, Zagórz
+181707, 4, Zagórz miasto
+181707, 5, Zagórz obszar wiejski
+181708, 2, Zarszyn
+181801, 1, Stalowa Wola
+181802, 2, Bojanów
+181803, 2, Pysznica
+181804, 2, Radomyśl nad Sanem
+181805, 2, Zaklików
+181806, 2, Zaleszany
+181901, 2, Czudec
+181902, 2, Frysztak
+181903, 2, Niebylec
+181904, 3, Strzyżów
+181904, 4, Strzyżów miasto
+181904, 5, Strzyżów obszar wiejski
+181905, 2, Wiśniowa
+182001, 3, Baranów Sandomierski
+182001, 4, Baranów Sandomierski miasto
+182001, 5, Baranów Sandomierski obszar wiejski
+182002, 2, Gorzyce
+182003, 2, Grębów
+182004, 3, Nowa Dęba
+182004, 4, Nowa Dęba miasto
+182004, 5, Nowa Dęba obszar wiejski
+186101, 1, M. Krosno
+186201, 1, M. Przemyśl
+186301, 1, M. Rzeszów
+186401, 1, M. Tarnobrzeg
+200101, 1, Augustów
+200102, 2, Augustów
+200103, 2, Bargłów Kościelny
+200104, 3, Lipsk
+200104, 4, Lipsk miasto
+200104, 5, Lipsk obszar wiejski
+200105, 2, Nowinka
+200106, 2, Płaska
+200107, 2, Sztabin
+200201, 3, Choroszcz
+200201, 4, Choroszcz miasto
+200201, 5, Choroszcz obszar wiejski
+200202, 3, Czarna Białostocka
+200202, 4, Czarna Białostocka miasto
+200202, 5, Czarna Białostocka obszar wiejski
+200203, 2, Dobrzyniewo Duże
+200204, 2, Gródek
+200205, 2, Juchnowiec Kościelny
+200206, 3, Łapy
+200206, 4, Łapy miasto
+200206, 5, Łapy obszar wiejski
+200207, 2, Michałowo
+200208, 2, Poświętne
+200209, 3, Supraśl
+200209, 4, Supraśl miasto
+200209, 5, Supraśl obszar wiejski
+200210, 3, Suraż
+200210, 4, Suraż miasto
+200210, 5, Suraż obszar wiejski
+200211, 2, Turośń Kościelna
+200212, 3, Tykocin
+200212, 4, Tykocin miasto
+200212, 5, Tykocin obszar wiejski
+200213, 3, Wasilków
+200213, 4, Wasilków miasto
+200213, 5, Wasilków obszar wiejski
+200214, 3, Zabłudów
+200214, 4, Zabłudów miasto
+200214, 5, Zabłudów obszar wiejski
+200215, 2, Zawady
+200301, 1, Bielsk Podlaski
+200302, 1, Brańsk
+200303, 2, Bielsk Podlaski
+200304, 2, Boćki
+200305, 2, Brańsk
+200306, 2, Orla
+200307, 2, Rudka
+200308, 2, Wyszki
+200401, 1, Grajewo
+200402, 2, Grajewo
+200403, 2, Radziłów
+200404, 3, Rajgród
+200404, 4, Rajgród miasto
+200404, 5, Rajgród obszar wiejski
+200405, 3, Szczuczyn
+200405, 4, Szczuczyn miasto
+200405, 5, Szczuczyn obszar wiejski
+200406, 2, Wąsosz
+200501, 1, Hajnówka
+200502, 2, Białowieża
+200503, 2, Czeremcha
+200504, 2, Czyże
+200505, 2, Dubicze Cerkiewne
+200506, 2, Hajnówka
+200507, 3, Kleszczele
+200507, 4, Kleszczele miasto
+200507, 5, Kleszczele obszar wiejski
+200508, 2, Narew
+200509, 2, Narewka
+200601, 1, Kolno
+200602, 2, Grabowo
+200603, 2, Kolno
+200604, 2, Mały Płock
+200605, 3, Stawiski
+200605, 4, Stawiski miasto
+200605, 5, Stawiski obszar wiejski
+200606, 2, Turośl
+200701, 3, Jedwabne
+200701, 4, Jedwabne miasto
+200701, 5, Jedwabne obszar wiejski
+200702, 2, Łomża
+200703, 2, Miastkowo
+200704, 3, Nowogród
+200704, 4, Nowogród miasto
+200704, 5, Nowogród obszar wiejski
+200705, 2, Piątnica
+200706, 2, Przytuły
+200707, 2, Śniadowo
+200708, 2, Wizna
+200709, 2, Zbójna
+200801, 3, Goniądz
+200801, 4, Goniądz miasto
+200801, 5, Goniądz obszar wiejski
+200802, 2, Jasionówka
+200803, 2, Jaświły
+200804, 3, Knyszyn
+200804, 4, Knyszyn miasto
+200804, 5, Knyszyn obszar wiejski
+200805, 2, Krypno
+200806, 3, Mońki
+200806, 4, Mońki miasto
+200806, 5, Mońki obszar wiejski
+200807, 2, Trzcianne
+200901, 1, Sejny
+200902, 2, Giby
+200903, 2, Krasnopol
+200904, 2, Puńsk
+200905, 2, Sejny
+201001, 1, Siemiatycze
+201002, 3, Drohiczyn
+201002, 4, Drohiczyn miasto
+201002, 5, Drohiczyn obszar wiejski
+201003, 2, Dziadkowice
+201004, 2, Grodzisk
+201005, 2, Mielnik
+201006, 2, Milejczyce
+201007, 2, Nurzec-Stacja
+201008, 2, Perlejewo
+201009, 2, Siemiatycze
+201101, 3, Dąbrowa Białostocka
+201101, 4, Dąbrowa Białostocka miasto
+201101, 5, Dąbrowa Białostocka obszar wiejski
+201102, 2, Janów
+201103, 2, Korycin
+201104, 2, Krynki
+201105, 2, Kuźnica
+201106, 2, Nowy Dwór
+201107, 2, Sidra
+201108, 3, Sokółka
+201108, 4, Sokółka miasto
+201108, 5, Sokółka obszar wiejski
+201109, 3, Suchowola
+201109, 4, Suchowola miasto
+201109, 5, Suchowola obszar wiejski
+201110, 2, Szudziałowo
+201201, 2, Bakałarzewo
+201202, 2, Filipów
+201203, 2, Jeleniewo
+201204, 2, Przerośl
+201205, 2, Raczki
+201206, 2, Rutka-Tartak
+201207, 2, Suwałki
+201208, 2, Szypliszki
+201209, 2, Wiżajny
+201301, 1, Wysokie Mazowieckie
+201302, 3, Ciechanowiec
+201302, 4, Ciechanowiec miasto
+201302, 5, Ciechanowiec obszar wiejski
+201303, 2, Czyżew-Osada
+201304, 2, Klukowo
+201305, 2, Kobylin-Borzymy
+201306, 2, Kulesze Kościelne
+201307, 2, Nowe Piekuty
+201308, 2, Sokoły
+201309, 2, Szepietowo
+201310, 2, Wysokie Mazowieckie
+201401, 1, Zambrów
+201402, 2, Kołaki Kościelne
+201403, 2, Rutki
+201404, 2, Szumowo
+201405, 2, Zambrów
+206101, 1, M. Białystok
+206201, 1, M. Łomża
+206301, 1, M. Suwałki
+220101, 2, Borzytuchom
+220102, 3, Bytów
+220102, 4, Bytów miasto
+220102, 5, Bytów obszar wiejski
+220103, 2, Czarna Dąbrówka
+220104, 2, Kołczygłowy
+220105, 2, Lipnica
+220106, 3, Miastko
+220106, 4, Miastko miasto
+220106, 5, Miastko obszar wiejski
+220107, 2, Parchowo
+220108, 2, Studzienice
+220109, 2, Trzebielino
+220110, 2, Tuchomie
+220201, 1, Chojnice
+220202, 3, Brusy
+220202, 4, Brusy miasto
+220202, 5, Brusy obszar wiejski
+220203, 2, Chojnice
+220204, 3, Czersk
+220204, 4, Czersk miasto
+220204, 5, Czersk obszar wiejski
+220205, 2, Konarzyny
+220301, 1, Człuchów
+220302, 3, Czarne
+220302, 4, Czarne miasto
+220302, 5, Czarne obszar wiejski
+220303, 2, Człuchów
+220304, 3, Debrzno
+220304, 4, Debrzno miasto
+220304, 5, Debrzno obszar wiejski
+220305, 2, Koczała
+220306, 2, Przechlewo
+220307, 2, Rzeczenica
+220401, 1, Pruszcz Gdański
+220402, 2, Cedry Wielkie
+220403, 2, Kolbudy
+220404, 2, Pruszcz Gdański
+220405, 2, Przywidz
+220406, 2, Pszczółki
+220407, 2, Suchy Dąb
+220408, 2, Trąbki Wielkie
+220501, 2, Chmielno
+220502, 3, Kartuzy
+220502, 4, Kartuzy miasto
+220502, 5, Kartuzy obszar wiejski
+220503, 2, Przodkowo
+220504, 2, Sierakowice
+220505, 2, Somonino
+220506, 2, Stężyca
+220507, 2, Sulęczyno
+220508, 3, Żukowo
+220508, 4, Żukowo miasto
+220508, 5, Żukowo obszar wiejski
+220601, 1, Kościerzyna
+220602, 2, Dziemiany
+220603, 2, Karsin
+220604, 2, Kościerzyna
+220605, 2, Liniewo
+220606, 2, Lipusz
+220607, 2, Nowa Karczma
+220608, 2, Stara Kiszewa
+220701, 1, Kwidzyn
+220702, 2, Gardeja
+220703, 2, Kwidzyn
+220704, 3, Prabuty
+220704, 4, Prabuty miasto
+220704, 5, Prabuty obszar wiejski
+220705, 2, Ryjewo
+220706, 2, Sadlinki
+220801, 1, Lębork
+220802, 1, Łeba
+220803, 2, Cewice
+220804, 2, Nowa Wieś Lęborska
+220805, 2, Wicko
+220901, 1, Malbork
+220903, 2, Lichnowy
+220904, 2, Malbork
+220906, 2, Miłoradz
+220907, 3, Nowy Staw
+220907, 4, Nowy Staw miasto
+220907, 5, Nowy Staw obszar wiejski
+220908, 2, Stare Pole
+221001, 1, Krynica Morska
+221002, 3, Nowy Dwór Gdański
+221002, 4, Nowy Dwór Gdański miasto
+221002, 5, Nowy Dwór Gdański obszar wiejski
+221003, 2, Ostaszewo
+221004, 2, Stegna
+221005, 2, Sztutowo
+221101, 1, Hel
+221102, 1, Jastarnia
+221103, 1, Puck
+221104, 1, Władysławowo
+221105, 2, Kosakowo
+221106, 2, Krokowa
+221107, 2, Puck
+221201, 1, Ustka
+221202, 2, Damnica
+221203, 2, Dębnica Kaszubska
+221204, 2, Główczyce
+221205, 3, Kępice
+221205, 4, Kępice miasto
+221205, 5, Kępice obszar wiejski
+221206, 2, Kobylnica
+221207, 2, Potęgowo
+221208, 2, Słupsk
+221209, 2, Smołdzino
+221210, 2, Ustka
+221301, 1, Czarna Woda
+221302, 1, Skórcz
+221303, 1, Starogard Gdański
+221304, 2, Bobowo
+221305, 2, Kaliska
+221306, 2, Lubichowo
+221307, 2, Osieczna
+221308, 2, Osiek
+221309, 3, Skarszewy
+221309, 4, Skarszewy miasto
+221309, 5, Skarszewy obszar wiejski
+221310, 2, Skórcz
+221311, 2, Smętowo Graniczne
+221312, 2, Starogard Gdański
+221313, 2, Zblewo
+221601, 3, Dzierzgoń
+221601, 4, Dzierzgoń miasto
+221601, 5, Dzierzgoń obszar wiejski
+221602, 2, Mikołajki Pomorskie
+221603, 2, Stary Dzierzgoń
+221604, 2, Stary Targ
+221605, 3, Sztum
+221605, 4, Sztum miasto
+221605, 5, Sztum obszar wiejski
+221401, 1, Tczew
+221402, 3, Gniew
+221402, 4, Gniew miasto
+221402, 5, Gniew obszar wiejski
+221403, 2, Morzeszczyn
+221404, 3, Pelplin
+221404, 4, Pelplin miasto
+221404, 5, Pelplin obszar wiejski
+221405, 2, Subkowy
+221406, 2, Tczew
+221501, 1, Reda
+221502, 1, Rumia
+221503, 1, Wejherowo
+221504, 2, Choczewo
+221505, 2, Gniewino
+221506, 2, Linia
+221507, 2, Luzino
+221508, 2, Łęczyce  
+221509, 2, Szemud
+221510, 2, Wejherowo
+226101, 1, M. Gdańsk
+226201, 1, M. Gdynia
+226301, 1, M. Słupsk
+226401, 1, M. Sopot 
+240101, 1, Będzin
+240102, 1, Czeladź  
+240108, 1, Sławków
+240103, 1, Wojkowice
+240104, 2, Bobrowniki
+240105, 2, Mierzęcice
+240106, 2, Psary
+240107, 3, Siewierz
+240107, 4, Siewierz miasto
+240107, 5, Siewierz obszar wiejski
+240201, 1, Szczyrk
+240202, 2, Bestwina
+240203, 2, Buczkowice
+240204, 3, Czechowice-Dziedzice
+240204, 4, Czechowice-Dziedzice miasto
+240204, 5, Czechowice-Dziedzice obszar wiejski
+240205, 2, Jasienica
+240206, 2, Jaworze
+240207, 2, Kozy
+240208, 2, Porąbka
+240209, 3, Wilamowice
+240209, 4, Wilamowice miasto
+240209, 5, Wilamowice obszar wiejski
+240210, 2, Wilkowice
+241401, 1, Bieruń
+241402, 1, Imielin
+241403, 1, Lędziny
+241404, 2, Bojszowy
+241405, 2, Chełm Śląski
+240301, 1, Cieszyn
+240302, 1, Ustroń
+240303, 1, Wisła
+240304, 2, Brenna
+240305, 2, Chybie
+240306, 2, Dębowiec
+240307, 2, Goleszów
+240308, 2, Hażlach
+240309, 2, Istebna
+240310, 3, Skoczów
+240310, 4, Skoczów miasto
+240310, 5, Skoczów obszar wiejski
+240311, 3, Strumień
+240311, 4, Strumień miasto
+240311, 5, Strumień obszar wiejski
+240312, 2, Zebrzydowice
+240401, 3, Blachownia
+240401, 4, Blachownia miasto
+240401, 5, Blachownia obszar wiejski
+240402, 2, Dąbrowa Zielona
+240403, 2, Janów
+240404, 2, Kamienica Polska
+240405, 2, Kłomnice
+240406, 3, Koniecpol
+240406, 4, Koniecpol miasto
+240406, 5, Koniecpol obszar wiejski
+240407, 2, Konopiska
+240408, 2, Kruszyna
+240409, 2, Lelów
+240410, 2, Mstów
+240411, 2, Mykanów
+240412, 2, Olsztyn
+240413, 2, Poczesna
+240414, 2, Przyrów
+240415, 2, Rędziny
+240416, 2, Starcza
+240501, 1, Knurów
+240502, 1, Pyskowice
+240503, 2, Gierałtowice
+240504, 2, Pilchowice
+240505, 2, Rudziniec
+240506, 3, Sośnicowice
+240506, 4, Sośnicowice miasto
+240506, 5, Sośnicowice obszar wiejski
+240507, 3, Toszek
+240507, 4, Toszek miasto
+240507, 5, Toszek obszar wiejski
+240508, 2, Wielowieś
+240601, 3, Kłobuck
+240601, 4, Kłobuck miasto
+240601, 5, Kłobuck obszar wiejski
+240602, 3, Krzepice
+240602, 4, Krzepice miasto
+240602, 5, Krzepice obszar wiejski
+240603, 2, Lipie
+240604, 2, Miedźno
+240605, 2, Opatów
+240606, 2, Panki
+240607, 2, Popów
+240608, 2, Przystajń
+240609, 2, Wręczyca Wielka
+240701, 1, Lubliniec
+240702, 2, Boronów
+240703, 2, Ciasna
+240704, 2, Herby
+240705, 2, Kochanowice
+240706, 2, Koszęcin
+240707, 2, Pawonków
+240708, 3, Woźniki
+240708, 4, Woźniki miasto
+240708, 5, Woźniki obszar wiejski
+240801, 1, Łaziska Górne
+240802, 1, Mikołów
+240803, 1, Orzesze
+240804, 2, Ornontowice
+240805, 2, Wyry
+240901, 1, Myszków
+240902, 3, Koziegłowy
+240902, 4, Koziegłowy miasto
+240902, 5, Koziegłowy obszar wiejski
+240903, 2, Niegowa
+240904, 2, Poraj
+240905, 3, Żarki
+240905, 4, Żarki miasto
+240905, 5, Żarki obszar wiejski
+241001, 2, Goczałkowice-Zdrój
+241002, 2, Kobiór
+241003, 2, Miedźna
+241004, 2, Pawłowice
+241005, 3, Pszczyna
+241005, 4, Pszczyna miasto
+241005, 5, Pszczyna obszar wiejski
+241006, 2, Suszec
+241101, 1, Racibórz
+241102, 2, Kornowac
+241103, 3, Krzanowice
+241103, 4, Krzanowice miasto
+241103, 5, Krzanowice obszar wiejski
+241104, 2, Krzyżanowice
+241105, 3, Kuźnia Raciborska
+241105, 4, Kuźnia Raciborska miasto
+241105, 5, Kuźnia Raciborska obszar wiejski
+241106, 2, Nędza
+241107, 2, Pietrowice Wielkie
+241108, 2, Rudnik
+241201, 3, Czerwionka-Leszczyny
+241201, 4, Czerwionka-Leszczyny miasto
+241201, 5, Czerwionka-Leszczyny obszar wiejski
+241202, 2, Gaszowice
+241203, 2, Jejkowice
+241204, 2, Lyski
+241205, 2, Świerklany
+241301, 1, Kalety
+241302, 1, Miasteczko Śląskie
+241303, 1, Radzionków
+241304, 1, Tarnowskie Góry
+241305, 2, Krupski Młyn
+241306, 2, Ożarowice
+241307, 2, Świerklaniec
+241308, 2, Tworóg
+241309, 2, Zbrosławice
+241501, 1, Pszów
+241502, 1, Radlin
+241503, 1, Rydułtowy
+241504, 1, Wodzisław Śląski
+241505, 2, Godów
+241506, 2, Gorzyce  
+241507, 2, Lubomia  
+241508, 2, Marklowice 
+241509, 2, Mszana
+241601, 1, Poręba
+241602, 1, Zawiercie
+241603, 2, Irządze  
+241604, 2, Kroczyce 
+241605, 3, Łazy
+241605, 4, Łazy miasto
+241605, 5, Łazy obszar wiejski
+241606, 3, Ogrodzieniec
+241606, 4, Ogrodzieniec miasto
+241606, 5, Ogrodzieniec obszar wiejski
+241607, 3, Pilica
+241607, 4, Pilica miasto
+241607, 5, Pilica obszar wiejski
+241608, 3, Szczekociny
+241608, 4, Szczekociny miasto
+241608, 5, Szczekociny obszar wiejski
+241609, 2, Włodowice
+241610, 2, Żarnowiec
+241701, 1, Żywiec
+241702, 2, Czernichów 
+241703, 2, Gilowice 
+241704, 2, Jeleśnia 
+241705, 2, Koszarawa
+241706, 2, Lipowa
+241707, 2, Łękawica 
+241708, 2, Łodygowice 
+241709, 2, Milówka  
+241710, 2, Radziechowy-Wieprz
+241711, 2, Rajcza
+241712, 2, Ślemień  
+241713, 2, Świnna
+241714, 2, Ujsoły
+241715, 2, Węgierska Górka 
+246101, 1, M. Bielsko-Biała
+246201, 1, M. Bytom 
+246301, 1, M. Chorzów 
+246401, 1, M. Częstochowa  
+246501, 1, M. Dąbrowa Górnicza
+246601, 1, M. Gliwice 
+246701, 1, M. Jastrzębie-Zdrój
+246801, 1, M. Jaworzno
+246901, 1, M. Katowice
+247001, 1, M. Mysłowice 
+247101, 1, M. Piekary Śląskie
+247201, 1, M. Ruda Śląska  
+247301, 1, M. Rybnik
+247401, 1, M. Siemianowice Śląskie 
+247501, 1, M. Sosnowiec 
+247601, 1, M. Świętochłowice 
+247701, 1, M. Tychy 
+247801, 1, M. Zabrze
+247901, 1, M. Żory
+260101, 3, Busko-Zdrój
+260101, 4, Busko-Zdrój miasto
+260101, 5, Busko-Zdrój obszar wiejski
+260102, 2, Gnojno
+260103, 2, Nowy Korczyn
+260104, 2, Pacanów
+260105, 2, Solec-Zdrój
+260106, 2, Stopnica
+260107, 2, Tuczępy
+260108, 2, Wiślica
+260201, 2, Imielno
+260202, 3, Jędrzejów
+260202, 4, Jędrzejów miasto
+260202, 5, Jędrzejów obszar wiejski
+260203, 3, Małogoszcz
+260203, 4, Małogoszcz miasto
+260203, 5, Małogoszcz obszar wiejski
+260204, 2, Nagłowice
+260205, 2, Oksa
+260206, 3, Sędziszów
+260206, 4, Sędziszów miasto
+260206, 5, Sędziszów obszar wiejski
+260207, 2, Słupia (Jędrzejowska)
+260208, 2, Sobków
+260209, 2, Wodzisław
+260301, 2, Bejsce
+260302, 2, Czarnocin
+260303, 3, Kazimierza Wielka
+260303, 4, Kazimierza Wielka miasto
+260303, 5, Kazimierza Wielka obszar wiejski
+260304, 2, Opatowiec
+260305, 3, Skalbmierz
+260305, 4, Skalbmierz miasto
+260305, 5, Skalbmierz obszar wiejski
+260401, 2, Bieliny
+260402, 3, Bodzentyn
+260402, 4, Bodzentyn miasto
+260402, 5, Bodzentyn obszar wiejski
+260403, 3, Chęciny
+260403, 4, Chęciny miasto
+260403, 5, Chęciny obszar wiejski
+260404, 3, Chmielnik
+260404, 4, Chmielnik miasto
+260404, 5, Chmielnik obszar wiejski
+260405, 2, Daleszyce
+260406, 2, Górno
+260407, 2, Łagów
+260408, 2, Łopuszno
+260409, 2, Masłów
+260410, 2, Miedziana Góra
+260411, 2, Mniów
+260412, 2, Morawica
+260413, 2, Nowa Słupia
+260414, 2, Piekoszów
+260415, 2, Pierzchnica
+260416, 2, Raków
+260417, 2, Sitkówka-Nowiny
+260418, 2, Strawczyn
+260419, 2, Zagnańsk
+260501, 2, Fałków
+260502, 2, Gowarczów
+260503, 3, Końskie
+260503, 4, Końskie miasto
+260503, 5, Końskie obszar wiejski
+260504, 2, Radoszyce
+260505, 2, Ruda Maleniecka
+260506, 2, Słupia (Konecka)
+260507, 2, Smyków
+260508, 3, Stąporków
+260508, 4, Stąporków miasto
+260508, 5, Stąporków obszar wiejski
+260601, 2, Baćkowice
+260602, 2, Iwaniska
+260603, 2, Lipnik
+260604, 3, Opatów
+260604, 4, Opatów miasto
+260604, 5, Opatów obszar wiejski
+260605, 3, Ożarów
+260605, 4, Ożarów miasto
+260605, 5, Ożarów obszar wiejski
+260606, 2, Sadowie
+260607, 2, Tarłów
+260608, 2, Wojciechowice
+260701, 1, Ostrowiec Świętokrzyski
+260702, 2, Bałtów
+260703, 2, Bodzechów
+260704, 3, Ćmielów
+260704, 4, Ćmielów miasto
+260704, 5, Ćmielów obszar wiejski
+260705, 3, Kunów
+260705, 4, Kunów miasto
+260705, 5, Kunów obszar wiejski
+260706, 2, Waśniów
+260801, 3, Działoszyce
+260801, 4, Działoszyce miasto
+260801, 5, Działoszyce obszar wiejski
+260802, 2, Kije
+260803, 2, Michałów
+260804, 3, Pińczów
+260804, 4, Pińczów miasto
+260804, 5, Pińczów obszar wiejski
+260805, 2, Złota
+260901, 1, Sandomierz
+260902, 2, Dwikozy
+260903, 2, Klimontów
+260904, 3, Koprzywnica
+260904, 4, Koprzywnica miasto
+260904, 5, Koprzywnica obszar wiejski
+260905, 2, Łoniów
+260906, 2, Obrazów
+260907, 2, Samborzec
+260908, 2, Wilczyce
+260909, 3, Zawichost
+260909, 4, Zawichost miasto
+260909, 5, Zawichost obszar wiejski
+261001, 1, Skarżysko-Kamienna
+261002, 2, Bliżyn
+261003, 2, Łączna
+261004, 2, Skarżysko Kościelne
+261005, 3, Suchedniów
+261005, 4, Suchedniów miasto
+261005, 5, Suchedniów obszar wiejski
+261101, 1, Starachowice
+261102, 2, Brody
+261103, 2, Mirzec
+261104, 2, Pawłów
+261105, 3, Wąchock
+261105, 4, Wąchock miasto
+261105, 5, Wąchock obszar wiejski
+261201, 2, Bogoria
+261202, 2, Łubnice
+261203, 2, Oleśnica
+261204, 3, Osiek
+261204, 4, Osiek miasto
+261204, 5, Osiek obszar wiejski
+261205, 3, Połaniec
+261205, 4, Połaniec miasto
+261205, 5, Połaniec obszar wiejski
+261206, 2, Rytwiany
+261207, 3, Staszów
+261207, 4, Staszów miasto
+261207, 5, Staszów obszar wiejski
+261208, 2, Szydłów
+261301, 2, Kluczewsko
+261302, 2, Krasocin
+261303, 2, Moskorzew
+261304, 2, Radków
+261305, 2, Secemin
+261306, 3, Włoszczowa
+261306, 4, Włoszczowa miasto
+261306, 5, Włoszczowa obszar wiejski
+266101, 1, M. Kielce
+280101, 1, Bartoszyce
+280102, 1, Górowo Iławeckie
+280103, 2, Bartoszyce
+280104, 3, Bisztynek
+280104, 4, Bisztynek miasto
+280104, 5, Bisztynek obszar wiejski
+280105, 2, Górowo Iławeckie
+280106, 3, Sępopol
+280106, 4, Sępopol miasto
+280106, 5, Sępopol obszar wiejski
+280201, 1, Braniewo
+280202, 2, Braniewo
+280203, 3, Frombork
+280203, 4, Frombork miasto
+280203, 5, Frombork obszar wiejski
+280204, 2, Lelkowo
+280205, 3, Pieniężno
+280205, 4, Pieniężno miasto
+280205, 5, Pieniężno obszar wiejski
+280206, 2, Płoskinia
+280207, 2, Wilczęta
+280301, 1, Działdowo
+280302, 2, Działdowo
+280303, 2, Iłowo-Osada
+280304, 3, Lidzbark
+280304, 4, Lidzbark miasto
+280304, 5, Lidzbark obszar wiejski
+280305, 2, Płośnica
+280306, 2, Rybno
+280401, 2, Elbląg
+280402, 2, Godkowo
+280403, 2, Gronowo Elbląskie
+280404, 2, Markusy
+280405, 2, Milejewo
+280406, 3, Młynary
+280406, 4, Młynary miasto
+280406, 5, Młynary obszar wiejski
+280407, 3, Pasłęk
+280407, 4, Pasłęk miasto
+280407, 5, Pasłęk obszar wiejski
+280408, 2, Rychliki
+280409, 3, Tolkmicko
+280409, 4, Tolkmicko miasto
+280409, 5, Tolkmicko obszar wiejski
+280501, 1, Ełk
+280502, 2, Ełk
+280503, 2, Kalinowo
+280504, 2, Prostki
+280505, 2, Stare Juchy
+280601, 1, Giżycko
+280604, 2, Giżycko
+280605, 2, Kruklanki
+280606, 2, Miłki
+280608, 3, Ryn
+280608, 4, Ryn miasto
+280608, 5, Ryn obszar wiejski
+280610, 2, Wydminy
+281801, 2, Banie Mazurskie
+281802, 2, Dubeninki
+281803, 3, Gołdap
+281803, 4, Gołdap miasto
+281803, 5, Gołdap obszar wiejski
+280701, 1, Iława
+280702, 1, Lubawa
+280703, 2, Iława
+280704, 3, Kisielice
+280704, 4, Kisielice miasto
+280704, 5, Kisielice obszar wiejski
+280705, 2, Lubawa
+280706, 3, Susz
+280706, 4, Susz miasto
+280706, 5, Susz obszar wiejski
+280707, 3, Zalewo
+280707, 4, Zalewo miasto
+280707, 5, Zalewo obszar wiejski
+280801, 1, Kętrzyn
+280802, 2, Barciany
+280803, 2, Kętrzyn
+280804, 3, Korsze
+280804, 4, Korsze miasto
+280804, 5, Korsze obszar wiejski
+280805, 3, Reszel
+280805, 4, Reszel miasto
+280805, 5, Reszel obszar wiejski
+280806, 2, Srokowo
+280901, 1, Lidzbark Warmiński
+280902, 2, Kiwity
+280903, 2, Lidzbark Warmiński
+280904, 2, Lubomino
+280905, 3, Orneta
+280905, 4, Orneta miasto
+280905, 5, Orneta obszar wiejski
+281001, 1, Mrągowo
+281002, 3, Mikołajki
+281002, 4, Mikołajki miasto
+281002, 5, Mikołajki obszar wiejski
+281003, 2, Mrągowo
+281004, 2, Piecki
+281005, 2, Sorkwity
+281101, 2, Janowiec Kościelny
+281102, 2, Janowo
+281103, 2, Kozłowo
+281104, 3, Nidzica
+281104, 4, Nidzica miasto
+281104, 5, Nidzica obszar wiejski
+281201, 1, Nowe Miasto Lubawskie
+281202, 2, Biskupiec
+281203, 2, Grodziczno
+281204, 2, Kurzętnik
+281205, 2, Nowe Miasto Lubawskie
+281303, 2, Kowale Oleckie
+281304, 3, Olecko
+281304, 4, Olecko miasto
+281304, 5, Olecko obszar wiejski
+281305, 2, Świętajno
+281306, 2, Wieliczki
+281401, 3, Barczewo
+281401, 4, Barczewo miasto
+281401, 5, Barczewo obszar wiejski
+281402, 3, Biskupiec
+281402, 4, Biskupiec miasto
+281402, 5, Biskupiec obszar wiejski
+281403, 3, Dobre Miasto
+281403, 4, Dobre Miasto miasto
+281403, 5, Dobre Miasto obszar wiejski
+281404, 2, Dywity
+281405, 2, Gietrzwałd
+281406, 3, Jeziorany
+281406, 4, Jeziorany miasto
+281406, 5, Jeziorany obszar wiejski
+281407, 2, Jonkowo
+281408, 2, Kolno
+281409, 3, Olsztynek
+281409, 4, Olsztynek miasto
+281409, 5, Olsztynek obszar wiejski
+281410, 2, Purda
+281411, 2, Stawiguda
+281412, 2, Świątki
+281501, 1, Ostróda
+281502, 2, Dąbrówno
+281503, 2, Grunwald
+281504, 2, Łukta
+281505, 2, Małdyty
+281506, 3, Miłakowo
+281506, 4, Miłakowo miasto
+281506, 5, Miłakowo obszar wiejski
+281507, 3, Miłomłyn
+281507, 4, Miłomłyn miasto
+281507, 5, Miłomłyn obszar wiejski
+281508, 3, Morąg
+281508, 4, Morąg miasto
+281508, 5, Morąg obszar wiejski
+281509, 2, Ostróda
+281601, 3, Biała Piska
+281601, 4, Biała Piska miasto
+281601, 5, Biała Piska obszar wiejski
+281602, 3, Orzysz
+281602, 4, Orzysz miasto
+281602, 5, Orzysz obszar wiejski
+281603, 3, Pisz
+281603, 4, Pisz miasto
+281603, 5, Pisz obszar wiejski
+281604, 3, Ruciane-Nida
+281604, 4, Ruciane-Nida miasto
+281604, 5, Ruciane-Nida obszar wiejski
+281701, 1, Szczytno
+281702, 2, Dźwierzuty
+281703, 2, Jedwabno
+281704, 3, Pasym
+281704, 4, Pasym miasto
+281704, 5, Pasym obszar wiejski
+281705, 2, Rozogi
+281706, 2, Szczytno
+281707, 2, Świętajno
+281708, 2, Wielbark
+281901, 2, Budry
+281902, 2, Pozezdrze
+281903, 3, Węgorzewo
+281903, 4, Węgorzewo miasto
+281903, 5, Węgorzewo obszar wiejski
+286101, 1, M. Elbląg
+286201, 1, M. Olsztyn
+300101, 1, Chodzież
+300102, 2, Budzyń
+300103, 2, Chodzież
+300104, 3, Margonin
+300104, 4, Margonin miasto
+300104, 5, Margonin obszar wiejski
+300105, 3, Szamocin
+300105, 4, Szamocin miasto
+300105, 5, Szamocin obszar wiejski
+300201, 1, Czarnków
+300202, 2, Czarnków
+300203, 2, Drawsko
+300204, 3, Krzyż Wielkopolski
+300204, 4, Krzyż Wielkopolski miasto
+300204, 5, Krzyż Wielkopolski obszar wiejski
+300205, 2, Lubasz
+300206, 2, Połajewo
+300207, 3, Trzcianka
+300207, 4, Trzcianka miasto
+300207, 5, Trzcianka obszar wiejski
+300208, 3, Wieleń
+300208, 4, Wieleń miasto
+300208, 5, Wieleń obszar wiejski
+300301, 1, Gniezno
+300302, 3, Czerniejewo
+300302, 4, Czerniejewo miasto
+300302, 5, Czerniejewo obszar wiejski
+300303, 2, Gniezno
+300304, 2, Kiszkowo
+300305, 3, Kłecko
+300305, 4, Kłecko miasto
+300305, 5, Kłecko obszar wiejski
+300306, 2, Łubowo
+300307, 2, Mieleszyn
+300308, 2, Niechanowo
+300309, 3, Trzemeszno
+300309, 4, Trzemeszno miasto
+300309, 5, Trzemeszno obszar wiejski
+300310, 3, Witkowo
+300310, 4, Witkowo miasto
+300310, 5, Witkowo obszar wiejski
+300401, 3, Borek Wielkopolski
+300401, 4, Borek Wielkopolski miasto
+300401, 5, Borek Wielkopolski obszar wiejski
+300402, 3, Gostyń
+300402, 4, Gostyń miasto
+300402, 5, Gostyń obszar wiejski
+300403, 3, Krobia
+300403, 4, Krobia miasto
+300403, 5, Krobia obszar wiejski
+300404, 2, Pępowo
+300405, 2, Piaski
+300406, 3, Pogorzela
+300406, 4, Pogorzela miasto
+300406, 5, Pogorzela obszar wiejski
+300407, 3, Poniec
+300407, 4, Poniec miasto
+300407, 5, Poniec obszar wiejski
+300501, 2, Granowo
+300502, 3, Grodzisk Wielkopolski
+300502, 4, Grodzisk Wielkopolski miasto
+300502, 5, Grodzisk Wielkopolski obszar wiejski
+300503, 2, Kamieniec
+300504, 3, Rakoniewice
+300504, 4, Rakoniewice miasto
+300504, 5, Rakoniewice obszar wiejski
+300505, 3, Wielichowo
+300505, 4, Wielichowo miasto
+300505, 5, Wielichowo obszar wiejski
+300601, 2, Jaraczewo
+300602, 3, Jarocin
+300602, 4, Jarocin miasto
+300602, 5, Jarocin obszar wiejski
+300603, 2, Kotlin
+300604, 3, Żerków
+300604, 4, Żerków miasto
+300604, 5, Żerków obszar wiejski
+300701, 2, Blizanów
+300702, 2, Brzeziny
+300703, 2, Ceków-Kolonia
+300704, 2, Godziesze Wielkie
+300705, 2, Koźminek
+300706, 2, Lisków
+300707, 2, Mycielin
+300708, 2, Opatówek
+300709, 3, Stawiszyn
+300709, 4, Stawiszyn miasto
+300709, 5, Stawiszyn obszar wiejski
+300710, 2, Szczytniki
+300711, 2, Żelazków
+300801, 2, Baranów
+300802, 2, Bralin
+300803, 3, Kępno
+300803, 4, Kępno miasto
+300803, 5, Kępno obszar wiejski
+300804, 2, Łęka Opatowska
+300805, 2, Perzów
+300806, 2, Rychtal
+300807, 2, Trzcinica
+300901, 1, Koło
+300902, 2, Babiak
+300903, 2, Chodów
+300904, 3, Dąbie
+300904, 4, Dąbie miasto
+300904, 5, Dąbie obszar wiejski
+300905, 2, Grzegorzew
+300906, 3, Kłodawa
+300906, 4, Kłodawa miasto
+300906, 5, Kłodawa obszar wiejski
+300907, 2, Koło
+300908, 2, Kościelec
+300909, 2, Olszówka
+300910, 2, Osiek Mały
+300911, 3, Przedecz
+300911, 4, Przedecz miasto
+300911, 5, Przedecz obszar wiejski
+301001, 3, Golina
+301001, 4, Golina miasto
+301001, 5, Golina obszar wiejski
+301002, 2, Grodziec
+301003, 2, Kazimierz Biskupi
+301004, 3, Kleczew
+301004, 4, Kleczew miasto
+301004, 5, Kleczew obszar wiejski
+301005, 2, Kramsk
+301006, 2, Krzymów
+301007, 3, Rychwał
+301007, 4, Rychwał miasto
+301007, 5, Rychwał obszar wiejski
+301008, 2, Rzgów
+301009, 2, Skulsk
+301010, 3, Sompolno
+301010, 4, Sompolno miasto
+301010, 5, Sompolno obszar wiejski
+301011, 2, Stare Miasto
+301012, 3, Ślesin
+301012, 4, Ślesin miasto
+301012, 5, Ślesin obszar wiejski
+301013, 2, Wierzbinek
+301014, 2, Wilczyn
+301101, 1, Kościan
+301102, 3, Czempiń
+301102, 4, Czempiń miasto
+301102, 5, Czempiń obszar wiejski
+301103, 2, Kościan
+301104, 3, Krzywiń
+301104, 4, Krzywiń miasto
+301104, 5, Krzywiń obszar wiejski
+301105, 3, Śmigiel
+301105, 4, Śmigiel miasto
+301105, 5, Śmigiel obszar wiejski
+301201, 1, Sulmierzyce
+301202, 3, Kobylin
+301202, 4, Kobylin miasto
+301202, 5, Kobylin obszar wiejski
+301203, 3, Koźmin Wielkopolski
+301203, 4, Koźmin Wielkopolski miasto
+301203, 5, Koźmin Wielkopolski obszar wiejski
+301204, 3, Krotoszyn
+301204, 4, Krotoszyn miasto
+301204, 5, Krotoszyn obszar wiejski
+301205, 2, Rozdrażew
+301206, 3, Zduny
+301206, 4, Zduny miasto
+301206, 5, Zduny obszar wiejski
+301301, 2, Krzemieniewo
+301302, 2, Lipno
+301303, 3, Osieczna
+301303, 4, Osieczna miasto
+301303, 5, Osieczna obszar wiejski
+301304, 3, Rydzyna
+301304, 4, Rydzyna miasto
+301304, 5, Rydzyna obszar wiejski
+301305, 2, Święciechowa
+301306, 2, Wijewo
+301307, 2, Włoszakowice
+301401, 2, Chrzypsko Wielkie
+301402, 2, Kwilcz
+301403, 3, Międzychód
+301403, 4, Międzychód miasto
+301403, 5, Międzychód obszar wiejski
+301404, 3, Sieraków
+301404, 4, Sieraków miasto
+301404, 5, Sieraków obszar wiejski
+301501, 2, Kuślin
+301502, 3, Lwówek
+301502, 4, Lwówek miasto
+301502, 5, Lwówek obszar wiejski
+301503, 2, Miedzichowo
+301504, 3, Nowy Tomyśl
+301504, 4, Nowy Tomyśl miasto
+301504, 5, Nowy Tomyśl obszar wiejski
+301505, 3, Opalenica
+301505, 4, Opalenica miasto
+301505, 5, Opalenica obszar wiejski
+301506, 3, Zbąszyń
+301506, 4, Zbąszyń miasto
+301506, 5, Zbąszyń obszar wiejski
+301601, 3, Oborniki
+301601, 4, Oborniki miasto
+301601, 5, Oborniki obszar wiejski
+301602, 3, Rogoźno
+301602, 4, Rogoźno miasto
+301602, 5, Rogoźno obszar wiejski
+301603, 2, Ryczywół
+301701, 1, Ostrów Wielkopolski
+301702, 3, Nowe Skalmierzyce
+301702, 4, Nowe Skalmierzyce miasto
+301702, 5, Nowe Skalmierzyce obszar wiejski
+301703, 3, Odolanów
+301703, 4, Odolanów miasto
+301703, 5, Odolanów obszar wiejski
+301704, 2, Ostrów Wielkopolski
+301705, 2, Przygodzice
+301706, 3, Raszków
+301706, 4, Raszków miasto
+301706, 5, Raszków obszar wiejski
+301707, 2, Sieroszewice
+301708, 2, Sośnie
+301801, 2, Czajków
+301802, 2, Doruchów
+301803, 3, Grabów nad Prosną
+301803, 4, Grabów nad Prosną miasto
+301803, 5, Grabów nad Prosną obszar wiejski
+301804, 2, Kobyla Góra
+301805, 2, Kraszewice
+301806, 3, Mikstat
+301806, 4, Mikstat miasto
+301806, 5, Mikstat obszar wiejski
+301807, 3, Ostrzeszów
+301807, 4, Ostrzeszów miasto
+301807, 5, Ostrzeszów obszar wiejski
+301901, 1, Piła
+301902, 2, Białośliwie
+301903, 2, Kaczory
+301904, 3, Łobżenica
+301904, 4, Łobżenica miasto
+301904, 5, Łobżenica obszar wiejski
+301905, 2, Miasteczko Krajeńskie
+301906, 2, Szydłowo
+301907, 3, Ujście
+301907, 4, Ujście miasto
+301907, 5, Ujście obszar wiejski
+301908, 3, Wyrzysk
+301908, 4, Wyrzysk miasto
+301908, 5, Wyrzysk obszar wiejski
+301909, 3, Wysoka
+301909, 4, Wysoka miasto
+301909, 5, Wysoka obszar wiejski
+302001, 2, Chocz
+302002, 2, Czermin
+302003, 2, Dobrzyca
+302004, 2, Gizałki
+302005, 2, Gołuchów
+302006, 3, Pleszew
+302006, 4, Pleszew miasto
+302006, 5, Pleszew obszar wiejski
+302101, 1, Luboń
+302102, 1, Puszczykowo
+302103, 3, Buk
+302103, 4, Buk miasto
+302103, 5, Buk obszar wiejski
+302104, 2, Czerwonak
+302105, 2, Dopiewo
+302106, 2, Kleszczewo
+302107, 2, Komorniki
+302108, 3, Kostrzyn
+302108, 4, Kostrzyn miasto
+302108, 5, Kostrzyn obszar wiejski
+302109, 3, Kórnik
+302109, 4, Kórnik miasto
+302109, 5, Kórnik obszar wiejski
+302110, 3, Mosina
+302110, 4, Mosina miasto
+302110, 5, Mosina obszar wiejski
+302111, 3, Murowana Goślina
+302111, 4, Murowana Goślina miasto
+302111, 5, Murowana Goślina obszar wiejski
+302112, 3, Pobiedziska
+302112, 4, Pobiedziska miasto
+302112, 5, Pobiedziska obszar wiejski
+302113, 2, Rokietnica
+302114, 3, Stęszew
+302114, 4, Stęszew miasto
+302114, 5, Stęszew obszar wiejski
+302115, 2, Suchy Las
+302116, 3, Swarzędz
+302116, 4, Swarzędz miasto
+302116, 5, Swarzędz obszar wiejski
+302117, 2, Tarnowo Podgórne
+302201, 3, Bojanowo
+302201, 4, Bojanowo miasto
+302201, 5, Bojanowo obszar wiejski
+302202, 3, Jutrosin
+302202, 4, Jutrosin miasto
+302202, 5, Jutrosin obszar wiejski
+302203, 3, Miejska Górka
+302203, 4, Miejska Górka miasto
+302203, 5, Miejska Górka obszar wiejski
+302204, 2, Pakosław
+302205, 3, Rawicz
+302205, 4, Rawicz miasto
+302205, 5, Rawicz obszar wiejski
+302301, 1, Słupca
+302302, 2, Lądek
+302303, 2, Orchowo
+302304, 2, Ostrowite
+302305, 2, Powidz
+302306, 2, Słupca
+302307, 2, Strzałkowo
+302308, 3, Zagórów
+302308, 4, Zagórów miasto
+302308, 5, Zagórów obszar wiejski
+302401, 1, Obrzycko
+302402, 2, Duszniki
+302403, 2, Kaźmierz
+302404, 2, Obrzycko
+302405, 3, Ostroróg
+302405, 4, Ostroróg miasto
+302405, 5, Ostroróg obszar wiejski
+302406, 3, Pniewy
+302406, 4, Pniewy miasto
+302406, 5, Pniewy obszar wiejski
+302407, 3, Szamotuły
+302407, 4, Szamotuły miasto
+302407, 5, Szamotuły obszar wiejski
+302408, 3, Wronki
+302408, 4, Wronki miasto
+302408, 5, Wronki obszar wiejski
+302501, 2, Dominowo
+302502, 2, Krzykosy
+302503, 2, Nowe Miasto nad Wartą
+302504, 3, Środa Wielkopolska
+302504, 4, Środa Wielkopolska miasto
+302504, 5, Środa Wielkopolska obszar wiejski
+302505, 2, Zaniemyśl
+302601, 2, Brodnica
+302602, 3, Dolsk
+302602, 4, Dolsk miasto
+302602, 5, Dolsk obszar wiejski
+302603, 3, Książ Wielkopolski
+302603, 4, Książ Wielkopolski miasto
+302603, 5, Książ Wielkopolski obszar wiejski
+302604, 3, Śrem
+302604, 4, Śrem miasto
+302604, 5, Śrem obszar wiejski
+302701, 1, Turek
+302702, 2, Brudzew
+302703, 3, Dobra
+302703, 4, Dobra miasto
+302703, 5, Dobra obszar wiejski
+302704, 2, Kawęczyn
+302705, 2, Malanów
+302706, 2, Przykona
+302707, 3, Tuliszków
+302707, 4, Tuliszków miasto
+302707, 5, Tuliszków obszar wiejski
+302708, 2, Turek
+302709, 2, Władysławów
+302801, 1, Wągrowiec
+302802, 2, Damasławek
+302803, 3, Gołańcz
+302803, 4, Gołańcz miasto
+302803, 5, Gołańcz obszar wiejski
+302804, 2, Mieścisko
+302805, 3, Skoki
+302805, 4, Skoki miasto
+302805, 5, Skoki obszar wiejski
+302806, 2, Wapno
+302807, 2, Wągrowiec
+302901, 2, Przemęt
+302902, 2, Siedlec
+302903, 3, Wolsztyn
+302903, 4, Wolsztyn miasto
+302903, 5, Wolsztyn obszar wiejski
+303001, 2, Kołaczkowo
+303002, 3, Miłosław
+303002, 4, Miłosław miasto
+303002, 5, Miłosław obszar wiejski
+303003, 3, Nekla
+303003, 4, Nekla miasto
+303003, 5, Nekla obszar wiejski
+303004, 3, Pyzdry
+303004, 4, Pyzdry miasto
+303004, 5, Pyzdry obszar wiejski
+303005, 3, Września
+303005, 4, Września miasto
+303005, 5, Września obszar wiejski
+303101, 1, Złotów
+303102, 3, Jastrowie
+303102, 4, Jastrowie miasto
+303102, 5, Jastrowie obszar wiejski
+303103, 3, Krajenka
+303103, 4, Krajenka miasto
+303103, 5, Krajenka obszar wiejski
+303104, 2, Lipka
+303105, 3, Okonek
+303105, 4, Okonek miasto
+303105, 5, Okonek obszar wiejski
+303106, 2, Tarnówka
+303107, 2, Zakrzewo
+303108, 2, Złotów
+306101, 1, M. Kalisz
+306201, 1, M. Konin
+306301, 1, M. Leszno
+306401, 1, M. Poznań
+306402, 9, Poznań-Grunwald
+306403, 9, Poznań-Jeżyce
+306404, 9, Poznań-Nowe Miasto
+306405, 9, Poznań-Stare Miasto
+306406, 9, Poznań-Wilda
+320101, 1, Białogard
+320102, 2, Białogard
+320103, 3, Karlino
+320103, 4, Karlino miasto
+320103, 5, Karlino obszar wiejski
+320104, 2, Tychowo
+320201, 2, Bierzwnik
+320202, 3, Choszczno
+320202, 4, Choszczno miasto
+320202, 5, Choszczno obszar wiejski
+320203, 3, Drawno
+320203, 4, Drawno miasto
+320203, 5, Drawno obszar wiejski
+320204, 2, Krzęcin
+320205, 3, Pełczyce
+320205, 4, Pełczyce miasto
+320205, 5, Pełczyce obszar wiejski
+320206, 3, Recz
+320206, 4, Recz miasto
+320206, 5, Recz obszar wiejski
+320301, 3, Czaplinek
+320301, 4, Czaplinek miasto
+320301, 5, Czaplinek obszar wiejski
+320302, 3, Drawsko Pomorskie
+320302, 4, Drawsko Pomorskie miasto
+320302, 5, Drawsko Pomorskie obszar wiejski
+320303, 3, Kalisz Pomorski
+320303, 4, Kalisz Pomorski miasto
+320303, 5, Kalisz Pomorski obszar wiejski
+320304, 2, Ostrowice
+320305, 2, Wierzchowo
+320306, 3, Złocieniec
+320306, 4, Złocieniec miasto
+320306, 5, Złocieniec obszar wiejski
+320402, 3, Goleniów
+320402, 4, Goleniów miasto
+320402, 5, Goleniów obszar wiejski
+320403, 3, Maszewo
+320403, 4, Maszewo miasto
+320403, 5, Maszewo obszar wiejski
+320404, 3, Nowogard
+320404, 4, Nowogard miasto
+320404, 5, Nowogard obszar wiejski
+320405, 2, Osina
+320406, 2, Przybiernów
+320407, 2, Stepnica
+320501, 2, Brojce
+320502, 3, Gryfice
+320502, 4, Gryfice miasto
+320502, 5, Gryfice obszar wiejski
+320503, 2, Karnice
+320504, 3, Płoty
+320504, 4, Płoty miasto
+320504, 5, Płoty obszar wiejski
+320507, 2, Rewal
+320508, 3, Trzebiatów
+320508, 4, Trzebiatów miasto
+320508, 5, Trzebiatów obszar wiejski
+320601, 2, Banie
+320602, 3, Cedynia
+320602, 4, Cedynia miasto
+320602, 5, Cedynia obszar wiejski
+320603, 3, Chojna
+320603, 4, Chojna miasto
+320603, 5, Chojna obszar wiejski
+320604, 3, Gryfino
+320604, 4, Gryfino miasto
+320604, 5, Gryfino obszar wiejski
+320605, 3, Mieszkowice
+320605, 4, Mieszkowice miasto
+320605, 5, Mieszkowice obszar wiejski
+320606, 3, Moryń
+320606, 4, Moryń miasto
+320606, 5, Moryń obszar wiejski
+320607, 2, Stare Czarnowo
+320608, 3, Trzcińsko-Zdrój
+320608, 4, Trzcińsko-Zdrój miasto
+320608, 5, Trzcińsko-Zdrój obszar wiejski
+320609, 2, Widuchowa
+320701, 2, Dziwnów
+320702, 3, Golczewo
+320702, 4, Golczewo miasto
+320702, 5, Golczewo obszar wiejski
+320703, 3, Kamień Pomorski
+320703, 4, Kamień Pomorski miasto
+320703, 5, Kamień Pomorski obszar wiejski
+320704, 3, Międzyzdroje
+320704, 4, Międzyzdroje miasto
+320704, 5, Międzyzdroje obszar wiejski
+320705, 2, Świerzno
+320706, 3, Wolin
+320706, 4, Wolin miasto
+320706, 5, Wolin obszar wiejski
+320801, 1, Kołobrzeg
+320802, 2, Dygowo
+320803, 2, Gościno
+320804, 2, Kołobrzeg
+320805, 2, Rymań
+320806, 2, Siemyśl
+320807, 2, Ustronie Morskie
+320901, 2, Będzino
+320902, 2, Biesiekierz
+320903, 3, Bobolice
+320903, 4, Bobolice miasto
+320903, 5, Bobolice obszar wiejski
+320904, 2, Manowo
+320905, 2, Mielno
+320906, 3, Polanów
+320906, 4, Polanów miasto
+320906, 5, Polanów obszar wiejski
+320907, 3, Sianów
+320907, 4, Sianów miasto
+320907, 5, Sianów obszar wiejski
+320908, 2, Świeszyno
+321801, 3, Dobra
+321801, 4, Dobra miasto
+321801, 5, Dobra obszar wiejski
+321802, 3, Łobez
+321802, 4, Łobez miasto
+321802, 5, Łobez obszar wiejski
+321803, 2, Radowo Małe
+321804, 3, Resko
+321804, 4, Resko miasto
+321804, 5, Resko obszar wiejski
+321805, 3, Węgorzyno
+321805, 4, Węgorzyno miasto
+321805, 5, Węgorzyno obszar wiejski
+321001, 3, Barlinek
+321001, 4, Barlinek miasto
+321001, 5, Barlinek obszar wiejski
+321002, 2, Boleszkowice
+321003, 3, Dębno
+321003, 4, Dębno miasto
+321003, 5, Dębno obszar wiejski
+321004, 3, Myślibórz
+321004, 4, Myślibórz miasto
+321004, 5, Myślibórz obszar wiejski
+321005, 2, Nowogródek Pomorski
+321101, 2, Dobra (Szczecińska)
+321102, 2, Kołbaskowo
+321103, 3, Nowe Warpno
+321103, 4, Nowe Warpno miasto
+321103, 5, Nowe Warpno obszar wiejski
+321104, 3, Police
+321104, 4, Police miasto
+321104, 5, Police obszar wiejski
+321201, 2, Bielice
+321202, 2, Kozielice
+321203, 3, Lipiany
+321203, 4, Lipiany miasto
+321203, 5, Lipiany obszar wiejski
+321204, 2, Przelewice
+321205, 3, Pyrzyce
+321205, 4, Pyrzyce miasto
+321205, 5, Pyrzyce obszar wiejski
+321206, 2, Warnice
+321301, 1, Darłowo
+321302, 1, Sławno
+321303, 2, Darłowo
+321304, 2, Malechowo
+321305, 2, Postomino
+321306, 2, Sławno
+321401, 1, Stargard Szczeciński
+321402, 3, Chociwel
+321402, 4, Chociwel miasto
+321402, 5, Chociwel obszar wiejski
+321403, 3, Dobrzany
+321403, 4, Dobrzany miasto
+321403, 5, Dobrzany obszar wiejski
+321404, 2, Dolice
+321405, 3, Ińsko
+321405, 4, Ińsko miasto
+321405, 5, Ińsko obszar wiejski
+321406, 2, Kobylanka
+321408, 2, Marianowo
+321409, 2, Stara Dąbrowa
+321410, 2, Stargard Szczeciński
+321411, 3, Suchań
+321411, 4, Suchań miasto
+321411, 5, Suchań obszar wiejski
+321501, 1, Szczecinek
+321502, 3, Barwice
+321502, 4, Barwice miasto
+321502, 5, Barwice obszar wiejski
+321503, 3, Biały Bór
+321503, 4, Biały Bór miasto
+321503, 5, Biały Bór obszar wiejski
+321504, 3, Borne Sulinowo
+321504, 4, Borne Sulinowo miasto
+321504, 5, Borne Sulinowo obszar wiejski
+321505, 2, Grzmiąca
+321506, 2, Szczecinek
+321601, 1, Świdwin
+321602, 2, Brzeżno
+321603, 3, Połczyn-Zdrój
+321603, 4, Połczyn-Zdrój miasto
+321603, 5, Połczyn-Zdrój obszar wiejski
+321604, 2, Rąbino
+321605, 2, Sławoborze
+321606, 2, Świdwin
+321701, 1, Wałcz
+321702, 3, Człopa
+321702, 4, Człopa miasto
+321702, 5, Człopa obszar wiejski
+321703, 3, Mirosławiec
+321703, 4, Mirosławiec miasto
+321703, 5, Mirosławiec obszar wiejski
+321704, 3, Tuczno
+321704, 4, Tuczno miasto
+321704, 5, Tuczno obszar wiejski
+321705, 2, Wałcz
+326101, 1, M. Koszalin
+326201, 1, M. Szczecin
+326301, 1, M. Świnoujście  

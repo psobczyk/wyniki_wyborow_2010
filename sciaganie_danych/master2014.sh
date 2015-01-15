@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 #przerabianie kodów GUSu
-sed -n 's/^.*<tr><td>\(.*\) <\/td><td>\(.*\) <\/td><td>\(.*\) <\/td><td>\(.*\) <\/td><td>\(.*\) <\/td><\/tr>.*$/\1, \2, \3, \4, \5/p' kody_GUS.html > kody_GUS.csv
+sed -n 's/^.*<tr><td>\(.*\) <\/td><td>\(.*\) <\/td><td>\(.*\) <\/td><td>\(.*\) <\/td><td>\(.*\) <\/td><\/tr>.*$/\1\2\3, \4, \5/p' gminy_powiaty.txt > kody_GUS.csv
 sed -n 's/^.*<tr bgcolor="ddeeff"><td>\(.*\) <\/td><td>\(.*\) <\/td><td> <\/td><td colspan=2>\(.*\) <\/td><\/tr>.*$/\1, \2, \3/p' gminy_powiaty.txt  > powiaty.csv
 
 #adresy stron
