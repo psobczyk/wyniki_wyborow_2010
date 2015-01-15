@@ -4,15 +4,11 @@
 #' http://www.pnas.org/content/109/41/16469.full.pdf+html
 #' 
 
-duze.partie <- unique(dane.plik$partia)[c(1,3,4,6)]
-dane.fsd <- dane.plik %>%
+duze.partie <- unique(dane$partia)[c(1,3,4,6)]
+dane.fsd <- dane %>%
   filter(partia %in% duze.partie,
-         wyborcy > 100) %>%
-  mutate(wynik       = 100*glosy/oddane,
-         niewazne    = 100*(1-wazne/oddane),
-         frekwencja  = 100*oddane/wyborcy,
-         wojewodztwo = lista.wojwodztw[floor(kod/10000)/2]) %>%
-  dplyr::select(wojewodztwo, wyborcy, frekwencja, niewazne, partia, wynik, glosy)
+         wyborcy > 500) %>%
+  dplyr::select(wojewodztwo, typ, wyborcy, frekwencja, niewazne, partia, wynik, glosy)
 
 neworder <- lista.wojwodztw[c(2,3,5,13,7,6, 10,9,4,8,14,16,11,12,15,1)]
 png("wyniki_frekwencja_2014.png", width = 1000, height = 1400)
@@ -83,5 +79,123 @@ ggplot(transform(dane.fsd,
   ylab("Poparcie w %") +
   ggtitle("Wyniki wyborów samorzadowych 2014")
 
-lm.fit3 <- lm(dane.fsd$wynik~dane.fsd$frekwencja*dane.fsd$niewazne*dane.fsd$partia)
-summary(lm.fit3) 
+
+#zależność frekwencji i glosów nieważnych
+cor(dane.fsd$frekwencja, dane.fsd$niewazne)
+cor.test(dane.fsd$frekwencja, dane.fsd$niewazne)
+dane.psl <- dane.fsd %>%
+  filter(partia=="Komitet Wyborczy Polskie Stronnictwo Ludowe")
+cor.test(dane.psl$wynik, dane.psl$niewazne)
+
+ggplot(transform(dane.fsd,
+                 wojewodztwo=factor(wojewodztwo,levels=neworder)), aes(y=wynik, x=niewazne)) + 
+  geom_point(shape=20, alpha=1/2, size = 1, col = "red") +  
+  facet_grid(partia~.)+
+  geom_smooth(method=lm, se=FALSE) +
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("Frekwencja w %") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+ggplot(transform(dane.fsd,
+                 wojewodztwo=factor(wojewodztwo,levels=neworder)), aes(y=niewazne, x=frekwencja)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("Frekwencja w %") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+treshold1 <- 30
+dane4 <- dane.fsd %>%
+  filter(niewazne>treshold1)
+
+ggplot(transform(dane4,
+                 wojewodztwo=factor(wojewodztwo,levels=neworder)), aes(y=niewazne, x=frekwencja)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("Frekwencja w %") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+ggplot(transform(dane4,
+                 wojewodztwo=factor(wojewodztwo,levels=neworder)), aes(y=wynik, x=niewazne)) + 
+  geom_point(shape=20, alpha=1/2, size = 1, col = "red") +  
+  facet_grid(partia~.)+
+  geom_smooth(method=lm, se=FALSE) +
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("Frekwencja w %") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+aggregate(dane4$wynik, by = list(dane4$partia), median)
+aggregate(dane.fsd$wynik, by = list(dane.fsd$partia), median)
+
+
+#po wielkosci komisji obwodowych
+wielkosc <- dane.fsd$wyborcy
+wielkosc[wielkosc<=800] <- 1
+wielkosc[wielkosc>1600] <- 3
+wielkosc[wielkosc>800] <- 2
+wielkosc <- as.factor(wielkosc)
+
+dane5 <- cbind(dane.fsd, wielkosc)
+dane5 <- dane5 %>%
+  filter(frekwencja>25,
+         frekwencja<75)
+  
+ggplot(dane5, aes(y=wynik, x=niewazne)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  facet_grid(wielkosc ~ partia)+
+  geom_smooth(method=lm, se=FALSE) +
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("Frekwencja w %") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+
+#po wielkosci frekwencji zalezność wynik~niewazne
+sd(dane.fsd$frekwencja)
+kwantyle <- quantile(dane.fsd$frekwencja, seq(.33,1, length.out = 3))
+poziom <- dane.fsd$frekwencja
+poziom[poziom<=kwantyle[1]] <- 1
+poziom[poziom>=kwantyle[2]] <- 3
+poziom[poziom>=kwantyle[1]] <- 2
+
+library(splines)
+dane6 <- cbind(dane.fsd, poziom)
+ggplot(dane6, aes(y=wynik, x=niewazne)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  facet_grid(poziom ~ partia)+
+  geom_smooth(method=gam, formula=y~ ns(x,3)) +
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("Frekwencja w %") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+
+#po typie gminy
+ggplot(dane.fsd, aes(y=wynik, x=niewazne)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  facet_grid(typ ~ partia)+
+  geom_smooth(method=gam, formula=y~ ns(x,3)) +
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("% głosów nieważnych") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+
+ggplot(dane.fsd, aes(y=wynik, x=frekwencja)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  facet_grid(typ ~ partia)+
+  geom_smooth(method=gam, formula=y~ ns(x,3)) +
+  theme(strip.text.y = element_text(size=12, face="bold"),
+        strip.background = element_rect(colour="red", fill="#CCCCFF")) +
+  xlab("% głosów nieważnych") +
+  ylab("Poparcie w %") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
