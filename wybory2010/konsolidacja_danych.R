@@ -13,8 +13,7 @@ dane_obwod <- read.table(paste0("wyniki/", miejsce, ".csv"), header = T,
 
 #UWAGA, wybieramy tylko 7 list zarejestrowanych ogólnopolsko, a więc takich, które
 #będą w każdym okręgu na mazowszu. To miejsce do rozszerzenia w przyszłości
-wyniki <- matrix(NA, ncol=10, nrow=n)
-colnames(wyniki) <- rownames(dane_obwod)[1:10]
+wyniki <- NULL
 for(i in 1:n) {
   miejsce <- obwody[i,7]
   miejsce <- gsub("/", "", miejsce)
@@ -24,15 +23,16 @@ for(i in 1:n) {
   #Rzecz do poprawienia w przyszłości
   try({
     dane_obwod <- read.table(paste0("wyniki/", miejsce, ".csv"), header = T,
-                           sep = ",", row.names = 2)
-    wyniki[i,] <- dane_obwod[1:10,2]}, silent = TRUE)
+                           sep = ",", row.names = 1)
+    wyniki <- rbind(wyniki, 
+      cbind( cbind(dane[i,], 
+                   t(dane_obwod[1:3, 2, drop=F]))[rep(1,nrow(dane_obwod)-3),],
+             dane_obwod[4:nrow(dane_obwod),1],
+             dane_obwod[4:nrow(dane_obwod),2]))}, silent = TRUE)
 }
 
-dane <- cbind(dane, wyniki)
-colnames(dane)[10:16] <- c("SLD", "PSL", "PPP","PO", "PIS", "NOP", "PR")
-colnames(dane)[1:9] <- c("Teryt", "wojewodztwo", " kodgminy", "gmina",
-                         "typ",  "obwod", "wyborcy", "oddane", "wazne")
-colnames(dane) <- tolower(colnames(dane))
-summary(dane)
-write.csv(dane, "wyniki_mazowsze.csv")
-
+colnames(wyniki) <- c("teryt", "wojewodztwo", " kodgminy", "gmina",
+                         "typ",  "obwod", "wyborcy", "oddane", "wazne", 
+                         "partia", "wynik")
+summary(wyniki)
+write.csv(wyniki, "mazowsze2010.csv")
