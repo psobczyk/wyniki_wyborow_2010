@@ -44,3 +44,5 @@ dane <- dane.plik %>%
          wynik       = 100*glosy/wazne,
          wojewodztwo = lista.wojwodztw[floor(kod/10000)/2]) %>%
   dplyr::select(kod, typ, wojewodztwo, powiat, wyborcy, frekwencja, niewazne, partia, wynik, glosy)
+
+# write.table(dane, "wyniki_end.csv", sep=",", row.names = FALSE, col.names = TRUE)

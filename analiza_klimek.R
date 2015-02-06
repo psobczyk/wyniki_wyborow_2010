@@ -180,6 +180,7 @@ ggplot(dane6, aes(y=wynik, x=niewazne)) +
 
 
 #po typie gminy
+png("wynik_partia_niewazne_typ.png", width = 850, height = 600)
 ggplot(dane.fsd, aes(y=wynik, x=niewazne)) + 
   geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
   facet_grid(typ ~ partia)+
@@ -189,13 +190,16 @@ ggplot(dane.fsd, aes(y=wynik, x=niewazne)) +
   xlab("% głosów nieważnych") +
   ylab("Poparcie w %") +
   ggtitle("Wyniki wyborów samorzadowych 2014")
+dev.off()
 
+png("wynik_partia_frekwencja_typ.png", width = 850, height = 600)
 ggplot(dane.fsd, aes(y=wynik, x=frekwencja)) + 
   geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
   facet_grid(typ ~ partia)+
   geom_smooth(method=gam, formula=y~ ns(x,3)) +
   theme(strip.text.y = element_text(size=12, face="bold"),
         strip.background = element_rect(colour="red", fill="#CCCCFF")) +
-  xlab("% głosów nieważnych") +
+  xlab("Frekwencja w %") +
   ylab("Poparcie w %") +
   ggtitle("Wyniki wyborów samorzadowych 2014")
+dev.off()

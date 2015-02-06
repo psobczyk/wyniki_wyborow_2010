@@ -7,6 +7,19 @@
 source("wczytywanie_danych.R")
 library(splines)
 
+void <- dane %>%
+  filter(wyborcy>500,
+         partia %in% duze.partie,
+         niewazne>0) %>%
+  dplyr::select(wojewodztwo, powiat, partia, wynik, niewazne) %>%
+  distinct
+mu <- mean(void$niewazne, na.rm = T)
+s <- sd(void$niewazne, na.rm = T)
+void[(void$niewazne>mu+4*s),]
+(1-pnorm(4))*25456
+
+a <- aggregate(dane$niewazne, by = list(dane$wojewodztwo), function(x) mean(x, na.rm=T))
+boxplot.default(a$x)
 # Jak frekwencja i głosy nieważne zależą od typu miejscowości
 dane %>%
   filter(wyborcy>100) %>%
@@ -78,14 +91,27 @@ duze.partie <- c("Komitet Wyborczy Polskie Stronnictwo Ludowe",
 dane %>%
   filter(partia %in% duze.partie,
          wyborcy > 500) %>%
-  select(typ, niewazne, partia, wynik) %>%
+  dplyr::select(typ, niewazne, partia, wynik) %>%
+  ggplot(aes(y=wynik, x=niewazne)) + 
+  geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
+  facet_grid(.~partia)+
+  geom_smooth(formula=y~ ns(x,3), method = "gam") +
+  xlab("Void votes %") +
+  ylab("Votes %") +
+  ggtitle("Polish local elections 2014 results") +
+  theme.basic
+
+dane %>%
+  filter(partia %in% duze.partie,
+         wyborcy > 500) %>%
+  dplyr::select(typ, niewazne, partia, wynik) %>%
   ggplot(aes(y=wynik, x=niewazne)) + 
     geom_point(shape=20, alpha=1/4, size = 0.5, col = "red") +  
-    facet_grid(typ ~ partia)+
+    facet_grid(partia ~ typ)+
     geom_smooth(formula=y~ ns(x,3), method = "gam") +
-    xlab("% głosów nieważnych") +
-    ylab("Poparcie w %") +
-    ggtitle("Wyniki wyborów samorzadowych 2014") +
+    xlab("Void votes %") +
+    ylab("Votes %") +
+    ggtitle("Polish local elections 2014 results") +
     theme.basic
 
 dane %>%
