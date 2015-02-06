@@ -1,0 +1,101 @@
+---
+title: "Różnice poparcia dla partii w ramach jednej gminy"
+author: "Piotr Sobczyk"
+date: "03.02.2015"
+output: html_document
+---
+```{r, message=FALSE, results='hide'}
+library(dplyr)
+library(ggplot2)
+```
+
+```{r, message=FALSE, results='hide'}
+dane <- read.csv("../wyniki_end.csv")
+summary(dane)
+```
+
+```{r, warning=FALSE}
+duze.partie <- unique(dane$partia)[c(1,3,4,6)]
+dane.diff <- dane %>%
+  filter(wyborcy > 500,
+         partia %in% duze.partie)
+```
+
+Teraz bardzo brzydkie bebechy.
+
+```{r, warning=FALSE}
+a <- aggregate(dane.diff$wynik, by=list(dane.diff$kod, dane.diff$partia), FUN = median)
+b <- aggregate(dane.diff$wynik, by=list(dane.diff$kod, dane.diff$partia), FUN = length)
+gmina.mediana <- NULL
+for(i in 1:nrow(a)){
+  gmina.mediana <- c(gmina.mediana, rep(a[i,3], b[i,3]))
+}
+
+dane.diff <- dane.diff %>%
+  arrange(partia, kod)
+dane.diff <- cbind(dane.diff, gmina.mediana)
+
+dane.diff <- dane.diff %>%
+  mutate(diff = wynik-gmina.mediana) %>%
+  dplyr::select(kod, typ, wojewodztwo, frekwencja, niewazne, partia, wynik, gmina.mediana, diff)
+```
+
+Teraz przeanalizujmy jakie odchyły mamy dla partii ogółem a jakie w 
+rozróżnieniu na różne typy miejscowości.
+
+```{r, warning=FALSE}
+ggplot(dane.diff, aes(x=diff)) + 
+  geom_density(alpha=.3, kernel="gau", colour="black", fill="gray") +
+  facet_grid(partia ~ .) +
+  scale_x_continuous(limits=c(-20, 20)) +
+  xlab("Poparcie w %") +
+  ylab("Liczba lokali wyborczych") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+```
+
+```{r, warning=FALSE, echo=FALSE}
+ggplot(dane.diff, aes(x=diff)) + 
+  geom_density(alpha=.3, kernel="gau", colour="black", fill="gray") +
+  facet_grid(partia ~ typ) +
+  scale_x_continuous(limits=c(-20, 20)) +
+  xlab("Poparcie w %") +
+  ylab("Liczba lokali wyborczych") +
+  ggtitle("Wyniki wyborów samorzadowych 2014")
+```
+
+```{r, echo=TRUE}
+non.zeros <- function(x){
+  x[x!=0]
+}
+diff.kwantyle <- quantile(dane.diff$diff, seq(from = 0, to = 1, by = 0.005))
+```
+
+```{r, warning=FALSE, echo=FALSE}
+ggplot(dane.diff, aes(x=partia, y=diff, fill=partia)) + 
+  geom_boxplot(notch = TRUE,notchwidth = 2, varwidth = TRUE) + guides(fill=FALSE) +
+  xlab("") + ylab("Różnica z medianą dla gminy")
+```
+
+```{r, warning=FALSE, echo=FALSE}
+ggplot(dane.diff, aes(x=partia, y=diff, fill=partia)) + 
+  geom_boxplot(notch = TRUE,notchwidth = 2, varwidth = TRUE) + guides(fill=FALSE) +
+  facet_grid(typ ~ .) +
+  xlab("") + ylab("Różnica z medianą dla gminy")
+```
+
+```{r}
+skrajne.duze <- non.zeros(table(dane.diff$partia[dane.diff$diff > diff.kwantyle[["99.0%"]]]))
+skrajne.male <- non.zeros(table(dane.diff$partia[dane.diff$diff < diff.kwantyle[["1.0%"]]]))
+skrajne.duze
+skrajne.male
+chisq.test(skrajne.duze, p = skrajne.male, rescale.p = TRUE)
+
+aggregate(dane.diff$diff, by = list(dane.diff$partia), mean)
+aggregate(dane.diff$diff, by = list(dane.diff$partia), sd)
+aggregate(dane.diff$diff, by = list(dane.diff$partia), function(x) quantile(x, 0.75)-quantile(x,0.25))
+```
+
+<!--
+aggregate(dane.diff$diff, by = list(dane.diff$partia), skewness)
+aggregate(dane.diff$diff, by = list(dane.diff$partia), kurtosis)
+-->
